@@ -48,5 +48,16 @@ var chartData = {
         }
     ]
 }
-
 ```
+
+###group
+This expression is used to group the charts dimension.
+
+```groupfunction(param1, param2,...)```
+
+groupfunction is the name of the function used to group the dimension.
+Each parameter must be a valid angular expression.
+
+####Available group functions
+* sum(value)
+  The sum functions sums up alle the values for the value expression for the dimension.
