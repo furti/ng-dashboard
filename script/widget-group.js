@@ -1,7 +1,7 @@
 (function(angular, crossfilter) {
     var ngDasbhoard = angular.module('ngDashboard');
 
-    ngDasbhoard.directive('chartGroup', [
+    ngDasbhoard.directive('widgetGroup', [
 
         function() {
 
@@ -20,9 +20,9 @@
                     }
                 ],
                 link: function(scope, element, attrs) {
-                    element.addClass('chart-group');
+                    element.addClass('widget-group');
                 },
-                templateUrl: './template/chartGroup.html'
+                templateUrl: './template/widgetGroup.html'
             };
         }
     ]);

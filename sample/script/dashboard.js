@@ -23,17 +23,21 @@
                     day: 3,
                     minutes: 30
                 }],
-                charts: [{
-                    title: 'Line Chart',
-                    type: 'line',
-                    width: 300,
-                    height: 100
-                }, {
+                widgets: [{
+                        title: 'Line Chart',
+                        type: 'line',
+                        width: 300,
+                        height: 100,
+                        dimension: 'd.day',
+                        group: 'sum({"value": "d.minutes"})'
+                    }
+                    /*, {
                     title: 'Bar Chart',
                     type: 'bar',
                     width: 200,
                     height: 200
-                }]
+                }*/
+                ]
             };
 
         }

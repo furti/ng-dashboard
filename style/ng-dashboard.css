@@ -1,10 +1,10 @@
-.chart-group {
+.widget-group {
     padding: 20px;
     display: block;
 }
-.chart-container {
+.widget-container {
     display: flex;
 }
-.chart {
+.widget {
     margin-right: 20px;
 }
