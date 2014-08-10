@@ -18,10 +18,35 @@ See [furti.github.io/ng-dashboard](http://furti.github.io/ng-dashboard) for a li
             title: '<title for the chart', //If specified a title is shown for the chart
             width: <width>, //The width of the chart in pixels.
             height: <height>, //The height of the chart in pixels
-            type: '<type>', //The chart type.
-            group: '<group expression>', //Expression that is used to group the dimension for the chart.
-            dimension: '<dimension expression>' //Expression that is used to create a dimension for the crossfilter
+            type: '<type>', //The chart type. NOT IMPLEMENTED YET
+            group: '<group expression>', //Expression that is used to group the dimension for the chart. NOT IMPLEMENTED YET
+            dimension: '<dimension expression>' //Expression that is used to create a dimension for the crossfilter. NOT IMPLEMENTED YET
         }
     ]
 }
+```
+
+###dimension
+The expression for a charts dimension can be any valid angular expression.
+It is used inside the value function of the crossfilter dimension to calculate the return value.
+Context for the expression is an object that contains the data object from crossfilter as the ```d``` property.
+
+Example that creates a dimension that uses the total payments.
+
+```javascript
+var chartData = {
+    name: 'payments',
+    title: 'Payments',
+    data: [
+        {date: "2011-11-14T16:17:54Z", quantity: 2, total: 190, tip: 100, type: "tab"}
+    ],
+    charts:  [
+        {
+            name: 'totalpayments',
+            title: 'Total Paymetns',
+            dimension: 'd.total'
+        }
+    ]
+}
+
 ```
