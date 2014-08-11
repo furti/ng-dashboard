@@ -6,6 +6,12 @@
         function() {
             var groupRegex = /^([^\(]*)\(([^\)]*)\).*$/;
 
+            var groupFunctionProviders = {};
+
+            this.addGroupFunctionProvider = function(functionName, provider) {
+                groupFunctionProviders[functionName] = provider;
+            };
+
 
             this.$get = ['$parse',
                 function($parse) {
@@ -19,8 +25,11 @@
                             var groupFunction = exParts[1];
                             var groupParams = prepareGroupParams($parse, exParts[2]);
 
-                            console.log(exParts);
-                            console.log(groupParams);
+                            if (!groupFunctionProviders[groupFunction]) {
+                                throw 'No groupfunction provider for ' + groupFunction + ' registered';
+                            }
+
+                            return groupFunctionProviders[groupFunction](groupParams);
                         }
                     };
                 }

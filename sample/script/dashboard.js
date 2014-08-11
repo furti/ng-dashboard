@@ -5,7 +5,7 @@
 
         function() {
             this.group = {
-                title: 'First Group',
+                title: 'Sports',
                 data: [{
                     sport: 'running',
                     day: 1,
@@ -24,12 +24,13 @@
                     minutes: 30
                 }],
                 widgets: [{
-                        title: 'Line Chart',
+                        title: 'Duration per Day',
                         type: 'line',
                         width: 300,
-                        height: 100,
+                        height: 150,
                         dimension: 'd.day',
-                        group: 'sum({"value": "d.minutes"})'
+                        group: 'sum({"value": "d.minutes"})',
+                        x: 'linear({"domain": [0, 20]})' //TODO: implement scale parser
                     }
                     /*, {
                     title: 'Bar Chart',

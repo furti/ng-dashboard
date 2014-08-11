@@ -5,12 +5,19 @@
         this.widgetProviders = widgetProviders;
     }
 
-    WidgetFactory.prototype.createWidget = function(element, widgetData) {
-        if (!this.widgetProviders[widgetData.type]) {
-            throw 'No widget with ' + widgetData.type + ' registered';
+    /**
+     * @param {Object} widgetData {
+     *  dimension: crossfilter.dimension,
+     *  group: dimension.group,
+     *  rawData: {...} //The raw widget data specified by the application
+     * }
+     */
+    WidgetFactory.prototype.createWidget = function(element, type, widgetData) {
+        if (!this.widgetProviders[type]) {
+            throw 'No widget with ' + type + ' registered';
         }
 
-        return this.widgetProviders[widgetData.type].createWdiget(element, widgetData);
+        return this.widgetProviders[type].createWidget(element, widgetData);
     };
 
     ngDashboard.provider('widgetFactory', [
@@ -53,11 +60,15 @@
                             var grouping = crossfilterUtils.groupFunctions(scope.widgetData.group);
                             group = dim.group().reduce(grouping.add, grouping.remove, grouping.init);
 
+                            widget = widgetFactory.createWidget(element.find('widget-body'), scope.widgetData.type, {
+                                dimension: dim,
+                                group: group,
+                                rawData: scope.widgetData
+                            });
+
                             filterWatch();
                         }
                     });
-
-                    //                            chart = chartFactory.createChart(element, newValue);
                 },
                 templateUrl: './template/widget.html'
             };
