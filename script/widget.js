@@ -29,9 +29,15 @@
                 widgetProviders[name] = provider;
             };
 
-            this.$get = [
+            this.$get = ['$injector',
 
-                function() {
+                function($injector) {
+                    angular.forEach(widgetProviders, function(widgetProvider) {
+                        if (widgetProvider.initialize) {
+                            $injector.invoke(widgetProvider.initialize, widgetProvider);
+                        }
+                    });
+
                     return new WidgetFactory(widgetProviders);
                 }
             ];

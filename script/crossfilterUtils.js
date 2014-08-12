@@ -4,8 +4,6 @@
     ngDashboard.provider('crossfilterUtils', [
 
         function() {
-            var groupRegex = /^([^\(]*)\(([^\)]*)\).*$/;
-
             var groupFunctionProviders = {};
 
             this.addGroupFunctionProvider = function(functionName, provider) {
@@ -13,23 +11,21 @@
             };
 
 
-            this.$get = ['$parse',
-                function($parse) {
+            this.$get = ['$parse', 'widgetExpressionParser',
+                function($parse, widgetExpressionParser) {
 
                     return {
                         dimensionFunction: function(expression) {
                             return dimensionFunction($parse(expression));
                         },
                         groupFunctions: function(expression) {
-                            var exParts = groupRegex.exec(expression);
-                            var groupFunction = exParts[1];
-                            var groupParams = prepareGroupParams($parse, exParts[2]);
+                            var groupData = widgetExpressionParser.parse(expression);
 
-                            if (!groupFunctionProviders[groupFunction]) {
-                                throw 'No groupfunction provider for ' + groupFunction + ' registered';
+                            if (!groupFunctionProviders[groupData.functionName]) {
+                                throw 'No groupfunction provider for ' + groupData.functionName + ' registered';
                             }
 
-                            return groupFunctionProviders[groupFunction](groupParams);
+                            return groupFunctionProviders[groupData.functionName](prepareGroupParams($parse, groupData.parameters));
                         }
                     };
                 }
@@ -37,9 +33,7 @@
         }
     ]);
 
-    function prepareGroupParams($parse, paramString) {
-        var paramObject = angular.fromJson(paramString);
-
+    function prepareGroupParams($parse, paramObject) {
         for (var key in paramObject) {
             paramObject[key] = $parse(paramObject[key]);
         }

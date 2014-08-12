@@ -10,12 +10,23 @@
                 scope: {
                     groupData: '=groupData'
                 },
-                controller: ['$scope',
-                    function($scope) {
+                controller: ['$scope', '$http',
+                    function($scope, $http) {
                         if (angular.isArray($scope.groupData.data)) {
                             $scope.crossFilter = crossfilter($scope.groupData.data);
+                        } else if (angular.isString($scope.groupData.dataUrl)) {
+                            $http({
+                                method: 'GET',
+                                url: $scope.groupData.dataUrl
+                            })
+                                .success(function(data) {
+                                    $scope.crossFilter = crossfilter(data);
+                                })
+                                .error(function(error) {
+                                    throw error;
+                                });
                         } else {
-
+                            throw 'No data array or data url specified for group ' + $scope.groupData.name;
                         }
                     }
                 ],
