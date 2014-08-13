@@ -5,20 +5,17 @@
 
         function() {
             this.group = {
-                title: 'Sports',
-                dataUrl: './sample/data/sports.json',
+                title: 'Sample Data',
+                dataUrl: './sample/data/data.json',
                 widgets: [{
-                        title: 'Duration per Day',
+                        title: 'Line Chart',
                         type: 'line',
                         width: 350,
                         height: 200,
-                        dimension: 'd.day',
-                        group: 'sum({"value": "d.minutes"})',
-                        x: 'linear({"domain": [1, 31]})',
-                        yAxisPadding: 5,
-                        axis: {
-                            ticks: 31
-                        } //TODO: implement axis
+                        dimension: 'd.Run',
+                        group: 'sum({"value": "d.Speed * d.Run / 1000"})',
+                        x: 'linear({"domain": [0, 20]})',
+                        yAxisPadding: 5
                     }
                     /*, {
                     title: 'Bar Chart',

@@ -24,17 +24,28 @@
 
         function() {
             var widgetProviders = {};
+            var mixins = {};
 
             this.registerWidgetProvider = function(name, provider) {
                 widgetProviders[name] = provider;
             };
 
+            this.registerChartMixin = function(name, mixin) {
+                mixins[name] = mixin;
+            };
+
             this.$get = ['$injector',
 
                 function($injector) {
+                    angular.forEach(mixins, function(mixin) {
+                        if (mixin.initialize) {
+                            $injector.invoke(mixin.initialize, mixin);
+                        }
+                    });
+
                     angular.forEach(widgetProviders, function(widgetProvider) {
                         if (widgetProvider.initialize) {
-                            $injector.invoke(widgetProvider.initialize, widgetProvider);
+                            $injector.invoke(widgetProvider.initialize, widgetProvider, mixins);
                         }
                     });
 
