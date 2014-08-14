@@ -6,7 +6,7 @@ Create dashboards with AngularJS
 See [furti.github.io/ng-dashboard](http://furti.github.io/ng-dashboard) for a live example
 
 ###General
-ng-dashboard enables you to create dashboards with differnent widgets in about 10 lines of javascript code.
+ng-dashboard enables you to create dashboards with different widgets in about 10 lines of javascript code.
 To do this it uses angular directives that are configured with an object that describes the dashboard and it's data.
 
 Along the lines of Goethe's FAUST: Enough words have been exchanged; Now at last let me see some deeds!
@@ -48,18 +48,22 @@ To get started we create a ```index.html``` file with the imports for our requir
     <script src="script/crossfilter.js"></script>
     <script src="script/dc.js"></script>
     <script src="script/ng-dashboard.js"></script>
+    
+    <!-- load the script that contains our module -->
+    <script src="script/dashboard.js"></script>
 </body>
 
 </html>
 ```
 
-The only thing we do here except from initializing angular with a ```dashboard``` module is to define the widget-group directive and
+The only thing we do here, except from initializing angular with a ```dashboard``` module, is to define the widget-group directive and
 tell it which configuration data to use. This directive handles everything for us.
 
 The next thing we have to do is to define our module in ```dashboard.js```
 
 ```javascript
-var dashboard = angular.module('dashboard', ['ngDashboard']); //Our module depends on the ngDashboard module
+//Our module depends on the ngDashboard module
+var dashboard = angular.module('dashboard', ['ngDashboard']);
 
 dashboard.controller('ChartController', [function() {
     this.group = {
@@ -96,7 +100,7 @@ dashboard.controller('ChartController', [function() {
 
 And that is it. Nothing more or less. That is everything you need to create your first simple chart. With more or less usefull data :)
 You may say that we wrote more than 10 lines of javascript code. But think about loading the configuration object from a server.
-Then we can say we created our dashboard in about 10 lines of javascript code ;)
+Then we create our dashboard in less than 10 lines of javascript code ;)
 
 ```javascript
 $http({
@@ -106,8 +110,6 @@ $http({
     controller.group = data;
 });
 ```
-
-
 
 ```Wiki is coming soon. Hopefully...```
 
