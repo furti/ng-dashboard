@@ -23,12 +23,21 @@
 
         lineChart.x(this.scaleParser.parse(widgetData.rawData.x));
 
-        if (widgetData.rawData.yAxisPadding) {
-            lineChart.yAxisPadding(widgetData.rawData.yAxisPadding);
-        }
+        setProperty(lineChart, widgetData.rawData, 'renderArea');
+        setProperty(lineChart, widgetData.rawData, 'brushOn');
+        setProperty(lineChart, widgetData.rawData, 'renderDataPoints');
+        setProperty(lineChart, widgetData.rawData, 'yAxisPadding');
+        setProperty(lineChart, widgetData.rawData, 'yAxisLabel');
+        setProperty(lineChart, widgetData.rawData, 'interpolate');
 
         lineChart.render();
 
         return lineChart;
     };
+
+    function setProperty(chart, data, property) {
+        if (angular.isDefined(data[property])) {
+            chart[property](data[property]);
+        }
+    }
 })(angular);
