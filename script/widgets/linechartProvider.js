@@ -9,10 +9,10 @@
 
     function LineChartProvider() {}
 
-    LineChartProvider.prototype.initialize = ['scaleParser', 'baseChartMixin',
-        function(scaleParser, baseChartMixin) {
-            this.scaleParser = scaleParser;
+    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin',
+        function(baseChartMixin, coordinateGridMixin) {
             this.baseChartMixin = baseChartMixin;
+            this.coordinateGridMixin = coordinateGridMixin;
         }
     ];
 
@@ -20,14 +20,11 @@
         var lineChart = dc.lineChart(element[0]);
 
         this.baseChartMixin.configureChart(lineChart, widgetData);
-
-        lineChart.x(this.scaleParser.parse(widgetData.rawData.x));
+        this.coordinateGridMixin.configureChart(lineChart, widgetData);
 
         setProperty(lineChart, widgetData.rawData, 'renderArea');
         setProperty(lineChart, widgetData.rawData, 'brushOn');
         setProperty(lineChart, widgetData.rawData, 'renderDataPoints');
-        setProperty(lineChart, widgetData.rawData, 'yAxisPadding');
-        setProperty(lineChart, widgetData.rawData, 'yAxisLabel');
         setProperty(lineChart, widgetData.rawData, 'interpolate');
 
         lineChart.render();
