@@ -9,10 +9,23 @@
 
     function BaseChartMixin() {}
 
+    BaseChartMixin.prototype.initialize = ['invokeIfDefined',
+        function(invokeIfDefined) {
+            this.invokeIfDefined = invokeIfDefined;
+        }
+    ];
+
     BaseChartMixin.prototype.configureChart = function(chart, widgetData) {
-        chart.width(widgetData.rawData.width)
-            .height(widgetData.rawData.height)
-            .dimension(widgetData.dimension)
+        var raw = widgetData.rawData;
+        var invoke = this.invokeIfDefined;
+
+        chart.dimension(widgetData.dimension)
             .group(widgetData.group);
+
+        invoke(raw, chart, 'width');
+        invoke(raw, chart, 'minWidth');
+        invoke(raw, chart, 'height');
+        invoke(raw, chart, 'minHeight');
+        invoke(raw, chart, 'transitionDuration');
     };
 })(angular);
