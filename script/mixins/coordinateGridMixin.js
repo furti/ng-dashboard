@@ -9,22 +9,18 @@
 
     function CoordinateGridMixin() {}
 
-    CoordinateGridMixin.prototype.initialize = ['scaleParser',
-        function(scaleParser) {
+    CoordinateGridMixin.prototype.initialize = ['scaleParser', 'invokeIfDefined',
+        function(scaleParser, invokeIfDefined) {
             this.scaleParser = scaleParser;
+            this.invokeIfDefined = invokeIfDefined;
         }
     ];
 
     CoordinateGridMixin.prototype.configureChart = function(chart, widgetData) {
         chart.x(this.scaleParser.parse(widgetData.rawData.x));
 
-        setProperty(chart, widgetData.rawData, 'yAxisPadding');
-        setProperty(chart, widgetData.rawData, 'yAxisLabel');
+        this.invokeIfDefined(widgetData.rawData, chart, 'yAxisPadding');
+        this.invokeIfDefined(widgetData.rawData, chart, 'yAxisLabel');
+        this.invokeIfDefined(widgetData.rawData, chart, 'brushOn');
     };
-
-    function setProperty(chart, data, property) {
-        if (angular.isDefined(data[property])) {
-            chart[property](data[property]);
-        }
-    }
 })(angular);
