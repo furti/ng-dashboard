@@ -9,10 +9,11 @@
 
     function LineChartProvider() {}
 
-    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin',
-        function(baseChartMixin, coordinateGridMixin) {
+    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'invokeIfDefined',
+        function(baseChartMixin, coordinateGridMixin, invokeIfDefined) {
             this.baseChartMixin = baseChartMixin;
             this.coordinateGridMixin = coordinateGridMixin;
+            this.invokeIfDefined = invokeIfDefined;
         }
     ];
 
@@ -22,19 +23,14 @@
         this.baseChartMixin.configureChart(lineChart, widgetData);
         this.coordinateGridMixin.configureChart(lineChart, widgetData);
 
-        setProperty(lineChart, widgetData.rawData, 'renderArea');
-        setProperty(lineChart, widgetData.rawData, 'brushOn');
-        setProperty(lineChart, widgetData.rawData, 'renderDataPoints');
-        setProperty(lineChart, widgetData.rawData, 'interpolate');
+        this.invokeIfDefined(widgetData.rawData, lineChart, 'renderArea');
+        this.invokeIfDefined(widgetData.rawData, lineChart, 'renderArea');
+        this.invokeIfDefined(widgetData.rawData, lineChart, 'brushOn');
+        this.invokeIfDefined(widgetData.rawData, lineChart, 'renderDataPoints');
+        this.invokeIfDefined(widgetData.rawData, lineChart, 'interpolate');
 
         lineChart.render();
 
         return lineChart;
     };
-
-    function setProperty(chart, data, property) {
-        if (angular.isDefined(data[property])) {
-            chart[property](data[property]);
-        }
-    }
 })(angular);
