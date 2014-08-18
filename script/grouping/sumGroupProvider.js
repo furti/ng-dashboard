@@ -5,31 +5,31 @@
         function(crossfilterUtilsProvider) {
 
             crossfilterUtilsProvider.addGroupFunctionProvider('sum', function(groupParams) {
-                if (!groupParams || !groupParams.value) {
-                    throw 'sum needs a groupParam called value';
+                if (!groupParams) {
+                    throw 'sum needs a groupParam';
                 }
 
-                return sumGroupBuilder(groupParams.value);
+                return sumGroupBuilder(groupParams);
             });
         }
     ]);
 
-    function sumGroupBuilder(valueGetter) {
+    function sumGroupBuilder(groupParams) {
         var sumGroup = {
             init: function() {
                 return 0;
             },
             add: function(p, v) {
-                var val = valueGetter({
+                var val = groupParams({
                     d: v
-                });
+                }).value;
 
                 return p + val;
             },
             remove: function(p, v) {
-                var val = valueGetter({
+                var val = groupParams({
                     d: v
-                });
+                }).value;
 
                 return p - val;
             }

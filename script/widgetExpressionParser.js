@@ -2,9 +2,9 @@
     var ngDashboard = angular.module('ngDashboard');
     var expressionRegex = /^([^\(]*)\(([^\)]*)\).*$/;
 
-    ngDashboard.factory('widgetExpressionParser', [
+    ngDashboard.factory('widgetExpressionParser', ['$parse',
 
-        function() {
+        function($parse) {
             return {
                 /**
                  * @ngdoc method
@@ -24,7 +24,7 @@
                 parse: function(expression) {
                     var exParts = expressionRegex.exec(expression);
                     var functionName = exParts[1];
-                    var functionParams = angular.fromJson(exParts[2]);
+                    var functionParams = $parse(exParts[2]);
 
                     return {
                         functionName: functionName,
