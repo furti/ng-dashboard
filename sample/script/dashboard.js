@@ -1,9 +1,9 @@
 (function(angular) {
     var dashboard = angular.module('dashboard', ['ngDashboard']);
 
-    dashboard.controller('ChartController', [
+    dashboard.controller('ChartController', ['$parse',
 
-        function() {
+        function($parse) {
             var margins = {
                 top: 10,
                 left: 50,
@@ -20,7 +20,7 @@
                     width: 350,
                     height: 200,
                     dimension: 'd.Run',
-                    group: 'sum({"value": "d.Speed * d.Run / 1000"})',
+                    group: 'sum({"value": d.Speed * d.Run / 1000})',
                     x: 'linear({"domain": [0, 20]})',
                     renderArea: true,
                     brushOn: false,
@@ -34,11 +34,21 @@
                     width: 350,
                     height: 200,
                     dimension: 'd.Run',
-                    group: 'sum({"value": "d.Speed * d.Run / 1000"})',
+                    group: 'sum({"value": d.Speed * d.Run / 1000})',
                     x: 'linear({"domain": [6, 20]})',
                     brushOn: true,
                     yAxisLabel: 'This is the Y Axis!',
                     margins: margins
+                }, {
+                    title: 'Pie Chart',
+                    type: 'pie',
+                    width: 350,
+                    height: 200,
+                    dimension: '"run-" + d.Run',
+                    group: 'sum({"value": d.Speed * d.Run})',
+                    slicesCap: 5,
+                    innerRadius: 40,
+                    legend: true
                 }]
             };
 
