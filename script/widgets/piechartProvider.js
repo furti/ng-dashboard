@@ -3,7 +3,7 @@
 
     ngDashboard.config(['widgetFactoryProvider',
         function(widgetFactoryProvider) {
-            widgetFactoryProvider.registerWidgetProvider('pie', new PieChartProvider());
+            widgetFactoryProvider.registerWidgetProvider('piechart', new PieChartProvider());
         }
     ]);
 

@@ -3,7 +3,7 @@
 
     ngDashboard.config(['widgetFactoryProvider',
         function(widgetFactoryProvider) {
-            widgetFactoryProvider.registerWidgetProvider('bar', new BarChartProvider());
+            widgetFactoryProvider.registerWidgetProvider('barchart', new BarChartProvider());
         }
     ]);
 

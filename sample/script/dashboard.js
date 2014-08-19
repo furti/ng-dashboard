@@ -16,7 +16,7 @@
                 dataUrl: './sample/data/data.json',
                 widgets: [{
                     title: 'Line Chart',
-                    type: 'line',
+                    type: 'linechart',
                     width: 350,
                     height: 200,
                     dimension: 'd.Run',
@@ -30,7 +30,7 @@
                     margins: margins
                 }, {
                     title: 'Bar Chart',
-                    type: 'bar',
+                    type: 'barchart',
                     width: 350,
                     height: 200,
                     dimension: 'd.Run',
@@ -41,7 +41,7 @@
                     margins: margins
                 }, {
                     title: 'Pie Chart',
-                    type: 'pie',
+                    type: 'piechart',
                     width: 350,
                     height: 200,
                     dimension: '"run-" + d.Run',

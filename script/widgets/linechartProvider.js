@@ -3,7 +3,7 @@
 
     ngDashboard.config(['widgetFactoryProvider',
         function(widgetFactoryProvider) {
-            widgetFactoryProvider.registerWidgetProvider('line', new LineChartProvider());
+            widgetFactoryProvider.registerWidgetProvider('linechart', new LineChartProvider());
         }
     ]);
 
