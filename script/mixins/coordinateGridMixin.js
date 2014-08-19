@@ -17,10 +17,17 @@
     ];
 
     CoordinateGridMixin.prototype.configureChart = function(chart, widgetData) {
-        chart.x(this.scaleParser.parse(widgetData.rawData.x));
+        var invoke = this.invokeIfDefined
+        var raw = widgetData.rawData;
 
-        this.invokeIfDefined(widgetData.rawData, chart, 'yAxisPadding');
-        this.invokeIfDefined(widgetData.rawData, chart, 'yAxisLabel');
-        this.invokeIfDefined(widgetData.rawData, chart, 'brushOn');
+        if (raw.x) {
+            chart.x(this.scaleParser.parse(raw.x));
+        }
+
+        invoke(raw, chart, 'yAxisPadding');
+        invoke(raw, chart, 'yAxisLabel');
+        invoke(raw, chart, 'brushOn');
+        invoke(raw, chart, 'elasticX');
+        invoke(raw, chart, 'elasticY');
     };
 })(angular);
