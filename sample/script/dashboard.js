@@ -21,7 +21,7 @@
                     height: 200,
                     dimension: 'd.Run',
                     group: 'sum({"value": d.Speed * d.Run / 1000})',
-                    x: 'linear({"domain": [0, 20]})',
+                    x: 'linear({"domain": [6, 20]})',
                     renderArea: true,
                     brushOn: false,
                     renderDataPoints: true,
@@ -49,6 +49,16 @@
                     slicesCap: 5,
                     innerRadius: 40,
                     legend: true
+                }, {
+                    title: 'Box Plot',
+                    type: 'boxPlot',
+                    width: 350,
+                    height: 200,
+                    dimension: '"exp-" + d.Expt',
+                    group: 'array({"value": d.Speed})',
+                    margins: margins,
+                    elasticX: true,
+                    elasticY: true
                 }]
             };
 
