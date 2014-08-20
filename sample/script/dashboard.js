@@ -1,9 +1,9 @@
 (function(angular) {
     var dashboard = angular.module('dashboard', ['ngDashboard']);
 
-    dashboard.controller('ChartController', ['$parse',
+    dashboard.controller('ChartController', [
 
-        function($parse) {
+        function() {
             var margins = {
                 top: 10,
                 left: 50,
@@ -19,8 +19,8 @@
                     type: 'linechart',
                     width: 350,
                     height: 200,
-                    dimension: 'd.Run',
-                    group: 'sum({"value": d.Speed * d.Run / 1000})',
+                    dimension: 'Run',
+                    group: 'sum({"value": Speed * Run / 1000})',
                     x: 'linear({"domain": [6, 20]})',
                     renderArea: true,
                     brushOn: false,
@@ -33,8 +33,8 @@
                     type: 'barchart',
                     width: 350,
                     height: 200,
-                    dimension: 'd.Run',
-                    group: 'sum({"value": d.Speed * d.Run / 1000})',
+                    dimension: 'Run',
+                    group: 'sum({"value": Speed * Run / 1000})',
                     x: 'linear({"domain": [6, 20]})',
                     brushOn: true,
                     yAxisLabel: 'This is the Y Axis!',
@@ -44,8 +44,8 @@
                     type: 'piechart',
                     width: 350,
                     height: 200,
-                    dimension: '"run-" + d.Run',
-                    group: 'sum({"value": d.Speed * d.Run})',
+                    dimension: '"run-" + Run',
+                    group: 'sum({"value": Speed * Run})',
                     slicesCap: 5,
                     innerRadius: 40,
                     legend: true
@@ -54,8 +54,8 @@
                     type: 'boxPlot',
                     width: 350,
                     height: 200,
-                    dimension: '"exp-" + d.Expt',
-                    group: 'array({"value": d.Speed})',
+                    dimension: '"exp-" + Expt',
+                    group: 'array({"value": Speed})',
                     margins: margins,
                     elasticX: true,
                     elasticY: true

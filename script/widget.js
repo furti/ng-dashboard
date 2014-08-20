@@ -66,7 +66,7 @@
                     widgetData: '=widgetData',
                     crossFilter: '=crossFilter'
                 },
-                link: function(scope, element, attrs) {
+                link: function(scope, element) {
                     var widget, dim, group;
                     element.addClass('widget');
 

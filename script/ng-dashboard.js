@@ -15,6 +15,6 @@
             if (angular.isDefined(source[property])) {
                 target[property](source[property]);
             }
-        }
+        };
     });
 })(angular);

@@ -17,7 +17,7 @@
     ];
 
     CoordinateGridMixin.prototype.configureChart = function(chart, widgetData) {
-        var invoke = this.invokeIfDefined
+        var invoke = this.invokeIfDefined;
         var raw = widgetData.rawData;
 
         if (raw.x) {

@@ -30,7 +30,7 @@
                         }
                     }
                 ],
-                link: function(scope, element, attrs) {
+                link: function(scope, element) {
                     element.addClass('widget-group');
                 },
                 templateUrl: './template/widgetGroup.html'

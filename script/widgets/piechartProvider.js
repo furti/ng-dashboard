@@ -7,7 +7,7 @@
         }
     ]);
 
-    function PieChartProvider() {};
+    function PieChartProvider() {}
 
     PieChartProvider.prototype.initialize = ['baseChartMixin', 'invokeIfDefined',
         function(baseChartMixin, invokeIfDefined) {

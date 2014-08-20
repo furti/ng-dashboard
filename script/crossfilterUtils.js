@@ -20,7 +20,7 @@
                                 throw 'Expression is required to create crossfilter dimension';
                             }
 
-                            return dimensionFunction($parse(expression));
+                            return $parse(expression);
                         },
                         groupFunctions: function(expression) {
                             if (!expression) {
@@ -40,23 +40,4 @@
             ];
         }
     ]);
-
-    //    function prepareGroupParams($parse, paramObject) {
-    //        for (var key in paramObject) {
-    //            paramObject[key] = $parse(paramObject[key]);
-    //        }
-    //
-    //        return paramObject;
-    //    }
-
-    function dimensionFunction(getter) {
-        function value(d) {
-            return getter({
-                d: d
-            });
-        }
-
-        return value;
-    }
-
 })(angular);
