@@ -29,6 +29,19 @@
         invoke(raw, chart, 'minHeight');
         invoke(raw, chart, 'transitionDuration');
 
+        if (raw.keyAccessor) {
+            chart.keyAccessor(this.$parse(raw.keyAccessor));
+        }
+
+        if (raw.valueAccessor) {
+            chart.valueAccessor(this.$parse(raw.valueAccessor));
+        }
+
+        if (raw.titleAccessor) {
+            chart.title(this.$parse(raw.titleAccessor));
+        }
+
+
         this.setupLegend(chart, raw.legend);
     };
 

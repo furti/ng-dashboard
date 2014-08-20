@@ -59,6 +59,17 @@
                     margins: margins,
                     elasticX: true,
                     elasticY: true
+                }, {
+                    title: 'Heat Map',
+                    type: 'heatmap',
+                    width: 350,
+                    height: 200,
+                    dimension: '[Run, Expt]',
+                    group: 'sum({"value": Speed})',
+                    keyAccessor: 'key[0]',
+                    valueAccessor: 'key[1]',
+                    titleAccessor: '"Run: " + key[0] + "\n" + "Expt: " + key[1] + "\n" + "Speed: " + value + " km/s"',
+                    colorAccessor: 'd.value'
                 }]
             };
 
