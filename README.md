@@ -114,37 +114,47 @@ $http({
 ###group-data Object
 The group-data Object accepts the following properties.
 
-***name***
-The name of the group. Must be unique if multiple groups are used. This property is ```required```.
+***name*** ```required```
+
+The name of the group. Must be unique if multiple groups are used.
 
 ***title***
+
 The title that is shown above the widgets of the group. If not present no title is shown.
 
-***data***
-An array of data used to create a crossfilter for the widget group. Either data or dataUrl is required.
+***data*** ```Either data or dataUrl is required```
 
-***dataUrl***
-A URL that is used to load the data for the crossfilter. Either data or dataUrl is required. ```Takes precedence over the data property```.
+An array of data used to create a crossfilter for the widget group.
+
+***dataUrl*** ```Takes precedence over the data property```
+
+A URL that is used to load the data for the crossfilter. Either data or dataUrl is required.
 
 ***widgets***
+
 A Array of objects that describe the widgets to show. If empty nothing is shown.
 
 ###widget-data Object
 The widget-data Object describes the widget type and its appearance.
 
-***name***
-The name of the widget. Must be unique inside a widget-group. This property is ```required```.
+***name*** ```required```
+
+The name of the widget. Must be unique inside a widget-group.
 
 ***title***
+
 The title that is shown above the widget. If not present no title is shown.
 
 ***width***
+
 The width of a widget in pixel.
 
 ***height***
+
 The height of a widget in pixel.
 
 ***type***
+
 Defines which widget to display. See ```types``` for a list of supported types.
 
 ###Types
