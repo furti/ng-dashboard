@@ -111,28 +111,52 @@ $http({
 });
 ```
 
-```Wiki is coming soon. Hopefully...```
+###group-data Object
+The group-data Object accepts the following properties.
 
-###group-data
-```javascript
-{
-    name: '<group name>', //The name of the group. Must be unique
-    title: '<title for the group>', //If specified the title is shown above the widget group
-    data: [...], //An array of data used to create the crossfilter for the widgets. Only used if not dataUrl is specified
-    dataUrl: '<Url>', //Url that is used to load the data for the crossfilter. NOT IMPLEMENTED YET
-    widgets: [
-        {
-            name: '<widget name>', //The name of the widget. Must be unique
-            title: '<title for the widget', //If specified a title is shown for the widget
-            width: <width>, //The width of the widget in pixels.
-            height: <height>, //The height of the widget in pixels
-            type: '<type>', //The widget type. NOT IMPLEMENTED YET
-            group: '<group expression>', //Expression that is used to group the dimension for the widget. NOT IMPLEMENTED YET
-            dimension: '<dimension expression>' //Expression that is used to create a dimension for the crossfilter. NOT IMPLEMENTED YET
-        }
-    ]
-}
-```
+***name***
+The name of the group. Must be unique if multiple groups are used. This property is ```required```.
+
+***title***
+The title that is shown above the widgets of the group. If not present no title is shown.
+
+***data***
+An array of data used to create a crossfilter for the widget group. Either data or dataUrl is required.
+
+***dataUrl***
+A URL that is used to load the data for the crossfilter. Either data or dataUrl is required. ```Takes precedence over the data property```.
+
+***widgets***
+A Array of objects that describe the widgets to show. If empty nothing is shown.
+
+###widget-data Object
+The widget-data Object describes the widget type and its appearance.
+
+***name***
+The name of the widget. Must be unique inside a widget-group. This property is ```required```.
+
+***title***
+The title that is shown above the widget. If not present no title is shown.
+
+***width***
+The width of a widget in pixel.
+
+***height***
+The height of a widget in pixel.
+
+***type***
+Defines which widget to display. See ```types``` for a list of supported types.
+
+###Types
+
+***linechart***
+
+***barchart***
+
+***piechart***
+
+***boxPlot***
+
 
 ###dimension
 The expression for a widgets dimension can be any valid angular expression.
