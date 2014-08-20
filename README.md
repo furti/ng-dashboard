@@ -90,8 +90,8 @@ dashboard.controller('ChartController', [function() {
             type: 'line',
             width: 350,
             height: 200,
-            dimension: 'd.Run',
-            group: 'sum({"value": "d.Speed * d.Run / 1000"})',
+            dimension: 'Run',
+            group: 'sum({"value": Speed * Run / 1000})',
             x: 'linear({"domain": [0, 20]})'
         }]
     };
