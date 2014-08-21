@@ -20,14 +20,18 @@
                 return [];
             },
             add: function(p, v) {
-                var val = groupParams(v).value;
+                var val = groupParams({
+                    d: v
+                }).value;
 
                 p.push(val);
 
                 return p;
             },
             remove: function(p, v) {
-                var val = groupParams(v).value;
+                var val = groupParams({
+                    d: v
+                }).value;
 
                 p.slice(p.indexOf(val), 1);
 

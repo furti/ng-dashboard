@@ -20,12 +20,16 @@
                 return 0;
             },
             add: function(p, v) {
-                var val = groupParams(v).value;
+                var val = groupParams({
+                    d: v
+                }).value;
 
                 return p + val;
             },
             remove: function(p, v) {
-                var val = groupParams(v).value;
+                var val = groupParams({
+                    d: v
+                }).value;
 
                 return p - val;
             }

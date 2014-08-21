@@ -14,11 +14,7 @@
                  *
                  * @return {Object} {
                  *  functionName: 'functionname',
-                 *  parameters: {
-                 *      param1: 'value',
-                 *      param2: 1,
-                 *      param3: [1, 2]
-                 *  }
+                 *  parameters: <angular expression object>
                  * }
                  */
                 parse: function(expression) {
@@ -30,6 +26,17 @@
                         functionName: functionName,
                         parameters: functionParams
                     };
+                },
+                valueFunction: function(expression) {
+                    function value(d) {
+                        var val = expression({
+                            d: d
+                        });
+
+                        return val;
+                    }
+
+                    return value;
                 }
             };
         }

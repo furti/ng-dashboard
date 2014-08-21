@@ -20,7 +20,7 @@
                                 throw 'Expression is required to create crossfilter dimension';
                             }
 
-                            return $parse(expression);
+                            return widgetExpressionParser.valueFunction($parse(expression));
                         },
                         groupFunctions: function(expression) {
                             if (!expression) {
