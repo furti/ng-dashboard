@@ -29,5 +29,6 @@
         invoke(raw, chart, 'brushOn');
         invoke(raw, chart, 'elasticX');
         invoke(raw, chart, 'elasticY');
+        invoke(raw, chart, 'mouseZoomable');
     };
 })(angular);
