@@ -11,8 +11,15 @@
             };
 
 
-            this.$get = ['$parse', 'widgetExpressionParser',
-                function($parse, widgetExpressionParser) {
+            this.$get = ['$parse', 'widgetExpressionParser', '$injector',
+                function($parse, widgetExpressionParser, $injector) {
+
+                    angular.forEach(groupFunctionProviders, function(provider) {
+                        if (provider.initialize) {
+                            $injector.invoke(provider.initialize, provider);
+                        }
+                    });
+
 
                     return {
                         dimensionFunction: function(expression) {
@@ -22,18 +29,16 @@
 
                             return widgetExpressionParser.valueFunction($parse(expression));
                         },
-                        groupFunctions: function(expression) {
-                            if (!expression) {
+                        groupFunctions: function(groupData) {
+                            if (!groupData) {
                                 throw 'Expression is required to create crossfilter group';
                             }
-
-                            var groupData = widgetExpressionParser.parse(expression);
 
                             if (!groupFunctionProviders[groupData.functionName]) {
                                 throw 'No groupfunction provider for ' + groupData.functionName + ' registered';
                             }
 
-                            return groupFunctionProviders[groupData.functionName](groupData.parameters);
+                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters);
                         }
                     };
                 }

@@ -11,7 +11,7 @@
                 bottom: 20
             };
 
-            this.group = {
+            this.example = {
                 title: 'Sample Data',
                 dataUrl: './sample/data/data.json',
                 widgets: [{
@@ -20,7 +20,12 @@
                     width: 350,
                     height: 200,
                     dimension: 'd.Run',
-                    group: 'sum({"value": d.Speed * d.Run / 1000})',
+                    group: {
+                        functionName: 'sum',
+                        parameters: {
+                            value: 'v.Speed * v.Run / 1000'
+                        }
+                    },
                     x: 'linear({"domain": [6, 20]})',
                     renderArea: true,
                     brushOn: false,
@@ -34,7 +39,12 @@
                     width: 350,
                     height: 200,
                     dimension: 'd.Run',
-                    group: 'sum({"value": d.Speed * d.Run / 1000})',
+                    group: {
+                        functionName: 'sum',
+                        parameters: {
+                            value: 'v.Speed * v.Run / 1000'
+                        }
+                    },
                     x: 'linear({"domain": [6, 20]})',
                     brushOn: true,
                     yAxisLabel: 'This is the Y Axis!',
@@ -45,7 +55,12 @@
                     width: 350,
                     height: 200,
                     dimension: '"run-" + d.Run',
-                    group: 'sum({"value": d.Speed * d.Run})',
+                    group: {
+                        functionName: 'sum',
+                        parameters: {
+                            value: 'v.Speed * v.Run'
+                        }
+                    },
                     slicesCap: 5,
                     innerRadius: 40,
                     legend: true
@@ -55,7 +70,12 @@
                     width: 350,
                     height: 200,
                     dimension: '"exp-" + d.Expt',
-                    group: 'array({"value": d.Speed})',
+                    group: {
+                        functionName: 'array',
+                        parameters: {
+                            value: 'v.Speed'
+                        }
+                    },
                     margins: margins,
                     elasticX: true,
                     elasticY: true
@@ -65,13 +85,41 @@
                     width: 350,
                     height: 200,
                     dimension: '[d.Run, d.Expt]',
-                    group: 'sum({"value": d.Speed})',
+                    group: {
+                        functionName: 'sum',
+                        parameters: {
+                            value: 'v.Speed'
+                        }
+                    },
                     keyAccessor: 'd.key[0]',
                     valueAccessor: 'd.key[1]',
                     titleAccessor: '"Run: " + d.key[0] + "\n" + "Expt: " + d.key[1] + "\n" + "Speed: " + d.value + " km/s"',
                     colorAccessor: 'd.value'
                 }]
             };
+
+            //            this.crime = {
+            //                name: 'crime',
+            //                title: 'Major Canadian City Crime Stats 1998-2011',
+            //                dataUrl: './data/crime.json',
+            //                widgets: [{
+            //                    name: 'homicide',
+            //                    title: 'Homicide Incidents by Year',
+            //                    type: 'line',
+            //                    width: 360,
+            //                    height: 150,
+            //                    margins: {
+            //                        top: 10,
+            //                        right: 50,
+            //                        bottom: 30,
+            //                        left: 60
+            //                    },
+            //                    dimension: 'd.year',
+            //                    group: '',
+            //                    valueAccessor: 'd.value.homicide'
+            //
+            //                }]
+            //            };
 
         }
     ]);

@@ -6,6 +6,13 @@
         "dc": false,
         "angular": false,
         "d3": false,
-        "crossfilter": false
+        "crossfilter": false,
+        "describe": false,
+        "describe": false,
+        "it": false,
+        "expect": false,
+        "beforeEach": false,
+        "module": false,
+        "inject": false
     }
 }

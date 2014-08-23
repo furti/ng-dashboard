@@ -1,0 +1,8822 @@
+[
+  {
+    "year":1998,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":13538
+  },
+  {
+    "year":1999,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11407
+  },
+  {
+    "year":2000,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12662
+  },
+  {
+    "year":2001,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12227
+  },
+  {
+    "year":2002,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":13031
+  },
+  {
+    "year":2003,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12228
+  },
+  {
+    "year":2004,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12851
+  },
+  {
+    "year":2005,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12537
+  },
+  {
+    "year":2006,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12960
+  },
+  {
+    "year":2007,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":14580
+  },
+  {
+    "year":2008,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":14225
+  },
+  {
+    "year":2009,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":15475
+  },
+  {
+    "year":2010,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":16624
+  },
+  {
+    "year":2011,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":15984
+  },
+  {
+    "year":1998,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7840.62
+  },
+  {
+    "year":1999,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6596.12
+  },
+  {
+    "year":2000,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7294.28
+  },
+  {
+    "year":2001,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7030
+  },
+  {
+    "year":2002,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7428.25
+  },
+  {
+    "year":2003,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6903.21
+  },
+  {
+    "year":2004,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7165.88
+  },
+  {
+    "year":2005,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6957.62
+  },
+  {
+    "year":2006,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7140.42
+  },
+  {
+    "year":2007,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8032.75
+  },
+  {
+    "year":2008,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7779.94
+  },
+  {
+    "year":2009,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8372.6
+  },
+  {
+    "year":2010,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8877.69
+  },
+  {
+    "year":2011,
+    "city":"St. John's",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8472.7
+  },
+  {
+    "year":1998,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2212
+  },
+  {
+    "year":1999,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2223
+  },
+  {
+    "year":2000,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2188
+  },
+  {
+    "year":2001,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2243
+  },
+  {
+    "year":2002,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2199
+  },
+  {
+    "year":2003,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2060
+  },
+  {
+    "year":2004,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2131
+  },
+  {
+    "year":2005,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2205
+  },
+  {
+    "year":2006,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2144
+  },
+  {
+    "year":2007,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2811
+  },
+  {
+    "year":2008,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2965
+  },
+  {
+    "year":2009,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2943
+  },
+  {
+    "year":2010,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3240
+  },
+  {
+    "year":2011,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3010
+  },
+  {
+    "year":1998,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1281.09
+  },
+  {
+    "year":1999,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1285.45
+  },
+  {
+    "year":2000,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1260.46
+  },
+  {
+    "year":2001,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1289.63
+  },
+  {
+    "year":2002,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1253.53
+  },
+  {
+    "year":2003,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1162.95
+  },
+  {
+    "year":2004,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1188.27
+  },
+  {
+    "year":2005,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1223.7
+  },
+  {
+    "year":2006,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1181.25
+  },
+  {
+    "year":2007,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1548.7
+  },
+  {
+    "year":2008,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1621.62
+  },
+  {
+    "year":2009,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1592.28
+  },
+  {
+    "year":2010,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1730.25
+  },
+  {
+    "year":2011,
+    "city":"St. John's",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1595.52
+  },
+  {
+    "year":1998,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":1999,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2000,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2001,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2002,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2003,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2004,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2005,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2006,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2007,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2008,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2009,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2010,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2011,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":1998,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.16
+  },
+  {
+    "year":1999,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2000,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.73
+  },
+  {
+    "year":2001,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.57
+  },
+  {
+    "year":2002,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.57
+  },
+  {
+    "year":2003,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.13
+  },
+  {
+    "year":2004,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.56
+  },
+  {
+    "year":2005,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.11
+  },
+  {
+    "year":2006,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.55
+  },
+  {
+    "year":2007,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.55
+  },
+  {
+    "year":2008,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.55
+  },
+  {
+    "year":2009,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2010,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.07
+  },
+  {
+    "year":2011,
+    "city":"St. John's",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.12
+  },
+  {
+    "year":1998,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":35245
+  },
+  {
+    "year":1999,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":35776
+  },
+  {
+    "year":2000,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":33155
+  },
+  {
+    "year":2001,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":35473
+  },
+  {
+    "year":2002,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":35122
+  },
+  {
+    "year":2003,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":36781
+  },
+  {
+    "year":2004,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":39513
+  },
+  {
+    "year":2005,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":36582
+  },
+  {
+    "year":2006,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":35497
+  },
+  {
+    "year":2007,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":33232
+  },
+  {
+    "year":2008,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":30968
+  },
+  {
+    "year":2009,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":31038
+  },
+  {
+    "year":2010,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":32428
+  },
+  {
+    "year":2011,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":29373
+  },
+  {
+    "year":1998,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10328.9
+  },
+  {
+    "year":1999,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10370.94
+  },
+  {
+    "year":2000,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9051.1
+  },
+  {
+    "year":2001,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9611.07
+  },
+  {
+    "year":2002,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9395.51
+  },
+  {
+    "year":2003,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9754.53
+  },
+  {
+    "year":2004,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10413.34
+  },
+  {
+    "year":2005,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9612.22
+  },
+  {
+    "year":2006,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9225.13
+  },
+  {
+    "year":2007,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8564.44
+  },
+  {
+    "year":2008,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7882.61
+  },
+  {
+    "year":2009,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7797.08
+  },
+  {
+    "year":2010,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8026.14
+  },
+  {
+    "year":2011,
+    "city":"Halifax",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7199.26
+  },
+  {
+    "year":1998,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5113
+  },
+  {
+    "year":1999,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5789
+  },
+  {
+    "year":2000,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6694
+  },
+  {
+    "year":2001,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":7912
+  },
+  {
+    "year":2002,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":8022
+  },
+  {
+    "year":2003,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":8528
+  },
+  {
+    "year":2004,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":8730
+  },
+  {
+    "year":2005,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":8225
+  },
+  {
+    "year":2006,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":8060
+  },
+  {
+    "year":2007,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":7181
+  },
+  {
+    "year":2008,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6741
+  },
+  {
+    "year":2009,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6603
+  },
+  {
+    "year":2010,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6240
+  },
+  {
+    "year":2011,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5566
+  },
+  {
+    "year":1998,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1498.42
+  },
+  {
+    "year":1999,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1678.15
+  },
+  {
+    "year":2000,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1827.42
+  },
+  {
+    "year":2001,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2143.68
+  },
+  {
+    "year":2002,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2145.97
+  },
+  {
+    "year":2003,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2261.67
+  },
+  {
+    "year":2004,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2300.72
+  },
+  {
+    "year":2005,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2161.19
+  },
+  {
+    "year":2006,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2094.67
+  },
+  {
+    "year":2007,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1850.66
+  },
+  {
+    "year":2008,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1715.86
+  },
+  {
+    "year":2009,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1658.75
+  },
+  {
+    "year":2010,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1544.44
+  },
+  {
+    "year":2011,
+    "city":"Halifax",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1364.22
+  },
+  {
+    "year":1998,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":12
+  },
+  {
+    "year":1999,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2000,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":8
+  },
+  {
+    "year":2001,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2002,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":5
+  },
+  {
+    "year":2003,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2004,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":9
+  },
+  {
+    "year":2005,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":11
+  },
+  {
+    "year":2006,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":2007,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2008,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2009,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":12
+  },
+  {
+    "year":2010,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":11
+  },
+  {
+    "year":2011,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":18
+  },
+  {
+    "year":1998,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.52
+  },
+  {
+    "year":1999,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.03
+  },
+  {
+    "year":2000,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.18
+  },
+  {
+    "year":2001,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.81
+  },
+  {
+    "year":2002,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.34
+  },
+  {
+    "year":2003,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.8
+  },
+  {
+    "year":2004,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.37
+  },
+  {
+    "year":2005,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.89
+  },
+  {
+    "year":2006,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.56
+  },
+  {
+    "year":2007,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.8
+  },
+  {
+    "year":2008,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.78
+  },
+  {
+    "year":2009,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.01
+  },
+  {
+    "year":2010,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.72
+  },
+  {
+    "year":2011,
+    "city":"Halifax",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.41
+  },
+  {
+    "year":1998,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":10835
+  },
+  {
+    "year":1999,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11672
+  },
+  {
+    "year":2000,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":10726
+  },
+  {
+    "year":2001,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":10465
+  },
+  {
+    "year":2002,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11881
+  },
+  {
+    "year":2003,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11909
+  },
+  {
+    "year":2004,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11024
+  },
+  {
+    "year":2005,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8098
+  },
+  {
+    "year":2006,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8330
+  },
+  {
+    "year":2007,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":9175
+  },
+  {
+    "year":2008,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8874
+  },
+  {
+    "year":2009,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8635
+  },
+  {
+    "year":2010,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8417
+  },
+  {
+    "year":2011,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7326
+  },
+  {
+    "year":1998,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8689.34
+  },
+  {
+    "year":1999,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7972.84
+  },
+  {
+    "year":2000,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7335.47
+  },
+  {
+    "year":2001,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7185.43
+  },
+  {
+    "year":2002,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8149.06
+  },
+  {
+    "year":2003,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8221.61
+  },
+  {
+    "year":2004,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7594.64
+  },
+  {
+    "year":2005,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7959.58
+  },
+  {
+    "year":2006,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8430.06
+  },
+  {
+    "year":2007,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9026.78
+  },
+  {
+    "year":2008,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8699.74
+  },
+  {
+    "year":2009,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8408.31
+  },
+  {
+    "year":2010,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8167.4
+  },
+  {
+    "year":2011,
+    "city":"Saint John",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7084.28
+  },
+  {
+    "year":1998,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2477
+  },
+  {
+    "year":1999,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2852
+  },
+  {
+    "year":2000,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2577
+  },
+  {
+    "year":2001,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2536
+  },
+  {
+    "year":2002,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2716
+  },
+  {
+    "year":2003,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2739
+  },
+  {
+    "year":2004,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2501
+  },
+  {
+    "year":2005,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2140
+  },
+  {
+    "year":2006,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2130
+  },
+  {
+    "year":2007,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2257
+  },
+  {
+    "year":2008,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2199
+  },
+  {
+    "year":2009,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2146
+  },
+  {
+    "year":2010,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2065
+  },
+  {
+    "year":2011,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1896
+  },
+  {
+    "year":1998,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1986.48
+  },
+  {
+    "year":1999,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1948.13
+  },
+  {
+    "year":2000,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1762.4
+  },
+  {
+    "year":2001,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1741.26
+  },
+  {
+    "year":2002,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1862.88
+  },
+  {
+    "year":2003,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1890.92
+  },
+  {
+    "year":2004,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1722.99
+  },
+  {
+    "year":2005,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2103.42
+  },
+  {
+    "year":2006,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2155.59
+  },
+  {
+    "year":2007,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2220.54
+  },
+  {
+    "year":2008,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2155.82
+  },
+  {
+    "year":2009,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2089.66
+  },
+  {
+    "year":2010,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2003.76
+  },
+  {
+    "year":2011,
+    "city":"Saint John",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1833.44
+  },
+  {
+    "year":1998,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2000,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2001,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2002,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2003,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2004,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2005,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2006,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2007,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2008,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2009,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2010,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2011,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":1998,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.68
+  },
+  {
+    "year":2000,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.68
+  },
+  {
+    "year":2001,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.69
+  },
+  {
+    "year":2002,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.37
+  },
+  {
+    "year":2003,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.69
+  },
+  {
+    "year":2004,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.69
+  },
+  {
+    "year":2005,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2006,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.01
+  },
+  {
+    "year":2007,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.97
+  },
+  {
+    "year":2008,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.98
+  },
+  {
+    "year":2009,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2010,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.94
+  },
+  {
+    "year":2011,
+    "city":"Saint John",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.9
+  },
+  {
+    "year":1998,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":40548
+  },
+  {
+    "year":1999,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":38486
+  },
+  {
+    "year":2000,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":40316
+  },
+  {
+    "year":2001,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":38221
+  },
+  {
+    "year":2002,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":37445
+  },
+  {
+    "year":2003,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":37545
+  },
+  {
+    "year":2004,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":36015
+  },
+  {
+    "year":2005,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":36022
+  },
+  {
+    "year":2006,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":38289
+  },
+  {
+    "year":2007,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":36528
+  },
+  {
+    "year":2008,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":36403
+  },
+  {
+    "year":2009,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":34797
+  },
+  {
+    "year":2010,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":33674
+  },
+  {
+    "year":2011,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":31756
+  },
+  {
+    "year":1998,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5873.95
+  },
+  {
+    "year":1999,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5557.06
+  },
+  {
+    "year":2000,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5797.79
+  },
+  {
+    "year":2001,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5466.72
+  },
+  {
+    "year":2002,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5311.3
+  },
+  {
+    "year":2003,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5294.22
+  },
+  {
+    "year":2004,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5032.5
+  },
+  {
+    "year":2005,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5003.97
+  },
+  {
+    "year":2006,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5290.25
+  },
+  {
+    "year":2007,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5002.54
+  },
+  {
+    "year":2008,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4934.63
+  },
+  {
+    "year":2009,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4670.56
+  },
+  {
+    "year":2010,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4475.54
+  },
+  {
+    "year":2011,
+    "city":"Quebec",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4181.47
+  },
+  {
+    "year":1998,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4400
+  },
+  {
+    "year":1999,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4941
+  },
+  {
+    "year":2000,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5446
+  },
+  {
+    "year":2001,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5484
+  },
+  {
+    "year":2002,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5426
+  },
+  {
+    "year":2003,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5363
+  },
+  {
+    "year":2004,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5116
+  },
+  {
+    "year":2005,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5626
+  },
+  {
+    "year":2006,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":7044
+  },
+  {
+    "year":2007,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6745
+  },
+  {
+    "year":2008,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6514
+  },
+  {
+    "year":2009,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6751
+  },
+  {
+    "year":2010,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6859
+  },
+  {
+    "year":2011,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":6260
+  },
+  {
+    "year":1998,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":637.4
+  },
+  {
+    "year":1999,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":713.44
+  },
+  {
+    "year":2000,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":783.18
+  },
+  {
+    "year":2001,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":784.37
+  },
+  {
+    "year":2002,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":769.64
+  },
+  {
+    "year":2003,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":756.24
+  },
+  {
+    "year":2004,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":714.88
+  },
+  {
+    "year":2005,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":781.53
+  },
+  {
+    "year":2006,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":973.24
+  },
+  {
+    "year":2007,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":923.73
+  },
+  {
+    "year":2008,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":883.01
+  },
+  {
+    "year":2009,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":906.14
+  },
+  {
+    "year":2010,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":911.61
+  },
+  {
+    "year":2011,
+    "city":"Quebec",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":824.29
+  },
+  {
+    "year":1998,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":1999,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":10
+  },
+  {
+    "year":2000,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":12
+  },
+  {
+    "year":2001,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":5
+  },
+  {
+    "year":2002,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2003,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2004,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":2005,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":5
+  },
+  {
+    "year":2006,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2007,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2008,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":8
+  },
+  {
+    "year":2009,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2010,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":2011,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":1998,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.17
+  },
+  {
+    "year":1999,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.44
+  },
+  {
+    "year":2000,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.73
+  },
+  {
+    "year":2001,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.72
+  },
+  {
+    "year":2002,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.43
+  },
+  {
+    "year":2003,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.42
+  },
+  {
+    "year":2004,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.84
+  },
+  {
+    "year":2005,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.69
+  },
+  {
+    "year":2006,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.97
+  },
+  {
+    "year":2007,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2008,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.08
+  },
+  {
+    "year":2009,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.27
+  },
+  {
+    "year":2010,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.8
+  },
+  {
+    "year":2011,
+    "city":"Quebec",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.4
+  },
+  {
+    "year":1998,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":271721
+  },
+  {
+    "year":1999,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":253964
+  },
+  {
+    "year":2000,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":257641
+  },
+  {
+    "year":2001,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":244521
+  },
+  {
+    "year":2002,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":239397
+  },
+  {
+    "year":2003,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":242375
+  },
+  {
+    "year":2004,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":235220
+  },
+  {
+    "year":2005,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":238406
+  },
+  {
+    "year":2006,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":241298
+  },
+  {
+    "year":2007,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":229300
+  },
+  {
+    "year":2008,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":232917
+  },
+  {
+    "year":2009,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":231033
+  },
+  {
+    "year":2010,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":217635
+  },
+  {
+    "year":2011,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":211092
+  },
+  {
+    "year":1998,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8031.02
+  },
+  {
+    "year":1999,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7417.2
+  },
+  {
+    "year":2000,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7469.15
+  },
+  {
+    "year":2001,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7016.46
+  },
+  {
+    "year":2002,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6734.49
+  },
+  {
+    "year":2003,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6723.32
+  },
+  {
+    "year":2004,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6470.74
+  },
+  {
+    "year":2005,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6483.97
+  },
+  {
+    "year":2006,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6525.03
+  },
+  {
+    "year":2007,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6156.41
+  },
+  {
+    "year":2008,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6180.67
+  },
+  {
+    "year":2009,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6045.09
+  },
+  {
+    "year":2010,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5616.52
+  },
+  {
+    "year":2011,
+    "city":"Montreal",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5378.75
+  },
+  {
+    "year":1998,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":38048
+  },
+  {
+    "year":1999,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42563
+  },
+  {
+    "year":2000,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":45636
+  },
+  {
+    "year":2001,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42887
+  },
+  {
+    "year":2002,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42473
+  },
+  {
+    "year":2003,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42782
+  },
+  {
+    "year":2004,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42613
+  },
+  {
+    "year":2005,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":43108
+  },
+  {
+    "year":2006,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42818
+  },
+  {
+    "year":2007,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":40756
+  },
+  {
+    "year":2008,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":42356
+  },
+  {
+    "year":2009,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":41970
+  },
+  {
+    "year":2010,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":40423
+  },
+  {
+    "year":2011,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":39940
+  },
+  {
+    "year":1998,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1124.55
+  },
+  {
+    "year":1999,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1243.08
+  },
+  {
+    "year":2000,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1323.01
+  },
+  {
+    "year":2001,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1230.63
+  },
+  {
+    "year":2002,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1194.81
+  },
+  {
+    "year":2003,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1186.74
+  },
+  {
+    "year":2004,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1172.25
+  },
+  {
+    "year":2005,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1172.42
+  },
+  {
+    "year":2006,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1157.86
+  },
+  {
+    "year":2007,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1094.25
+  },
+  {
+    "year":2008,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1123.96
+  },
+  {
+    "year":2009,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1098.17
+  },
+  {
+    "year":2010,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1043.2
+  },
+  {
+    "year":2011,
+    "city":"Montreal",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1017.7
+  },
+  {
+    "year":1998,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":65
+  },
+  {
+    "year":1999,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":71
+  },
+  {
+    "year":2000,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":75
+  },
+  {
+    "year":2001,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":78
+  },
+  {
+    "year":2002,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":66
+  },
+  {
+    "year":2003,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":56
+  },
+  {
+    "year":2004,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":63
+  },
+  {
+    "year":2005,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":48
+  },
+  {
+    "year":2006,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":52
+  },
+  {
+    "year":2007,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":59
+  },
+  {
+    "year":2008,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":48
+  },
+  {
+    "year":2009,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":44
+  },
+  {
+    "year":2010,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":50
+  },
+  {
+    "year":2011,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":54
+  },
+  {
+    "year":1998,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.92
+  },
+  {
+    "year":1999,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.07
+  },
+  {
+    "year":2000,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.17
+  },
+  {
+    "year":2001,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.24
+  },
+  {
+    "year":2002,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.86
+  },
+  {
+    "year":2003,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.55
+  },
+  {
+    "year":2004,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.73
+  },
+  {
+    "year":2005,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.31
+  },
+  {
+    "year":2006,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.41
+  },
+  {
+    "year":2007,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.58
+  },
+  {
+    "year":2008,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.27
+  },
+  {
+    "year":2009,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.15
+  },
+  {
+    "year":2010,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.29
+  },
+  {
+    "year":2011,
+    "city":"Montreal",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.38
+  },
+  {
+    "year":1998,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":82911
+  },
+  {
+    "year":1999,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":71885
+  },
+  {
+    "year":2000,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":67648
+  },
+  {
+    "year":2001,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":70830
+  },
+  {
+    "year":2002,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":73835
+  },
+  {
+    "year":2003,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":75214
+  },
+  {
+    "year":2004,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":71238
+  },
+  {
+    "year":2005,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":71517
+  },
+  {
+    "year":2006,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":72366
+  },
+  {
+    "year":2007,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":71465
+  },
+  {
+    "year":2008,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":66733
+  },
+  {
+    "year":2009,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":65269
+  },
+  {
+    "year":2010,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":62432
+  },
+  {
+    "year":2011,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":60506
+  },
+  {
+    "year":1998,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7993.13
+  },
+  {
+    "year":1999,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6713.91
+  },
+  {
+    "year":2000,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6196.89
+  },
+  {
+    "year":2001,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6348.95
+  },
+  {
+    "year":2002,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6522.79
+  },
+  {
+    "year":2003,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6564.28
+  },
+  {
+    "year":2004,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6160.48
+  },
+  {
+    "year":2005,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6128.81
+  },
+  {
+    "year":2006,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6142.47
+  },
+  {
+    "year":2007,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6002.99
+  },
+  {
+    "year":2008,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5511.71
+  },
+  {
+    "year":2009,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5322.35
+  },
+  {
+    "year":2010,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5040.63
+  },
+  {
+    "year":2011,
+    "city":"Ottawa",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4807.87
+  },
+  {
+    "year":1998,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12461
+  },
+  {
+    "year":1999,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11730
+  },
+  {
+    "year":2000,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12081
+  },
+  {
+    "year":2001,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":14257
+  },
+  {
+    "year":2002,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":13859
+  },
+  {
+    "year":2003,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":13787
+  },
+  {
+    "year":2004,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":13479
+  },
+  {
+    "year":2005,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12648
+  },
+  {
+    "year":2006,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12081
+  },
+  {
+    "year":2007,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11602
+  },
+  {
+    "year":2008,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11090
+  },
+  {
+    "year":2009,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11196
+  },
+  {
+    "year":2010,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10416
+  },
+  {
+    "year":2011,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10332
+  },
+  {
+    "year":1998,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1201.32
+  },
+  {
+    "year":1999,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1095.56
+  },
+  {
+    "year":2000,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1106.68
+  },
+  {
+    "year":2001,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1277.95
+  },
+  {
+    "year":2002,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1224.34
+  },
+  {
+    "year":2003,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1203.26
+  },
+  {
+    "year":2004,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1165.63
+  },
+  {
+    "year":2005,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1083.9
+  },
+  {
+    "year":2006,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1025.44
+  },
+  {
+    "year":2007,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":974.56
+  },
+  {
+    "year":2008,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":915.96
+  },
+  {
+    "year":2009,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":912.98
+  },
+  {
+    "year":2010,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":840.97
+  },
+  {
+    "year":2011,
+    "city":"Ottawa",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":820.99
+  },
+  {
+    "year":1998,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":1999,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":17
+  },
+  {
+    "year":2000,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":10
+  },
+  {
+    "year":2001,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":5
+  },
+  {
+    "year":2002,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":14
+  },
+  {
+    "year":2003,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":13
+  },
+  {
+    "year":2004,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":11
+  },
+  {
+    "year":2005,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":2006,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":25
+  },
+  {
+    "year":2007,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":16
+  },
+  {
+    "year":2008,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":2009,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":12
+  },
+  {
+    "year":2010,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":14
+  },
+  {
+    "year":2011,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":16
+  },
+  {
+    "year":1998,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.67
+  },
+  {
+    "year":1999,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.59
+  },
+  {
+    "year":2000,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.92
+  },
+  {
+    "year":2001,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.45
+  },
+  {
+    "year":2002,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.24
+  },
+  {
+    "year":2003,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.13
+  },
+  {
+    "year":2004,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.95
+  },
+  {
+    "year":2005,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.29
+  },
+  {
+    "year":2006,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.12
+  },
+  {
+    "year":2007,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.34
+  },
+  {
+    "year":2008,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.24
+  },
+  {
+    "year":2009,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.98
+  },
+  {
+    "year":2010,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.13
+  },
+  {
+    "year":2011,
+    "city":"Ottawa",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.27
+  },
+  {
+    "year":1998,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":304229
+  },
+  {
+    "year":1999,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":277117
+  },
+  {
+    "year":2000,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":279891
+  },
+  {
+    "year":2001,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":291199
+  },
+  {
+    "year":2002,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":292663
+  },
+  {
+    "year":2003,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":281099
+  },
+  {
+    "year":2004,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":262361
+  },
+  {
+    "year":2005,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":257416
+  },
+  {
+    "year":2006,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":265324
+  },
+  {
+    "year":2007,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":256138
+  },
+  {
+    "year":2008,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":245400
+  },
+  {
+    "year":2009,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":237511
+  },
+  {
+    "year":2010,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":228905
+  },
+  {
+    "year":2011,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":223249
+  },
+  {
+    "year":1998,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6702.41
+  },
+  {
+    "year":1999,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5954.94
+  },
+  {
+    "year":2000,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5886.41
+  },
+  {
+    "year":2001,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5953.37
+  },
+  {
+    "year":2002,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5820.19
+  },
+  {
+    "year":2003,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5484.75
+  },
+  {
+    "year":2004,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5020.61
+  },
+  {
+    "year":2005,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4834.88
+  },
+  {
+    "year":2006,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4974.42
+  },
+  {
+    "year":2007,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4725.46
+  },
+  {
+    "year":2008,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4467.79
+  },
+  {
+    "year":2009,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4249.45
+  },
+  {
+    "year":2010,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4018.77
+  },
+  {
+    "year":2011,
+    "city":"Toronto",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":3860.17
+  },
+  {
+    "year":1998,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":50748
+  },
+  {
+    "year":1999,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":53161
+  },
+  {
+    "year":2000,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":61338
+  },
+  {
+    "year":2001,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":63564
+  },
+  {
+    "year":2002,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":60846
+  },
+  {
+    "year":2003,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":56689
+  },
+  {
+    "year":2004,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":54214
+  },
+  {
+    "year":2005,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":55034
+  },
+  {
+    "year":2006,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":56206
+  },
+  {
+    "year":2007,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":56708
+  },
+  {
+    "year":2008,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":54215
+  },
+  {
+    "year":2009,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":52560
+  },
+  {
+    "year":2010,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":51599
+  },
+  {
+    "year":2011,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":50665
+  },
+  {
+    "year":1998,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1118.02
+  },
+  {
+    "year":1999,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1142.37
+  },
+  {
+    "year":2000,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1290
+  },
+  {
+    "year":2001,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1299.52
+  },
+  {
+    "year":2002,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1210.05
+  },
+  {
+    "year":2003,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1106.1
+  },
+  {
+    "year":2004,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1037.45
+  },
+  {
+    "year":2005,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1033.67
+  },
+  {
+    "year":2006,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1053.78
+  },
+  {
+    "year":2007,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1046.2
+  },
+  {
+    "year":2008,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":987.05
+  },
+  {
+    "year":2009,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":940.38
+  },
+  {
+    "year":2010,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":905.9
+  },
+  {
+    "year":2011,
+    "city":"Toronto",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":876.04
+  },
+  {
+    "year":1998,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":76
+  },
+  {
+    "year":1999,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":61
+  },
+  {
+    "year":2000,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":81
+  },
+  {
+    "year":2001,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":78
+  },
+  {
+    "year":2002,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":90
+  },
+  {
+    "year":2003,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":95
+  },
+  {
+    "year":2004,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":94
+  },
+  {
+    "year":2005,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":104
+  },
+  {
+    "year":2006,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":99
+  },
+  {
+    "year":2007,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":112
+  },
+  {
+    "year":2008,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":103
+  },
+  {
+    "year":2009,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":90
+  },
+  {
+    "year":2010,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":80
+  },
+  {
+    "year":2011,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":86
+  },
+  {
+    "year":1998,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.67
+  },
+  {
+    "year":1999,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.31
+  },
+  {
+    "year":2000,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.7
+  },
+  {
+    "year":2001,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.59
+  },
+  {
+    "year":2002,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.79
+  },
+  {
+    "year":2003,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.85
+  },
+  {
+    "year":2004,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.8
+  },
+  {
+    "year":2005,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.95
+  },
+  {
+    "year":2006,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.86
+  },
+  {
+    "year":2007,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.07
+  },
+  {
+    "year":2008,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.88
+  },
+  {
+    "year":2009,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.61
+  },
+  {
+    "year":2010,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.4
+  },
+  {
+    "year":2011,
+    "city":"Toronto",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.49
+  },
+  {
+    "year":1998,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":70678
+  },
+  {
+    "year":1999,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":69601
+  },
+  {
+    "year":2000,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":73994
+  },
+  {
+    "year":2001,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":78002
+  },
+  {
+    "year":2002,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":76214
+  },
+  {
+    "year":2003,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":85001
+  },
+  {
+    "year":2004,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":87228
+  },
+  {
+    "year":2005,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":80005
+  },
+  {
+    "year":2006,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":82774
+  },
+  {
+    "year":2007,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":73762
+  },
+  {
+    "year":2008,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":64548
+  },
+  {
+    "year":2009,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":72456
+  },
+  {
+    "year":2010,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":60538
+  },
+  {
+    "year":2011,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":51975
+  },
+  {
+    "year":1998,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10566.52
+  },
+  {
+    "year":1999,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10360.5
+  },
+  {
+    "year":2000,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10936.09
+  },
+  {
+    "year":2001,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11470.98
+  },
+  {
+    "year":2002,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11151.85
+  },
+  {
+    "year":2003,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12324.34
+  },
+  {
+    "year":2004,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12555.04
+  },
+  {
+    "year":2005,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11488.27
+  },
+  {
+    "year":2006,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11337.18
+  },
+  {
+    "year":2007,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9823.35
+  },
+  {
+    "year":2008,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8503.16
+  },
+  {
+    "year":2009,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9426.94
+  },
+  {
+    "year":2010,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7770.58
+  },
+  {
+    "year":2011,
+    "city":"Winnipeg",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6773.96
+  },
+  {
+    "year":1998,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10504
+  },
+  {
+    "year":1999,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10480
+  },
+  {
+    "year":2000,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12052
+  },
+  {
+    "year":2001,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11800
+  },
+  {
+    "year":2002,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11702
+  },
+  {
+    "year":2003,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11180
+  },
+  {
+    "year":2004,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11040
+  },
+  {
+    "year":2005,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11418
+  },
+  {
+    "year":2006,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11885
+  },
+  {
+    "year":2007,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10251
+  },
+  {
+    "year":2008,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10682
+  },
+  {
+    "year":2009,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11997
+  },
+  {
+    "year":2010,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11192
+  },
+  {
+    "year":2011,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10266
+  },
+  {
+    "year":1998,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1570.37
+  },
+  {
+    "year":1999,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1560.01
+  },
+  {
+    "year":2000,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1781.25
+  },
+  {
+    "year":2001,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1735.31
+  },
+  {
+    "year":2002,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1712.27
+  },
+  {
+    "year":2003,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1620.99
+  },
+  {
+    "year":2004,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1589.03
+  },
+  {
+    "year":2005,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1639.56
+  },
+  {
+    "year":2006,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1627.83
+  },
+  {
+    "year":2007,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1365.19
+  },
+  {
+    "year":2008,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1407.18
+  },
+  {
+    "year":2009,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1560.88
+  },
+  {
+    "year":2010,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1436.59
+  },
+  {
+    "year":2011,
+    "city":"Winnipeg",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1337.98
+  },
+  {
+    "year":1998,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":18
+  },
+  {
+    "year":1999,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":2000,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":17
+  },
+  {
+    "year":2001,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":19
+  },
+  {
+    "year":2002,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":23
+  },
+  {
+    "year":2003,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":18
+  },
+  {
+    "year":2004,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":34
+  },
+  {
+    "year":2005,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":26
+  },
+  {
+    "year":2006,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":22
+  },
+  {
+    "year":2007,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":27
+  },
+  {
+    "year":2008,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":31
+  },
+  {
+    "year":2009,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":32
+  },
+  {
+    "year":2010,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":22
+  },
+  {
+    "year":2011,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":39
+  },
+  {
+    "year":1998,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.69
+  },
+  {
+    "year":1999,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.23
+  },
+  {
+    "year":2000,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.51
+  },
+  {
+    "year":2001,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.79
+  },
+  {
+    "year":2002,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.37
+  },
+  {
+    "year":2003,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.61
+  },
+  {
+    "year":2004,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.89
+  },
+  {
+    "year":2005,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.73
+  },
+  {
+    "year":2006,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.01
+  },
+  {
+    "year":2007,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.6
+  },
+  {
+    "year":2008,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.08
+  },
+  {
+    "year":2009,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.16
+  },
+  {
+    "year":2010,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.82
+  },
+  {
+    "year":2011,
+    "city":"Winnipeg",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":5.08
+  },
+  {
+    "year":1998,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":29049
+  },
+  {
+    "year":1999,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":28879
+  },
+  {
+    "year":2000,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":31515
+  },
+  {
+    "year":2001,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":32739
+  },
+  {
+    "year":2002,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":32961
+  },
+  {
+    "year":2003,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":38378
+  },
+  {
+    "year":2004,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":35074
+  },
+  {
+    "year":2005,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":34123
+  },
+  {
+    "year":2006,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":31606
+  },
+  {
+    "year":2007,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":32167
+  },
+  {
+    "year":2008,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":30300
+  },
+  {
+    "year":2009,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":29352
+  },
+  {
+    "year":2010,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":28011
+  },
+  {
+    "year":2011,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":28487
+  },
+  {
+    "year":1998,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12667.73
+  },
+  {
+    "year":1999,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12533.58
+  },
+  {
+    "year":2000,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":13675.77
+  },
+  {
+    "year":2001,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":13769.48
+  },
+  {
+    "year":2002,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":13797.56
+  },
+  {
+    "year":2003,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":15887.96
+  },
+  {
+    "year":2004,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":14416.42
+  },
+  {
+    "year":2005,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":13987.76
+  },
+  {
+    "year":2006,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12714.82
+  },
+  {
+    "year":2007,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12737.94
+  },
+  {
+    "year":2008,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11735.13
+  },
+  {
+    "year":2009,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11084.01
+  },
+  {
+    "year":2010,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10314.35
+  },
+  {
+    "year":2011,
+    "city":"Saskatoon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10265.44
+  },
+  {
+    "year":1998,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4199
+  },
+  {
+    "year":1999,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4308
+  },
+  {
+    "year":2000,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4539
+  },
+  {
+    "year":2001,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5060
+  },
+  {
+    "year":2002,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5231
+  },
+  {
+    "year":2003,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5668
+  },
+  {
+    "year":2004,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5008
+  },
+  {
+    "year":2005,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5080
+  },
+  {
+    "year":2006,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5214
+  },
+  {
+    "year":2007,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":5294
+  },
+  {
+    "year":2008,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4962
+  },
+  {
+    "year":2009,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4698
+  },
+  {
+    "year":2010,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4825
+  },
+  {
+    "year":2011,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4594
+  },
+  {
+    "year":1998,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1831.11
+  },
+  {
+    "year":1999,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1869.69
+  },
+  {
+    "year":2000,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1969.68
+  },
+  {
+    "year":2001,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2128.15
+  },
+  {
+    "year":2002,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2189.71
+  },
+  {
+    "year":2003,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2346.47
+  },
+  {
+    "year":2004,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2058.43
+  },
+  {
+    "year":2005,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2082.4
+  },
+  {
+    "year":2006,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2097.55
+  },
+  {
+    "year":2007,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":2096.39
+  },
+  {
+    "year":2008,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1921.77
+  },
+  {
+    "year":2009,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1774.08
+  },
+  {
+    "year":2010,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1776.69
+  },
+  {
+    "year":2011,
+    "city":"Saskatoon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1655.47
+  },
+  {
+    "year":1998,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":1999,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2000,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2001,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2002,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":8
+  },
+  {
+    "year":2003,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":8
+  },
+  {
+    "year":2004,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":8
+  },
+  {
+    "year":2005,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":9
+  },
+  {
+    "year":2006,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":9
+  },
+  {
+    "year":2007,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":9
+  },
+  {
+    "year":2008,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2009,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":2010,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":10
+  },
+  {
+    "year":2011,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":1998,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.05
+  },
+  {
+    "year":1999,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.74
+  },
+  {
+    "year":2000,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.04
+  },
+  {
+    "year":2001,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0.42
+  },
+  {
+    "year":2002,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.35
+  },
+  {
+    "year":2003,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.31
+  },
+  {
+    "year":2004,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.29
+  },
+  {
+    "year":2005,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.69
+  },
+  {
+    "year":2006,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.62
+  },
+  {
+    "year":2007,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.56
+  },
+  {
+    "year":2008,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.55
+  },
+  {
+    "year":2009,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.27
+  },
+  {
+    "year":2010,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.68
+  },
+  {
+    "year":2011,
+    "city":"Saskatoon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.16
+  },
+  {
+    "year":1998,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":76046
+  },
+  {
+    "year":1999,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":75236
+  },
+  {
+    "year":2000,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":72423
+  },
+  {
+    "year":2001,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":73930
+  },
+  {
+    "year":2002,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":75030
+  },
+  {
+    "year":2003,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":78278
+  },
+  {
+    "year":2004,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":78165
+  },
+  {
+    "year":2005,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":76920
+  },
+  {
+    "year":2006,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":79267
+  },
+  {
+    "year":2007,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":75974
+  },
+  {
+    "year":2008,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":73257
+  },
+  {
+    "year":2009,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":71234
+  },
+  {
+    "year":2010,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":68176
+  },
+  {
+    "year":2011,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":63164
+  },
+  {
+    "year":1998,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8370.86
+  },
+  {
+    "year":1999,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8056.59
+  },
+  {
+    "year":2000,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7558.13
+  },
+  {
+    "year":2001,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7530.52
+  },
+  {
+    "year":2002,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7448.99
+  },
+  {
+    "year":2003,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7589.7
+  },
+  {
+    "year":2004,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7431.16
+  },
+  {
+    "year":2005,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7175.79
+  },
+  {
+    "year":2006,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7043.44
+  },
+  {
+    "year":2007,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6547.52
+  },
+  {
+    "year":2008,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6141.07
+  },
+  {
+    "year":2009,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5807.77
+  },
+  {
+    "year":2010,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5464.22
+  },
+  {
+    "year":2011,
+    "city":"Calgary",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4969.92
+  },
+  {
+    "year":1998,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":8745
+  },
+  {
+    "year":1999,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":9686
+  },
+  {
+    "year":2000,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10318
+  },
+  {
+    "year":2001,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10492
+  },
+  {
+    "year":2002,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":9997
+  },
+  {
+    "year":2003,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10823
+  },
+  {
+    "year":2004,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11300
+  },
+  {
+    "year":2005,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11117
+  },
+  {
+    "year":2006,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11142
+  },
+  {
+    "year":2007,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10092
+  },
+  {
+    "year":2008,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10231
+  },
+  {
+    "year":2009,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10581
+  },
+  {
+    "year":2010,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10684
+  },
+  {
+    "year":2011,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10013
+  },
+  {
+    "year":1998,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":962.62
+  },
+  {
+    "year":1999,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1037.22
+  },
+  {
+    "year":2000,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1076.8
+  },
+  {
+    "year":2001,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1068.72
+  },
+  {
+    "year":2002,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":992.5
+  },
+  {
+    "year":2003,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1049.38
+  },
+  {
+    "year":2004,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1074.29
+  },
+  {
+    "year":2005,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1037.09
+  },
+  {
+    "year":2006,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":990.05
+  },
+  {
+    "year":2007,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":869.74
+  },
+  {
+    "year":2008,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":857.66
+  },
+  {
+    "year":2009,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":862.68
+  },
+  {
+    "year":2010,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":856.31
+  },
+  {
+    "year":2011,
+    "city":"Calgary",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":787.85
+  },
+  {
+    "year":1998,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":19
+  },
+  {
+    "year":1999,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":13
+  },
+  {
+    "year":2000,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":16
+  },
+  {
+    "year":2001,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":2002,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":2003,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":11
+  },
+  {
+    "year":2004,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":20
+  },
+  {
+    "year":2005,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":25
+  },
+  {
+    "year":2006,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":25
+  },
+  {
+    "year":2007,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":36
+  },
+  {
+    "year":2008,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":34
+  },
+  {
+    "year":2009,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":24
+  },
+  {
+    "year":2010,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":15
+  },
+  {
+    "year":2011,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":14
+  },
+  {
+    "year":1998,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.09
+  },
+  {
+    "year":1999,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.39
+  },
+  {
+    "year":2000,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.67
+  },
+  {
+    "year":2001,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.53
+  },
+  {
+    "year":2002,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.49
+  },
+  {
+    "year":2003,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.07
+  },
+  {
+    "year":2004,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.9
+  },
+  {
+    "year":2005,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.33
+  },
+  {
+    "year":2006,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.22
+  },
+  {
+    "year":2007,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.1
+  },
+  {
+    "year":2008,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.85
+  },
+  {
+    "year":2009,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.96
+  },
+  {
+    "year":2010,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.2
+  },
+  {
+    "year":2011,
+    "city":"Calgary",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.1
+  },
+  {
+    "year":1998,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":86498
+  },
+  {
+    "year":1999,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":83780
+  },
+  {
+    "year":2000,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":85298
+  },
+  {
+    "year":2001,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":92785
+  },
+  {
+    "year":2002,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":97872
+  },
+  {
+    "year":2003,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":108336
+  },
+  {
+    "year":2004,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":113044
+  },
+  {
+    "year":2005,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":114252
+  },
+  {
+    "year":2006,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":111890
+  },
+  {
+    "year":2007,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":111945
+  },
+  {
+    "year":2008,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":111627
+  },
+  {
+    "year":2009,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":111038
+  },
+  {
+    "year":2010,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":102537
+  },
+  {
+    "year":2011,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":92309
+  },
+  {
+    "year":1998,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9348.63
+  },
+  {
+    "year":1999,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8902.69
+  },
+  {
+    "year":2000,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8916.55
+  },
+  {
+    "year":2001,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9553.72
+  },
+  {
+    "year":2002,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9890.28
+  },
+  {
+    "year":2003,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10841.75
+  },
+  {
+    "year":2004,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11170.47
+  },
+  {
+    "year":2005,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11060.36
+  },
+  {
+    "year":2006,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10345.81
+  },
+  {
+    "year":2007,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10067.84
+  },
+  {
+    "year":2008,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9819.04
+  },
+  {
+    "year":2009,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9563.3
+  },
+  {
+    "year":2010,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8699.75
+  },
+  {
+    "year":2011,
+    "city":"Edmonton",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7702.71
+  },
+  {
+    "year":1998,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10796
+  },
+  {
+    "year":1999,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":10452
+  },
+  {
+    "year":2000,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11452
+  },
+  {
+    "year":2001,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12171
+  },
+  {
+    "year":2002,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11755
+  },
+  {
+    "year":2003,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12063
+  },
+  {
+    "year":2004,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11480
+  },
+  {
+    "year":2005,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":11723
+  },
+  {
+    "year":2006,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":12410
+  },
+  {
+    "year":2007,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":14843
+  },
+  {
+    "year":2008,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":15497
+  },
+  {
+    "year":2009,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":15673
+  },
+  {
+    "year":2010,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":15197
+  },
+  {
+    "year":2011,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":14686
+  },
+  {
+    "year":1998,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1166.82
+  },
+  {
+    "year":1999,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1110.66
+  },
+  {
+    "year":2000,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1197.12
+  },
+  {
+    "year":2001,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1253.2
+  },
+  {
+    "year":2002,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1187.88
+  },
+  {
+    "year":2003,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1207.21
+  },
+  {
+    "year":2004,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1134.4
+  },
+  {
+    "year":2005,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1134.87
+  },
+  {
+    "year":2006,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1147.48
+  },
+  {
+    "year":2007,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1334.91
+  },
+  {
+    "year":2008,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1363.16
+  },
+  {
+    "year":2009,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1349.86
+  },
+  {
+    "year":2010,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1289.39
+  },
+  {
+    "year":2011,
+    "city":"Edmonton",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1225.47
+  },
+  {
+    "year":1998,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":22
+  },
+  {
+    "year":1999,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":20
+  },
+  {
+    "year":2000,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":19
+  },
+  {
+    "year":2001,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":25
+  },
+  {
+    "year":2002,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":27
+  },
+  {
+    "year":2003,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":22
+  },
+  {
+    "year":2004,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":34
+  },
+  {
+    "year":2005,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":44
+  },
+  {
+    "year":2006,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":39
+  },
+  {
+    "year":2007,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":36
+  },
+  {
+    "year":2008,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":39
+  },
+  {
+    "year":2009,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":30
+  },
+  {
+    "year":2010,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":32
+  },
+  {
+    "year":2011,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":50
+  },
+  {
+    "year":1998,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.38
+  },
+  {
+    "year":1999,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.13
+  },
+  {
+    "year":2000,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.99
+  },
+  {
+    "year":2001,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.57
+  },
+  {
+    "year":2002,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.73
+  },
+  {
+    "year":2003,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.2
+  },
+  {
+    "year":2004,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.36
+  },
+  {
+    "year":2005,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.26
+  },
+  {
+    "year":2006,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.61
+  },
+  {
+    "year":2007,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.24
+  },
+  {
+    "year":2008,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.43
+  },
+  {
+    "year":2009,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.58
+  },
+  {
+    "year":2010,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.72
+  },
+  {
+    "year":2011,
+    "city":"Edmonton",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.17
+  },
+  {
+    "year":1998,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":253603
+  },
+  {
+    "year":1999,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":245913
+  },
+  {
+    "year":2000,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":240154
+  },
+  {
+    "year":2001,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":248769
+  },
+  {
+    "year":2002,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":245278
+  },
+  {
+    "year":2003,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":261578
+  },
+  {
+    "year":2004,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":265795
+  },
+  {
+    "year":2005,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":252627
+  },
+  {
+    "year":2006,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":241745
+  },
+  {
+    "year":2007,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":229794
+  },
+  {
+    "year":2008,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":218150
+  },
+  {
+    "year":2009,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":209314
+  },
+  {
+    "year":2010,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":201931
+  },
+  {
+    "year":2011,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":195293
+  },
+  {
+    "year":1998,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12824.16
+  },
+  {
+    "year":1999,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12267.82
+  },
+  {
+    "year":2000,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11818
+  },
+  {
+    "year":2001,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12031.17
+  },
+  {
+    "year":2002,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11664.86
+  },
+  {
+    "year":2003,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12365.32
+  },
+  {
+    "year":2004,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":12215.89
+  },
+  {
+    "year":2005,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11401.45
+  },
+  {
+    "year":2006,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":11034.92
+  },
+  {
+    "year":2007,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10295.22
+  },
+  {
+    "year":2008,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9569.16
+  },
+  {
+    "year":2009,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8957.94
+  },
+  {
+    "year":2010,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8451.84
+  },
+  {
+    "year":2011,
+    "city":"Vancouver",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8054.83
+  },
+  {
+    "year":1998,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":32486
+  },
+  {
+    "year":1999,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":32927
+  },
+  {
+    "year":2000,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":33245
+  },
+  {
+    "year":2001,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":32357
+  },
+  {
+    "year":2002,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":32036
+  },
+  {
+    "year":2003,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":33052
+  },
+  {
+    "year":2004,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":33777
+  },
+  {
+    "year":2005,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":33948
+  },
+  {
+    "year":2006,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":34786
+  },
+  {
+    "year":2007,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":33503
+  },
+  {
+    "year":2008,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":32800
+  },
+  {
+    "year":2009,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":32857
+  },
+  {
+    "year":2010,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":31344
+  },
+  {
+    "year":2011,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":29082
+  },
+  {
+    "year":1998,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1642.75
+  },
+  {
+    "year":1999,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1642.62
+  },
+  {
+    "year":2000,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1635.99
+  },
+  {
+    "year":2001,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1564.88
+  },
+  {
+    "year":2002,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1523.56
+  },
+  {
+    "year":2003,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1562.43
+  },
+  {
+    "year":2004,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1552.38
+  },
+  {
+    "year":2005,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1532.13
+  },
+  {
+    "year":2006,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1587.87
+  },
+  {
+    "year":2007,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1501
+  },
+  {
+    "year":2008,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1438.77
+  },
+  {
+    "year":2009,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1406.17
+  },
+  {
+    "year":2010,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1311.91
+  },
+  {
+    "year":2011,
+    "city":"Vancouver",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":1199.48
+  },
+  {
+    "year":1998,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":45
+  },
+  {
+    "year":1999,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":57
+  },
+  {
+    "year":2000,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":42
+  },
+  {
+    "year":2001,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":43
+  },
+  {
+    "year":2002,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":69
+  },
+  {
+    "year":2003,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":45
+  },
+  {
+    "year":2004,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":57
+  },
+  {
+    "year":2005,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":62
+  },
+  {
+    "year":2006,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":55
+  },
+  {
+    "year":2007,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":55
+  },
+  {
+    "year":2008,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":54
+  },
+  {
+    "year":2009,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":61
+  },
+  {
+    "year":2010,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":36
+  },
+  {
+    "year":2011,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":43
+  },
+  {
+    "year":1998,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.28
+  },
+  {
+    "year":1999,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.84
+  },
+  {
+    "year":2000,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.07
+  },
+  {
+    "year":2001,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.08
+  },
+  {
+    "year":2002,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.28
+  },
+  {
+    "year":2003,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.13
+  },
+  {
+    "year":2004,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.62
+  },
+  {
+    "year":2005,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.8
+  },
+  {
+    "year":2006,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.51
+  },
+  {
+    "year":2007,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.46
+  },
+  {
+    "year":2008,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.37
+  },
+  {
+    "year":2009,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.61
+  },
+  {
+    "year":2010,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.51
+  },
+  {
+    "year":2011,
+    "city":"Vancouver",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":1.77
+  },
+  {
+    "year":1998,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":6455
+  },
+  {
+    "year":1999,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":6851
+  },
+  {
+    "year":2000,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7965
+  },
+  {
+    "year":2001,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8191
+  },
+  {
+    "year":2002,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8920
+  },
+  {
+    "year":2003,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8845
+  },
+  {
+    "year":2004,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7914
+  },
+  {
+    "year":2005,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7651
+  },
+  {
+    "year":2006,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":6938
+  },
+  {
+    "year":2007,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7485
+  },
+  {
+    "year":2008,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8015
+  },
+  {
+    "year":2009,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8555
+  },
+  {
+    "year":2010,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7981
+  },
+  {
+    "year":2011,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7931
+  },
+  {
+    "year":1998,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":20727.63
+  },
+  {
+    "year":1999,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":22260.13
+  },
+  {
+    "year":2000,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":26182.57
+  },
+  {
+    "year":2001,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":27162.09
+  },
+  {
+    "year":2002,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":29382.7
+  },
+  {
+    "year":2003,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":28566.35
+  },
+  {
+    "year":2004,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":25145.36
+  },
+  {
+    "year":2005,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":23981.32
+  },
+  {
+    "year":2006,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":21495.85
+  },
+  {
+    "year":2007,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":22981.98
+  },
+  {
+    "year":2008,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":24205
+  },
+  {
+    "year":2009,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":25398.57
+  },
+  {
+    "year":2010,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":23093.84
+  },
+  {
+    "year":2011,
+    "city":"Yukon",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":22878.32
+  },
+  {
+    "year":1998,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1332
+  },
+  {
+    "year":1999,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1749
+  },
+  {
+    "year":2000,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1798
+  },
+  {
+    "year":2001,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1684
+  },
+  {
+    "year":2002,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1719
+  },
+  {
+    "year":2003,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1710
+  },
+  {
+    "year":2004,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1471
+  },
+  {
+    "year":2005,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1307
+  },
+  {
+    "year":2006,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1243
+  },
+  {
+    "year":2007,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1301
+  },
+  {
+    "year":2008,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1269
+  },
+  {
+    "year":2009,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1404
+  },
+  {
+    "year":2010,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1464
+  },
+  {
+    "year":2011,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1465
+  },
+  {
+    "year":1998,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4277.18
+  },
+  {
+    "year":1999,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5682.82
+  },
+  {
+    "year":2000,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5910.39
+  },
+  {
+    "year":2001,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5584.29
+  },
+  {
+    "year":2002,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5662.43
+  },
+  {
+    "year":2003,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":5522.72
+  },
+  {
+    "year":2004,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4673.85
+  },
+  {
+    "year":2005,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4096.66
+  },
+  {
+    "year":2006,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":3851.16
+  },
+  {
+    "year":2007,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":3994.6
+  },
+  {
+    "year":2008,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":3832.33
+  },
+  {
+    "year":2009,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4168.27
+  },
+  {
+    "year":2010,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4236.23
+  },
+  {
+    "year":2011,
+    "city":"Yukon",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":4226.04
+  },
+  {
+    "year":1998,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":1999,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2000,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2001,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2002,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2003,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2004,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2005,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2006,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2007,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2008,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2009,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2010,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2011,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":1998,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":9.63
+  },
+  {
+    "year":1999,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.25
+  },
+  {
+    "year":2000,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.57
+  },
+  {
+    "year":2001,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.32
+  },
+  {
+    "year":2002,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2003,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.23
+  },
+  {
+    "year":2004,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":22.24
+  },
+  {
+    "year":2005,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":3.13
+  },
+  {
+    "year":2006,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2007,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.14
+  },
+  {
+    "year":2008,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":9.06
+  },
+  {
+    "year":2009,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":5.94
+  },
+  {
+    "year":2010,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.89
+  },
+  {
+    "year":2011,
+    "city":"Yukon",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":1998,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":16875
+  },
+  {
+    "year":1999,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":10921
+  },
+  {
+    "year":2000,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12311
+  },
+  {
+    "year":2001,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":13425
+  },
+  {
+    "year":2002,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":14733
+  },
+  {
+    "year":2003,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":17182
+  },
+  {
+    "year":2004,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":19508
+  },
+  {
+    "year":2005,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":20169
+  },
+  {
+    "year":2006,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":18877
+  },
+  {
+    "year":2007,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":20252
+  },
+  {
+    "year":2008,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":20963
+  },
+  {
+    "year":2009,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":19973
+  },
+  {
+    "year":2010,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":22325
+  },
+  {
+    "year":2011,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":22677
+  },
+  {
+    "year":1998,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":25115.34
+  },
+  {
+    "year":1999,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":26863.29
+  },
+  {
+    "year":2000,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":30398.28
+  },
+  {
+    "year":2001,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":32868.96
+  },
+  {
+    "year":2002,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":35360.61
+  },
+  {
+    "year":2003,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":40370.29
+  },
+  {
+    "year":2004,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":45052.08
+  },
+  {
+    "year":2005,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":46473.42
+  },
+  {
+    "year":2006,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":43698.78
+  },
+  {
+    "year":2007,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":46508.21
+  },
+  {
+    "year":2008,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":47991.12
+  },
+  {
+    "year":2009,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":45769.74
+  },
+  {
+    "year":2010,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":50935.43
+  },
+  {
+    "year":2011,
+    "city":"Northwest Territories",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":51922.15
+  },
+  {
+    "year":1998,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4440
+  },
+  {
+    "year":1999,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2746
+  },
+  {
+    "year":2000,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2708
+  },
+  {
+    "year":2001,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2767
+  },
+  {
+    "year":2002,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3179
+  },
+  {
+    "year":2003,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3698
+  },
+  {
+    "year":2004,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3857
+  },
+  {
+    "year":2005,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3694
+  },
+  {
+    "year":2006,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3527
+  },
+  {
+    "year":2007,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":4025
+  },
+  {
+    "year":2008,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3839
+  },
+  {
+    "year":2009,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3740
+  },
+  {
+    "year":2010,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3717
+  },
+  {
+    "year":2011,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3712
+  },
+  {
+    "year":1998,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6608.13
+  },
+  {
+    "year":1999,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6754.56
+  },
+  {
+    "year":2000,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6686.58
+  },
+  {
+    "year":2001,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6774.56
+  },
+  {
+    "year":2002,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7629.91
+  },
+  {
+    "year":2003,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8688.71
+  },
+  {
+    "year":2004,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8907.42
+  },
+  {
+    "year":2005,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8511.72
+  },
+  {
+    "year":2006,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8164.73
+  },
+  {
+    "year":2007,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9243.31
+  },
+  {
+    "year":2008,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8788.72
+  },
+  {
+    "year":2009,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8570.51
+  },
+  {
+    "year":2010,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8480.49
+  },
+  {
+    "year":2011,
+    "city":"Northwest Territories",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8499.14
+  },
+  {
+    "year":1998,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":5
+  },
+  {
+    "year":1999,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2000,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2001,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2002,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2003,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2004,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2005,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2006,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":2007,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2008,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2009,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2010,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":1
+  },
+  {
+    "year":2011,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":1998,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":7.44
+  },
+  {
+    "year":1999,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.46
+  },
+  {
+    "year":2000,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.47
+  },
+  {
+    "year":2001,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":9.79
+  },
+  {
+    "year":2002,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":9.6
+  },
+  {
+    "year":2003,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":9.4
+  },
+  {
+    "year":2004,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":9.24
+  },
+  {
+    "year":2005,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2006,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":2007,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.59
+  },
+  {
+    "year":2008,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.87
+  },
+  {
+    "year":2009,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":4.58
+  },
+  {
+    "year":2010,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":2.28
+  },
+  {
+    "year":2011,
+    "city":"Northwest Territories",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.87
+  },
+  {
+    "year":1998,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":5207
+  },
+  {
+    "year":2000,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":6155
+  },
+  {
+    "year":2001,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":7647
+  },
+  {
+    "year":2002,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":8969
+  },
+  {
+    "year":2003,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":10771
+  },
+  {
+    "year":2004,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11507
+  },
+  {
+    "year":2005,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11100
+  },
+  {
+    "year":2006,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":10180
+  },
+  {
+    "year":2007,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":9999
+  },
+  {
+    "year":2008,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":11770
+  },
+  {
+    "year":2009,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":12830
+  },
+  {
+    "year":2010,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":13683
+  },
+  {
+    "year":2011,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Actual incidents",
+    "number":13698
+  },
+  {
+    "year":1998,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":19413.17
+  },
+  {
+    "year":2000,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":22381.82
+  },
+  {
+    "year":2001,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":27180.64
+  },
+  {
+    "year":2002,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":31121.83
+  },
+  {
+    "year":2003,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":36736.02
+  },
+  {
+    "year":2004,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":38544.25
+  },
+  {
+    "year":2005,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":36599.84
+  },
+  {
+    "year":2006,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":33053.02
+  },
+  {
+    "year":2007,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":31974.29
+  },
+  {
+    "year":2008,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":37212.68
+  },
+  {
+    "year":2009,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":39795.29
+  },
+  {
+    "year":2010,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":41674.53
+  },
+  {
+    "year":2011,
+    "city":"Nunavut",
+    "type":"Total, all violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":41107.98
+  },
+  {
+    "year":1998,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":1846
+  },
+  {
+    "year":2000,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2160
+  },
+  {
+    "year":2001,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2463
+  },
+  {
+    "year":2002,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2635
+  },
+  {
+    "year":2003,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3012
+  },
+  {
+    "year":2004,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2985
+  },
+  {
+    "year":2005,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2858
+  },
+  {
+    "year":2006,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2624
+  },
+  {
+    "year":2007,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":2838
+  },
+  {
+    "year":2008,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3077
+  },
+  {
+    "year":2009,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3015
+  },
+  {
+    "year":2010,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3408
+  },
+  {
+    "year":2011,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Actual incidents",
+    "number":3328
+  },
+  {
+    "year":1998,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":6882.41
+  },
+  {
+    "year":2000,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":7854.55
+  },
+  {
+    "year":2001,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8754.53
+  },
+  {
+    "year":2002,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9143.27
+  },
+  {
+    "year":2003,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10272.85
+  },
+  {
+    "year":2004,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9998.66
+  },
+  {
+    "year":2005,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9423.63
+  },
+  {
+    "year":2006,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":8519.76
+  },
+  {
+    "year":2007,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9075.21
+  },
+  {
+    "year":2008,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9728.41
+  },
+  {
+    "year":2009,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9351.74
+  },
+  {
+    "year":2010,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":10379.8
+  },
+  {
+    "year":2011,
+    "city":"Nunavut",
+    "type":"Total violent Criminal Code violations",
+    "sub_type":"Rate per 100,000 population",
+    "number":9987.4
+  },
+  {
+    "year":1998,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2000,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2001,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2002,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2003,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":3
+  },
+  {
+    "year":2004,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2005,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2006,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":2
+  },
+  {
+    "year":2007,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":2008,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":4
+  },
+  {
+    "year":2009,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":2010,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":6
+  },
+  {
+    "year":2011,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Actual incidents",
+    "number":7
+  },
+  {
+    "year":1998,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":0
+  },
+  {
+    "year":1999,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":7.46
+  },
+  {
+    "year":2000,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":10.91
+  },
+  {
+    "year":2001,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":10.66
+  },
+  {
+    "year":2002,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.94
+  },
+  {
+    "year":2003,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":10.23
+  },
+  {
+    "year":2004,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":13.4
+  },
+  {
+    "year":2005,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.59
+  },
+  {
+    "year":2006,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":6.49
+  },
+  {
+    "year":2007,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":22.38
+  },
+  {
+    "year":2008,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":12.65
+  },
+  {
+    "year":2009,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":18.61
+  },
+  {
+    "year":2010,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":18.27
+  },
+  {
+    "year":2011,
+    "city":"Nunavut",
+    "type":"Homicide",
+    "sub_type":"Rate per 100,000 population",
+    "number":21.01
+  }
+]

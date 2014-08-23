@@ -252,8 +252,15 @@
             };
 
 
-            this.$get = ['$parse', 'widgetExpressionParser',
-                function($parse, widgetExpressionParser) {
+            this.$get = ['$parse', 'widgetExpressionParser', '$injector',
+                function($parse, widgetExpressionParser, $injector) {
+
+                    angular.forEach(groupFunctionProviders, function(provider) {
+                        if (provider.initialize) {
+                            $injector.invoke(provider.initialize, provider);
+                        }
+                    });
+
 
                     return {
                         dimensionFunction: function(expression) {
@@ -263,18 +270,16 @@
 
                             return widgetExpressionParser.valueFunction($parse(expression));
                         },
-                        groupFunctions: function(expression) {
-                            if (!expression) {
+                        groupFunctions: function(groupData) {
+                            if (!groupData) {
                                 throw 'Expression is required to create crossfilter group';
                             }
-
-                            var groupData = widgetExpressionParser.parse(expression);
 
                             if (!groupFunctionProviders[groupData.functionName]) {
                                 throw 'No groupfunction provider for ' + groupData.functionName + ' registered';
                             }
 
-                            return groupFunctionProviders[groupData.functionName](groupData.parameters);
+                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters);
                         }
                     };
                 }
@@ -661,36 +666,46 @@
     ngDashboard.config(['crossfilterUtilsProvider',
         function(crossfilterUtilsProvider) {
 
-            crossfilterUtilsProvider.addGroupFunctionProvider('array', function(groupParams) {
-                if (!groupParams) {
-                    throw 'sum needs a groupParam';
-                }
-
-                return arrayGroupBuilder(groupParams);
-            });
+            crossfilterUtilsProvider.addGroupFunctionProvider('array', new ArrayGroupProvider());
         }
     ]);
 
-    function arrayGroupBuilder(groupParams) {
+    function ArrayGroupProvider() {}
+
+    ArrayGroupProvider.prototype.initialize = ['$parse',
+        function($parse) {
+            this.$parse = $parse;
+        }
+    ];
+
+    ArrayGroupProvider.prototype.buildGroup = function(groupParams) {
+        if (!groupParams) {
+            throw 'sum needs a groupParam';
+        }
+
+        return arrayGroupBuilder(this.$parse(groupParams.value));
+    };
+
+    function arrayGroupBuilder(getter) {
         var arrayGroup = {
             init: function() {
                 return [];
             },
             add: function(p, v) {
-                var val = groupParams({
-                    d: v
-                }).value;
+                var val = getter({
+                    v: v
+                });
 
                 p.push(val);
 
                 return p;
             },
             remove: function(p, v) {
-                var val = groupParams({
-                    d: v
-                }).value;
+                var val = getter({
+                    v: v
+                });
 
-                p.slice(p.indexOf(val), 1);
+                p.splice(p.indexOf(val), 1);
 
                 return p;
             }
@@ -705,32 +720,42 @@
     ngDashboard.config(['crossfilterUtilsProvider',
         function(crossfilterUtilsProvider) {
 
-            crossfilterUtilsProvider.addGroupFunctionProvider('sum', function(groupParams) {
-                if (!groupParams) {
-                    throw 'sum needs a groupParam';
-                }
-
-                return sumGroupBuilder(groupParams);
-            });
+            crossfilterUtilsProvider.addGroupFunctionProvider('sum', new SumGroupProvider());
         }
     ]);
 
-    function sumGroupBuilder(groupParams) {
+    function SumGroupProvider() {}
+
+    SumGroupProvider.prototype.initialize = ['$parse',
+        function($parse) {
+            this.$parse = $parse;
+        }
+    ];
+
+    SumGroupProvider.prototype.buildGroup = function(groupParams) {
+        if (!groupParams) {
+            throw 'sum needs a groupParam';
+        }
+
+        return sumGroupBuilder(this.$parse(groupParams.value));
+    };
+
+    function sumGroupBuilder(valuGetter) {
         var sumGroup = {
             init: function() {
                 return 0;
             },
             add: function(p, v) {
-                var val = groupParams({
-                    d: v
-                }).value;
+                var val = valuGetter({
+                    v: v
+                });
 
                 return p + val;
             },
             remove: function(p, v) {
-                var val = groupParams({
-                    d: v
-                }).value;
+                var val = valuGetter({
+                    v: v
+                });
 
                 return p - val;
             }

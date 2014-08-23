@@ -4,32 +4,42 @@
     ngDashboard.config(['crossfilterUtilsProvider',
         function(crossfilterUtilsProvider) {
 
-            crossfilterUtilsProvider.addGroupFunctionProvider('sum', function(groupParams) {
-                if (!groupParams) {
-                    throw 'sum needs a groupParam';
-                }
-
-                return sumGroupBuilder(groupParams);
-            });
+            crossfilterUtilsProvider.addGroupFunctionProvider('sum', new SumGroupProvider());
         }
     ]);
 
-    function sumGroupBuilder(groupParams) {
+    function SumGroupProvider() {}
+
+    SumGroupProvider.prototype.initialize = ['$parse',
+        function($parse) {
+            this.$parse = $parse;
+        }
+    ];
+
+    SumGroupProvider.prototype.buildGroup = function(groupParams) {
+        if (!groupParams) {
+            throw 'sum needs a groupParam';
+        }
+
+        return sumGroupBuilder(this.$parse(groupParams.value));
+    };
+
+    function sumGroupBuilder(valuGetter) {
         var sumGroup = {
             init: function() {
                 return 0;
             },
             add: function(p, v) {
-                var val = groupParams({
-                    d: v
-                }).value;
+                var val = valuGetter({
+                    v: v
+                });
 
                 return p + val;
             },
             remove: function(p, v) {
-                var val = groupParams({
-                    d: v
-                }).value;
+                var val = valuGetter({
+                    v: v
+                });
 
                 return p - val;
             }
