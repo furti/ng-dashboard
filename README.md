@@ -91,7 +91,12 @@ dashboard.controller('ChartController', [function() {
             width: 350,
             height: 200,
             dimension: 'd.Run',
-            group: 'sum({"value": d.Speed * d.Run / 1000})',
+            group: {
+                functionName: 'sum',
+                parameters: {
+                    value: 'v.Speed * v.Run / 1000'
+                }
+            },
             x: 'linear({"domain": [0, 20]})'
         }]
     };
