@@ -175,7 +175,11 @@
                     renderHorizontalGridLines: true,
                     elasticY: true,
                     brushOn: true,
-                    titleAccessor: 'd.key + "\nHomicide incidents: " + Math.round(d.value.homicide)'
+                    titleAccessor: 'd.key + "\nHomicide incidents: " + Math.round(d.value.homicide)',
+                    xAxis: {
+                        ticks: 5,
+                        tickFormat: 'd'
+                    }
                 }]
             };
 
