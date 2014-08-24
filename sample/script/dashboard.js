@@ -98,28 +98,86 @@
                 }]
             };
 
-            //            this.crime = {
-            //                name: 'crime',
-            //                title: 'Major Canadian City Crime Stats 1998-2011',
-            //                dataUrl: './data/crime.json',
-            //                widgets: [{
-            //                    name: 'homicide',
-            //                    title: 'Homicide Incidents by Year',
-            //                    type: 'line',
-            //                    width: 360,
-            //                    height: 150,
-            //                    margins: {
-            //                        top: 10,
-            //                        right: 50,
-            //                        bottom: 30,
-            //                        left: 60
-            //                    },
-            //                    dimension: 'd.year',
-            //                    group: '',
-            //                    valueAccessor: 'd.value.homicide'
-            //
-            //                }]
-            //            };
+            var crimeIncidentByYearGroup = {
+                functionName: 'conditional',
+                parameters: {
+                    init: {
+                        totalCrimeRecords: 0,
+                        totalCrime: 0,
+                        totalCrimeAvg: 0,
+                        violentCrimeRecords: 0,
+                        violentCrime: 0,
+                        violentCrimeAvg: 0,
+                        homicide: 0,
+                        nonViolentCrimeAvg: 0
+                    },
+                    conditions: {
+                        isTotalCrimeRateRecord: 'v.type == "Total, all violations" && v.sub_type == "Rate per 100,000 population"',
+                        isViolentCrimeRateRecord: 'v.type == "Total violent Criminal Code violations" && v.sub_type == "Rate per 100,000 population"',
+                        isHomicideIncidentRecord: 'v.type == "Homicide" && v.sub_type == "Actual incidents"'
+                    },
+                    handlers: {
+                        add: {
+                            isTotalCrimeRateRecord: {
+                                'p.totalCrimeRecords': 'p.totalCrimeRecords + 1',
+                                'p.totalCrime': 'p.totalCrime + v.number',
+                                'p.totalCrimeAvg': 'p.totalCrime / p.totalCrimeRecords'
+                            },
+                            isViolentCrimeRateRecord: {
+                                'p.violentCrimeRecords': 'p.violentCrimeRecords + 1',
+                                'p.violentCrime': 'p.violentCrime + v.number',
+                                'p.violentCrimeAvg': 'p.violentCrime / p.violentCrimeRecords'
+                            },
+                            isHomicideIncidentRecord: {
+                                'p.homicide': 'p.homicide + v.number'
+                            }
+                        },
+                        remove: {
+                            isTotalCrimeRateRecord: {
+                                'p.totalCrimeRecords': 'p.totalCrimeRecords - 1',
+                                'p.totalCrime': 'p.totalCrime - v.number',
+                                'p.totalCrimeAvg': 'p.totalCrime / p.totalCrimeRecords'
+                            },
+                            isViolentCrimeRateRecord: {
+                                'p.violentCrimeRecords': 'p.violentCrimeRecords - 1',
+                                'p.violentCrime': 'p.violentCrime - v.number',
+                                'p.violentCrimeAvg': 'p.violentCrime / p.violentCrimeRecords'
+                            },
+                            isHomicideIncidentRecord: {
+                                'p.homicide': 'p.homicide - v.number'
+                            }
+                        }
+                    }
+                }
+            };
+
+            this.crime = {
+                name: 'crime',
+                title: 'Major Canadian City Crime Stats 1998-2011',
+                dataUrl: './sample/data/crime.json',
+                widgets: [{
+                    name: 'homicide',
+                    title: 'Homicide Incidents by Year',
+                    type: 'linechart',
+                    width: 360,
+                    height: 150,
+                    margins: {
+                        top: 10,
+                        right: 50,
+                        bottom: 30,
+                        left: 60
+                    },
+                    dimension: 'd.year',
+                    //TODO: implement pre and posthandlers
+                    group: crimeIncidentByYearGroup,
+                    valueAccessor: 'd.value.homicide',
+                    x: 'linear({"domain": [1997, 2012]})',
+                    renderHorizontalGridLines: true,
+                    elasticY: true,
+                    brushOn: true,
+                    titleAccessor: 'd.key + "\nHomicide incidents: " + Math.round(d.value.homicide)'
+                }]
+            };
 
         }
     ]);
