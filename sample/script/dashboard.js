@@ -162,6 +162,38 @@
                 title: 'Major Canadian City Crime Stats 1998-2011',
                 dataUrl: './sample/data/crime.json',
                 widgets: [{
+                    name: 'incident',
+                    title: 'Crime Per 100K Population by Year',
+                    type: 'barchart',
+                    width: 360,
+                    height: 180,
+                    margins: {
+                        top: 40,
+                        right: 50,
+                        bottom: 30,
+                        left: 60
+                    },
+                    dimension: 'd.year',
+                    group: angular.extend({
+                        name: 'Non-Violent Crime'
+                    }, crimeIncidentByYearGroup),
+                    valueAccessor: 'd.value.nonViolentCrimeAvg',
+                    //.stack(crimeIncidentByYear, "Violent Crime", function(d){return d.value.violentCrimeAvg;})
+                    x: 'linear({"domain": [1997, 2012]})',
+                    renderHorizontalGridLines: true,
+                    centerBar: true,
+                    elasticY: true,
+                    brushOn: false,
+                    legend: {
+                        x: 250,
+                        y: 10
+                    },
+                    titleAccessor: 'd.key + "\nViolent crime per 100k population: " + Math.round(d.value.violentCrimeAvg) + "\nNon-Violent crime per 100k population: " + Math.round(d.value.nonViolentCrimeAvg)',
+                    xAxis: {
+                        ticks: 5,
+                        tickFormat: 'd'
+                    }
+                }, {
                     name: 'homicide',
                     title: 'Homicide Incidents by Year',
                     type: 'linechart',

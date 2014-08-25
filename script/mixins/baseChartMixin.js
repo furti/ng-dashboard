@@ -21,8 +21,13 @@
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
 
-        chart.dimension(widgetData.dimension)
-            .group(widgetData.group);
+        chart.dimension(widgetData.dimension);
+
+        if (raw.group.name) {
+            chart.group(widgetData.group, raw.group.name);
+        } else {
+            chart.group(widgetData.group);
+        }
 
         invoke(raw, chart, 'width');
         invoke(raw, chart, 'minWidth');
