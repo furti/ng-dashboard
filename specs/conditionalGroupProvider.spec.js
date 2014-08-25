@@ -44,6 +44,60 @@ describe('Conditionalgroup Provider', function() {
             }
         };
 
+    var preGroupData = {
+        functionName: 'conditional',
+        parameters: {
+            conditions: {
+                aCheck: 'v.type === "C"'
+            },
+            handlers: {
+                add: {
+                    pre: {
+                        'p.c': 'p.c * v.val'
+                    },
+                    aCheck: {
+                        'p.c': 'p.c + v.val'
+                    }
+                },
+                remove: {
+                    pre: {
+                        'p.c': 'p.c - v.val'
+                    },
+                    aCheck: {
+                        'p.c': 'p.c / v.val'
+                    }
+                }
+            }
+        }
+    };
+
+    var postGroupData = {
+        functionName: 'conditional',
+        parameters: {
+            conditions: {
+                aCheck: 'v.type === "C"'
+            },
+            handlers: {
+                add: {
+                    aCheck: {
+                        'p.c': 'p.c + v.val'
+                    },
+                    post: {
+                        'p.c': 'p.c * v.val'
+                    }
+                },
+                remove: {
+                    aCheck: {
+                        'p.c': 'p.c / v.val'
+                    },
+                    post: {
+                        'p.c': 'p.c - v.val'
+                    }
+                }
+            }
+        }
+    };
+
     beforeEach(function() {
         module('ngDashboard');
 
@@ -216,6 +270,98 @@ describe('Conditionalgroup Provider', function() {
             b: 10,
             c: 4,
             d: 4
+        });
+    });
+
+    it('Pre handlers should be called before others when adding', function() {
+        var groupFunctions = crossfilterUtils.groupFunctions(preGroupData);
+
+        var p = {
+            a: 1,
+            b: 10,
+            c: 6,
+            d: 5
+        };
+
+        var v = {
+            val: 2,
+            type: 'C'
+        };
+
+        expect(groupFunctions.add(p, v)).toEqual({
+            a: 1,
+            b: 10,
+            c: 14,
+            d: 5
+        });
+    });
+
+    it('Pre handlers should be called before others when removing', function() {
+        var groupFunctions = crossfilterUtils.groupFunctions(preGroupData);
+
+        var p = {
+            a: 1,
+            b: 10,
+            c: 14,
+            d: 5
+        };
+
+        var v = {
+            val: 2,
+            type: 'C'
+        };
+
+        expect(groupFunctions.remove(p, v)).toEqual({
+            a: 1,
+            b: 10,
+            c: 6,
+            d: 5
+        });
+    });
+
+    it('post handlers should be called after others when adding', function() {
+        var groupFunctions = crossfilterUtils.groupFunctions(postGroupData);
+
+        var p = {
+            a: 1,
+            b: 10,
+            c: 5,
+            d: 5
+        };
+
+        var v = {
+            val: 3,
+            type: 'C'
+        };
+
+        expect(groupFunctions.add(p, v)).toEqual({
+            a: 1,
+            b: 10,
+            c: 24,
+            d: 5
+        });
+    });
+
+    it('post handlers should be called after others when removing', function() {
+        var groupFunctions = crossfilterUtils.groupFunctions(postGroupData);
+
+        var p = {
+            a: 1,
+            b: 10,
+            c: 24,
+            d: 5
+        };
+
+        var v = {
+            val: 3,
+            type: 'C'
+        };
+
+        expect(groupFunctions.remove(p, v)).toEqual({
+            a: 1,
+            b: 10,
+            c: 5,
+            d: 5
         });
     });
 });

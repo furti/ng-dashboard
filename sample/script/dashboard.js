@@ -130,6 +130,9 @@
                             },
                             isHomicideIncidentRecord: {
                                 'p.homicide': 'p.homicide + v.number'
+                            },
+                            post: {
+                                'p.nonViolentCrimeAvg': 'p.totalCrimeAvg - p.violentCrimeAvg'
                             }
                         },
                         remove: {
@@ -145,6 +148,9 @@
                             },
                             isHomicideIncidentRecord: {
                                 'p.homicide': 'p.homicide - v.number'
+                            },
+                            post: {
+                                'p.nonViolentCrimeAvg': 'p.totalCrimeAvg - p.violentCrimeAvg'
                             }
                         }
                     }
@@ -168,7 +174,6 @@
                         left: 60
                     },
                     dimension: 'd.year',
-                    //TODO: implement pre and posthandlers
                     group: crimeIncidentByYearGroup,
                     valueAccessor: 'd.value.homicide',
                     x: 'linear({"domain": [1997, 2012]})',

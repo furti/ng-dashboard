@@ -28,7 +28,7 @@
         var conditions = prepare(groupParams.conditions, $parse);
         var addHandlers = prepare(groupParams.handlers.add, $parse);
         var removeHandlers = prepare(groupParams.handlers.remove, $parse);
-
+        
         var conditionalGroup = {
             init: function() {
                 return angular.copy(groupParams.init);
@@ -56,6 +56,12 @@
     }
 
     function handleConditions(conditions, handlers, context) {
+        if (handlers.pre) {
+            angular.forEach(handlers.pre, function(preHandler) {
+                preHandler.setter(context, preHandler.getter(context));
+            });
+        }
+
         for (var conditionKey in conditions) {
             if (conditions[conditionKey](context)) {
                 for (var handlerKey in handlers[conditionKey]) {
@@ -63,8 +69,14 @@
                     handler.setter(context, handler.getter(context));
                 }
 
-                return;
+                break;
             }
+        }
+
+        if (handlers.post) {
+            angular.forEach(handlers.post, function(postHandler) {
+                postHandler.setter(context, postHandler.getter(context));
+            });
         }
     }
 
