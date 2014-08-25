@@ -178,7 +178,12 @@
                         name: 'Non-Violent Crime'
                     }, crimeIncidentByYearGroup),
                     valueAccessor: 'd.value.nonViolentCrimeAvg',
-                    //.stack(crimeIncidentByYear, "Violent Crime", function(d){return d.value.violentCrimeAvg;})
+                    stacks: [
+                        angular.extend({
+                            name: 'Violent Crime',
+                            valueAccessor: 'd.value.violentCrimeAvg'
+                        }, crimeIncidentByYearGroup)
+                    ],
                     x: 'linear({"domain": [1997, 2012]})',
                     renderHorizontalGridLines: true,
                     centerBar: true,
