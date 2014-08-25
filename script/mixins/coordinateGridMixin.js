@@ -30,6 +30,9 @@
         invoke(raw, chart, 'elasticX');
         invoke(raw, chart, 'elasticY');
         invoke(raw, chart, 'mouseZoomable');
+        invoke(raw, chart, 'renderHorizontalGridLines');
+        invoke(raw, chart, 'renderVerticalGridLines');
+        
 
         if (raw.xAxis) {
             this.configureAxis(chart.xAxis(), raw.xAxis);

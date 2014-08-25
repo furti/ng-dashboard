@@ -514,8 +514,13 @@
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
 
-        chart.dimension(widgetData.dimension)
-            .group(widgetData.group);
+        chart.dimension(widgetData.dimension);
+
+        if (raw.group.name) {
+            chart.group(widgetData.group, raw.group.name);
+        } else {
+            chart.group(widgetData.group);
+        }
 
         invoke(raw, chart, 'width');
         invoke(raw, chart, 'minWidth');
@@ -637,6 +642,9 @@
         invoke(raw, chart, 'elasticX');
         invoke(raw, chart, 'elasticY');
         invoke(raw, chart, 'mouseZoomable');
+        invoke(raw, chart, 'renderHorizontalGridLines');
+        invoke(raw, chart, 'renderVerticalGridLines');
+        
 
         if (raw.xAxis) {
             this.configureAxis(chart.xAxis(), raw.xAxis);
