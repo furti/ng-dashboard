@@ -171,11 +171,9 @@ The correspondent sections describe all available properties for this mixins. Se
 
 The linechart also defines some additional properties.
 
-```renderArea```
-A boolean that defines if the areas below the lines should be filled.
+```renderArea``` A boolean that defines if the areas below the lines should be filled.
 
-```renderDataPoints```
-Defines if dots should be shown for each datapoint.
+```renderDataPoints``` Defines if dots should be shown for each datapoint.
 
 ```interpolate``` a string naming the interpolator used for drawing lines. See [d3.svg.line.interpolate](https://github.com/mbostock/d3/wiki/SVG-Shapes#line_interpolate) and [d3.svg.area.interpolate](https://github.com/mbostock/d3/wiki/SVG-Shapes#area_interpolate) for valid values.
 
