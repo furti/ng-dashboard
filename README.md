@@ -140,7 +140,8 @@ A URL that is used to load the data for the crossfilter. Either data or dataUrl 
 A Array of objects that describe the widgets to show. If empty nothing is shown.
 
 ###widget-data Object
-The widget-data Object describes the widget type and its appearance.
+The widget-data Object describes the widget type and its appearance. Each widget defines the following properties.
+Other properties are required for each individual widget type.
 
 ***name*** ```required```
 
@@ -165,12 +166,36 @@ Defines which widget to display. See ```types``` for a list of supported types.
 ###Types
 
 ***linechart***
+Creates a [dc.js linechart](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#line-chart). A linechart uses the ```Basechart Mixin```, ```Stack Mixin```, ```Coordinate Grid Mixin ``` and the ```Margin Mixin```.
+The correspondent sections describe all available properties for this mixins. See  for further informations.
+
+The linechart also defines some additional properties.
+
+```renderArea```
+A boolean that defines if the areas below the lines should be filled.
+
+```renderDataPoints```
+Defines if dots should be shown for each datapoint.
+
+```interpolate``` a string naming the interpolator used for drawing lines. See [d3.svg.line.interpolate](https://github.com/mbostock/d3/wiki/SVG-Shapes#line_interpolate) and [d3.svg.area.interpolate](https://github.com/mbostock/d3/wiki/SVG-Shapes#area_interpolate) for valid values.
 
 ***barchart***
 
 ***piechart***
 
 ***boxPlot***
+
+###Basechart Mixin
+
+###Color Mixin
+
+###Coordinate Grid Mixin
+
+```brushOn``` boolean that defines if brushing is enabled or disabled. If brushing is on the user can drag the mouse accross the chart to filter the data based on the selection.
+
+###Margin Mixin
+
+###Stack Mixin
 
 
 ###dimension

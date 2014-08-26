@@ -28,8 +28,6 @@
         this.marginMixin.configureChart(lineChart, widgetData);
 
         this.invokeIfDefined(widgetData.rawData, lineChart, 'renderArea');
-        this.invokeIfDefined(widgetData.rawData, lineChart, 'renderArea');
-        this.invokeIfDefined(widgetData.rawData, lineChart, 'brushOn');
         this.invokeIfDefined(widgetData.rawData, lineChart, 'renderDataPoints');
         this.invokeIfDefined(widgetData.rawData, lineChart, 'interpolate');
 
