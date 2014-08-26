@@ -9,10 +9,11 @@
 
     function PieChartProvider() {}
 
-    PieChartProvider.prototype.initialize = ['baseChartMixin', 'invokeIfDefined',
-        function(baseChartMixin, invokeIfDefined) {
+    PieChartProvider.prototype.initialize = ['baseChartMixin', 'invokeIfDefined', 'colorMixin',
+        function(baseChartMixin, invokeIfDefined, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.invokeIfDefined = invokeIfDefined;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -22,6 +23,7 @@
         var raw = widgetData.rawData;
 
         this.baseChartMixin.configureChart(chart, widgetData);
+        this.colorMixin.configureChart(chart, widgetData);
 
         invoke(raw, chart, 'slicesCap');
         invoke(raw, chart, 'innerRadius');

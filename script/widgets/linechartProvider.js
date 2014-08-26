@@ -9,13 +9,14 @@
 
     function LineChartProvider() {}
 
-    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined',
-        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined) {
+    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined', 'colorMixin',
+        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.coordinateGridMixin = coordinateGridMixin;
             this.invokeIfDefined = invokeIfDefined;
             this.marginMixin = marginMixin;
             this.stackMixin = stackMixin;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -26,6 +27,7 @@
         this.stackMixin.configureChart(lineChart, widgetData);
         this.coordinateGridMixin.configureChart(lineChart, widgetData);
         this.marginMixin.configureChart(lineChart, widgetData);
+        this.colorMixin.configureChart(lineChart, widgetData);
 
         this.invokeIfDefined(widgetData.rawData, lineChart, 'renderArea');
         this.invokeIfDefined(widgetData.rawData, lineChart, 'renderDataPoints');

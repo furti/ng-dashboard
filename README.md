@@ -166,8 +166,9 @@ Defines which widget to display. See ```types``` for a list of supported types.
 ###Types
 
 ***linechart***
-Creates a [dc.js linechart](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#line-chart). A linechart uses the ```Basechart Mixin```, ```Stack Mixin```, ```Coordinate Grid Mixin ``` and the ```Margin Mixin```.
-The correspondent sections describe all available properties for this mixins. See  for further informations.
+
+Creates a [dc.js linechart](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#line-chart). A linechart uses the ```Basechart Mixin```, ```Stack Mixin```, ```Color Mixin```, ```Coordinate Grid Mixin ``` and the ```Margin Mixin```.
+The correspondent sections describe all available properties for this mixins.
 
 The linechart also defines some additional properties.
 
@@ -179,9 +180,31 @@ The linechart also defines some additional properties.
 
 ***barchart***
 
+Creates a [dc.js barchart](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#bar-chart). A barchart uses the ```Basechart Mixin```, ```Stack Mixin```, ```Color Mixin```, ```Coordinate Grid Mixin ``` and the ```Margin Mixin```.
+The correspondent sections describe all available properties for this mixins.
+
 ***piechart***
 
+Creates a [dc.js piechart](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#bar-chart). A piechart uses the ```Basechart Mixin``` and the ```Color Mixin```.
+The correspondent sections describe all available properties for this mixins.
+
+The piechart also defines some additional properties.
+
+```slicesCap``` defines the maximum number of slices the pie chart displays.
+
+```innerRadius``` sets the inner radius in px. If greater than 0 a doghnut chart is rendered.
+
+```radius``` sets the outer radius of the chart in px.
+
+```cx``` the center x of the chart.
+
+```cy``` the center y of the chart.
+
+```minAngleForLabel``` defines the minimun angle a slice must have to show a label.
+
 ***boxPlot***
+
+***heatmap***
 
 ###Basechart Mixin
 
@@ -194,6 +217,8 @@ The linechart also defines some additional properties.
 ###Margin Mixin
 
 ###Stack Mixin
+
+###Color Mixin
 
 
 ###dimension

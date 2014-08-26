@@ -9,13 +9,14 @@
 
     function BarChartProvider() {}
 
-    BarChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined',
-        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined) {
+    BarChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined', 'colorMixin',
+        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.coordinateGridMixin = coordinateGridMixin;
             this.invokeIfDefined = invokeIfDefined;
             this.marginMixin = marginMixin;
             this.stackMixin = stackMixin;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -26,7 +27,8 @@
         this.stackMixin.configureChart(barChart, widgetData);
         this.coordinateGridMixin.configureChart(barChart, widgetData);
         this.marginMixin.configureChart(barChart, widgetData);
-
+        this.colorMixin.configureChart(barChart, widgetData);
+        
         barChart.render();
 
         return barChart;

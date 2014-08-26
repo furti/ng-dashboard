@@ -298,13 +298,14 @@
 
     function BarChartProvider() {}
 
-    BarChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined',
-        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined) {
+    BarChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined', 'colorMixin',
+        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.coordinateGridMixin = coordinateGridMixin;
             this.invokeIfDefined = invokeIfDefined;
             this.marginMixin = marginMixin;
             this.stackMixin = stackMixin;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -315,7 +316,8 @@
         this.stackMixin.configureChart(barChart, widgetData);
         this.coordinateGridMixin.configureChart(barChart, widgetData);
         this.marginMixin.configureChart(barChart, widgetData);
-
+        this.colorMixin.configureChart(barChart, widgetData);
+        
         barChart.render();
 
         return barChart;
@@ -398,13 +400,14 @@
 
     function LineChartProvider() {}
 
-    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined',
-        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined) {
+    LineChartProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'stackMixin', 'invokeIfDefined', 'colorMixin',
+        function(baseChartMixin, coordinateGridMixin, marginMixin, stackMixin, invokeIfDefined, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.coordinateGridMixin = coordinateGridMixin;
             this.invokeIfDefined = invokeIfDefined;
             this.marginMixin = marginMixin;
             this.stackMixin = stackMixin;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -415,6 +418,7 @@
         this.stackMixin.configureChart(lineChart, widgetData);
         this.coordinateGridMixin.configureChart(lineChart, widgetData);
         this.marginMixin.configureChart(lineChart, widgetData);
+        this.colorMixin.configureChart(lineChart, widgetData);
 
         this.invokeIfDefined(widgetData.rawData, lineChart, 'renderArea');
         this.invokeIfDefined(widgetData.rawData, lineChart, 'renderDataPoints');
@@ -436,10 +440,11 @@
 
     function PieChartProvider() {}
 
-    PieChartProvider.prototype.initialize = ['baseChartMixin', 'invokeIfDefined',
-        function(baseChartMixin, invokeIfDefined) {
+    PieChartProvider.prototype.initialize = ['baseChartMixin', 'invokeIfDefined', 'colorMixin',
+        function(baseChartMixin, invokeIfDefined, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.invokeIfDefined = invokeIfDefined;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -449,6 +454,7 @@
         var raw = widgetData.rawData;
 
         this.baseChartMixin.configureChart(chart, widgetData);
+        this.colorMixin.configureChart(chart, widgetData);
 
         invoke(raw, chart, 'slicesCap');
         invoke(raw, chart, 'innerRadius');
