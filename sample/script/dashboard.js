@@ -26,7 +26,12 @@
                             value: 'v.Speed * v.Run / 1000'
                         }
                     },
-                    x: 'linear({"domain": [6, 20]})',
+                    x: {
+                        type: 'linear',
+                        parameters: {
+                            domain: [6, 20]
+                        }
+                    },
                     renderArea: true,
                     brushOn: false,
                     renderDataPoints: true,
@@ -45,7 +50,12 @@
                             value: 'v.Speed * v.Run / 1000'
                         }
                     },
-                    x: 'linear({"domain": [6, 20]})',
+                    x: {
+                        type: 'linear',
+                        parameters: {
+                            domain: [6, 20]
+                        }
+                    },
                     brushOn: true,
                     yAxisLabel: 'This is the Y Axis!',
                     margins: margins
@@ -184,7 +194,12 @@
                             valueAccessor: 'd.value.violentCrimeAvg'
                         }, crimeIncidentByYearGroup)
                     ],
-                    x: 'linear({"domain": [1997, 2012]})',
+                    x: {
+                        type: 'linear',
+                        parameters: {
+                            domain: [1997, 2012]
+                        }
+                    },
                     renderHorizontalGridLines: true,
                     centerBar: true,
                     elasticY: true,
@@ -213,7 +228,12 @@
                     dimension: 'd.year',
                     group: crimeIncidentByYearGroup,
                     valueAccessor: 'd.value.homicide',
-                    x: 'linear({"domain": [1997, 2012]})',
+                    x: {
+                        type: 'linear',
+                        parameters: {
+                            domain: [1997, 2012]
+                        }
+                    },
                     renderHorizontalGridLines: true,
                     elasticY: true,
                     brushOn: true,

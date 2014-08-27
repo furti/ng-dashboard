@@ -11,13 +11,12 @@
 
     LinearScaleProvider.prototype.createScale = function(scaleParams) {
         var scale = d3.scale.linear();
-        var evaluatedParams = scaleParams({});
 
-        setIfPresent(scale, evaluatedParams, 'domain');
-        setIfPresent(scale, evaluatedParams, 'range');
-        setIfPresent(scale, evaluatedParams, 'rangeRound');
-        setIfPresent(scale, evaluatedParams, 'clamp');
-        setIfPresent(scale, evaluatedParams, 'ticks');
+        setIfPresent(scale, scaleParams, 'domain');
+        setIfPresent(scale, scaleParams, 'range');
+        setIfPresent(scale, scaleParams, 'rangeRound');
+        setIfPresent(scale, scaleParams, 'clamp');
+        setIfPresent(scale, scaleParams, 'ticks');
 
         return scale;
     };

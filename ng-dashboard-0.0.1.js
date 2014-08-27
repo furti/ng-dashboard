@@ -229,14 +229,12 @@
         this.widgetExpressionParser = widgetExpressionParser;
     }
 
-    ScaleParser.prototype.parse = function(expression) {
-        var scaleData = this.widgetExpressionParser.parse(expression);
-
-        if (!this.scaleProviders[scaleData.functionName]) {
-            throw 'No scaleprovider ' + scaleData.functionName + ' registered';
+    ScaleParser.prototype.parse = function(scaleData) {
+        if (!this.scaleProviders[scaleData.type]) {
+            throw 'No scaleprovider ' + scaleData.type + ' registered';
         }
 
-        return this.scaleProviders[scaleData.functionName].createScale(scaleData.parameters);
+        return this.scaleProviders[scaleData.type].createScale(scaleData.parameters);
     };
 })(angular);
 (function(angular) {
@@ -482,13 +480,12 @@
 
     LinearScaleProvider.prototype.createScale = function(scaleParams) {
         var scale = d3.scale.linear();
-        var evaluatedParams = scaleParams({});
 
-        setIfPresent(scale, evaluatedParams, 'domain');
-        setIfPresent(scale, evaluatedParams, 'range');
-        setIfPresent(scale, evaluatedParams, 'rangeRound');
-        setIfPresent(scale, evaluatedParams, 'clamp');
-        setIfPresent(scale, evaluatedParams, 'ticks');
+        setIfPresent(scale, scaleParams, 'domain');
+        setIfPresent(scale, scaleParams, 'range');
+        setIfPresent(scale, scaleParams, 'rangeRound');
+        setIfPresent(scale, scaleParams, 'clamp');
+        setIfPresent(scale, scaleParams, 'ticks');
 
         return scale;
     };
