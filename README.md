@@ -216,7 +216,7 @@ The correspondent sections describe all available properties for this mixins.
 
 ```dimension``` a angular expression that is used to create the [crossfilter dimension](https://github.com/square/crossfilter/wiki/API-Reference#dimension) for the chart. See Dimensions for more informations.
 
-```group``` TODO: describe ;)
+```group``` A configuration object that is used to reduce a [crossfilter group](https://github.com/square/crossfilter/wiki/API-Reference#group_reduce) out of the dimension. See Groups for more informations.
 
 ###Color Mixin
 
@@ -273,14 +273,15 @@ This will result in the same dimension as if created like this:
 ```
 
 
-###group
-This expression is used to group the widgets dimension.
-
-```groupfunction({"param1": "expression", "param2": "expression",...})```
-
-groupfunction is the name of the function used to group the dimension.
-Each parameter must be a valid angular expression.
+###Groups
+The group object is used to create the ```init```, ```add``` and ```reomve``` functions needed for the reduce function of a crossfilter group.
+The config object needs two properties. The ***functionName*** property is used to determine the grouping function to use. And the ***parameters*** property is used to configure the function. The content of this property depends on the grouping function.
 
 ####Available group functions
-* sum({"value": "expression"})
-  The sum functions sums up alle the values for the value expression for the dimension.
+***sum***
+
+The sum functions sums up alle the values for the value expression for the dimension.
+
+***array***
+
+***conditional***
