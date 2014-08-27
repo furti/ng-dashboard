@@ -218,6 +218,14 @@ The correspondent sections describe all available properties for this mixins.
 
 ```group``` A configuration object that is used to reduce a [crossfilter group](https://github.com/square/crossfilter/wiki/API-Reference#group_reduce) out of the dimension. See Groups for more informations.
 
+```width``` sets the width of the chart in px.
+
+```minWidth``` sets the minimun width for the chart.
+
+```height``` sets the height of the chart in px.
+
+```minHeight``` sets the minimum height for the chart.
+
 ###Color Mixin
 
 ###Coordinate Grid Mixin
@@ -276,6 +284,8 @@ This will result in the same dimension as if created like this:
 ###Groups
 The group object is used to create the ```init```, ```add``` and ```reomve``` functions needed for the reduce function of a crossfilter group.
 The config object needs two properties. The ***functionName*** property is used to determine the grouping function to use. And the ***parameters*** property is used to configure the function. The content of this property depends on the grouping function.
+
+You can define a ```name``` for a group. This name is used as the name of the group inside the chart.
 
 ####Available group functions
 ***sum***
