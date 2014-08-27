@@ -204,9 +204,19 @@ The piechart also defines some additional properties.
 
 ***boxPlot***
 
+Creates a [dc.js boxplot](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#box-plot). A boxplot uses the ```Basechart Mixin```, ```Color Mixin```, ```Coordinate Grid Mixin ``` and the ```Margin Mixin```.
+The correspondent sections describe all available properties for this mixins.
+
 ***heatmap***
 
+Creates a [dc.js heatmap](https://github.com/dc-js/dc.js/blob/master/web/docs/api-latest.md#heat-map). A heatmap uses the ```Basechart Mixin```, ```Color Mixin``` and the ```Margin Mixin```.
+The correspondent sections describe all available properties for this mixins.
+
 ###Basechart Mixin
+
+```dimension``` a angular expression that is used to create the [crossfilter dimension](https://github.com/square/crossfilter/wiki/API-Reference#dimension) for the chart. See Dimensions for more informations.
+
+```group``` TODO: describe ;)
 
 ###Color Mixin
 
@@ -221,29 +231,47 @@ The piechart also defines some additional properties.
 ###Color Mixin
 
 
-###dimension
-The expression for a widgets dimension can be any valid angular expression.
-It is used inside the value function of the crossfilter dimension to calculate the return value.
-Context for the expression is an object that contains the data object from crossfilter as the ```d``` property.
+###Dimensions
+The dimension expression is used inside the value function of the crossfilter dimension to calculate the return value.
+Context for the expression is an object that contains the data parameter from crossfilter as the ```d``` property.
 
-Example that creates a dimension that uses the total payments.
+The crossfilter contians following data (Example is taken from the crossfilter documentation)
 
 ```javascript
-var widgetData = {
-    name: 'payments',
-    title: 'Payments',
-    data: [
-        {date: "2011-11-14T16:17:54Z", quantity: 2, total: 190, tip: 100, type: "tab"}
-    ],
-    widgets:  [
-        {
-            name: 'totalpayments',
-            title: 'Total Paymetns',
-            dimension: 'd.total'
-        }
-    ]
+[
+  {date: "2011-11-14T16:17:54Z", quantity: 2, total: 190, tip: 100, type: "tab"},
+  {date: "2011-11-14T16:20:19Z", quantity: 2, total: 190, tip: 100, type: "tab"},
+  {date: "2011-11-14T16:28:54Z", quantity: 1, total: 300, tip: 200, type: "visa"},
+  {date: "2011-11-14T16:30:43Z", quantity: 2, total: 90, tip: 0, type: "tab"},
+  {date: "2011-11-14T16:48:46Z", quantity: 2, total: 90, tip: 0, type: "tab"},
+  {date: "2011-11-14T16:53:41Z", quantity: 2, total: 90, tip: 0, type: "tab"},
+  {date: "2011-11-14T16:54:06Z", quantity: 1, total: 100, tip: 0, type: "cash"},
+  {date: "2011-11-14T16:58:03Z", quantity: 2, total: 90, tip: 0, type: "tab"},
+  {date: "2011-11-14T17:07:21Z", quantity: 2, total: 90, tip: 0, type: "tab"},
+  {date: "2011-11-14T17:22:59Z", quantity: 2, total: 90, tip: 0, type: "tab"},
+  {date: "2011-11-14T17:25:45Z", quantity: 2, total: 200, tip: 0, type: "cash"},
+  {date: "2011-11-14T17:29:52Z", quantity: 1, total: 200, tip: 100, type: "visa"}
+];
+```
+
+If we want to create a dimension by total paiment we can use this expression:
+
+```javascript
+{
+    ...
+    dimension: 'd.total'
+    ...
 }
 ```
+
+This will result in the same dimension as if created like this:
+
+```javascript
+    crossfilter.dimension(function(d){
+        return d.total;
+    });
+```
+
 
 ###group
 This expression is used to group the widgets dimension.

@@ -334,11 +334,12 @@
 
     function BoxPlotProvider() {}
 
-    BoxPlotProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin',
-        function(baseChartMixin, coordinateGridMixin, marginMixin) {
+    BoxPlotProvider.prototype.initialize = ['baseChartMixin', 'coordinateGridMixin', 'marginMixin', 'colorMixin',
+        function(baseChartMixin, coordinateGridMixin, marginMixin, colorMixin) {
             this.baseChartMixin = baseChartMixin;
             this.coordinateGridMixin = coordinateGridMixin;
             this.marginMixin = marginMixin;
+            this.colorMixin = colorMixin;
         }
     ];
 
@@ -348,7 +349,7 @@
         this.baseChartMixin.configureChart(chart, widgetData);
         this.coordinateGridMixin.configureChart(chart, widgetData);
         this.marginMixin.configureChart(chart, widgetData);
-
+        this.colorMixin.configureChart(chart, widgetData);
 
         chart.render();
 
