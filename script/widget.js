@@ -56,9 +56,9 @@
     ]);
 
 
-    ngDashboard.directive('widget', ['widgetFactory', 'crossfilterUtils',
+    ngDashboard.directive('widget', ['widgetFactory',
 
-        function(widgetFactory, crossfilterUtils) {
+        function(widgetFactory) {
 
             return {
                 restrict: 'E',
@@ -67,19 +67,13 @@
                     crossFilter: '=crossFilter'
                 },
                 link: function(scope, element) {
-                    var widget, dim, group;
+                    var widget;
                     element.addClass('widget');
 
                     var filterWatch = scope.$watch('crossFilter', function(newValue) {
                         if (newValue) {
-                            dim = scope.crossFilter.dimension(crossfilterUtils.dimensionFunction(scope.widgetData.dimension));
-
-                            var grouping = crossfilterUtils.groupFunctions(scope.widgetData.group);
-                            group = dim.group().reduce(grouping.add, grouping.remove, grouping.init);
-
                             widget = widgetFactory.createWidget(element.find('widget-body'), scope.widgetData.type, {
-                                dimension: dim,
-                                group: group,
+                                crossfilter: scope.crossFilter,
                                 rawData: scope.widgetData
                             });
 

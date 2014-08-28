@@ -116,9 +116,9 @@
     ]);
 
 
-    ngDashboard.directive('widget', ['widgetFactory', 'crossfilterUtils',
+    ngDashboard.directive('widget', ['widgetFactory',
 
-        function(widgetFactory, crossfilterUtils) {
+        function(widgetFactory) {
 
             return {
                 restrict: 'E',
@@ -127,19 +127,13 @@
                     crossFilter: '=crossFilter'
                 },
                 link: function(scope, element) {
-                    var widget, dim, group;
+                    var widget;
                     element.addClass('widget');
 
                     var filterWatch = scope.$watch('crossFilter', function(newValue) {
                         if (newValue) {
-                            dim = scope.crossFilter.dimension(crossfilterUtils.dimensionFunction(scope.widgetData.dimension));
-
-                            var grouping = crossfilterUtils.groupFunctions(scope.widgetData.group);
-                            group = dim.group().reduce(grouping.add, grouping.remove, grouping.init);
-
                             widget = widgetFactory.createWidget(element.find('widget-body'), scope.widgetData.type, {
-                                dimension: dim,
-                                group: group,
+                                crossfilter: scope.crossFilter,
                                 rawData: scope.widgetData
                             });
 
@@ -508,24 +502,28 @@
 
     function BaseChartMixin() {}
 
-    BaseChartMixin.prototype.initialize = ['invokeIfDefined', '$parse', 'widgetExpressionParser',
-        function(invokeIfDefined, $parse, widgetExpressionParser) {
+    BaseChartMixin.prototype.initialize = ['invokeIfDefined', '$parse', 'widgetExpressionParser', 'crossfilterUtils',
+        function(invokeIfDefined, $parse, widgetExpressionParser, crossfilterUtils) {
             this.invokeIfDefined = invokeIfDefined;
             this.$parse = $parse;
             this.widgetExpressionParser = widgetExpressionParser;
+            this.crossfilterUtils = crossfilterUtils;
         }
     ];
 
     BaseChartMixin.prototype.configureChart = function(chart, widgetData) {
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
+        var dimension = this.buildDimension(widgetData);
+        var group = this.buildGroup(dimension, widgetData);
 
-        chart.dimension(widgetData.dimension);
+
+        chart.dimension(dimension);
 
         if (raw.group.name) {
-            chart.group(widgetData.group, raw.group.name);
+            chart.group(group, raw.group.name);
         } else {
-            chart.group(widgetData.group);
+            chart.group(group);
         }
 
         invoke(raw, chart, 'width');
@@ -567,6 +565,18 @@
         invoke(legendData, legend, 'itemWidth');
 
         chart.legend(legend);
+    };
+
+    BaseChartMixin.prototype.buildDimension = function(widgetData) {
+        var crossfilter = widgetData.crossfilter;
+        var dimensionFunction = this.crossfilterUtils.dimensionFunction(widgetData.rawData.dimension);
+
+        return crossfilter.dimension(dimensionFunction);
+    };
+
+    BaseChartMixin.prototype.buildGroup = function(dimension, widgetData) {
+        var grouping = this.crossfilterUtils.groupFunctions(widgetData.rawData.group);
+        return dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
     };
 })(angular);
 (function(angular) {

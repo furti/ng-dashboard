@@ -26,7 +26,7 @@
             return;
         }
         var invoke = this.invokeIfDefined,
-            dim = widgetData.dimension,
+            dim = chart.dimension(),
             mixin = this;
 
         angular.forEach(raw.stacks, function(stack) {
