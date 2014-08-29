@@ -38,7 +38,7 @@
                                 throw 'No groupfunction provider for ' + groupData.functionName + ' registered';
                             }
 
-                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters);
+                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters, groupData.debug);
                         }
                     };
                 }

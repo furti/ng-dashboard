@@ -127,15 +127,27 @@
                     crossFilter: '=crossFilter'
                 },
                 link: function(scope, element) {
-                    var widget;
+                    var widget, overlays;
                     element.addClass('widget');
 
                     var filterWatch = scope.$watch('crossFilter', function(newValue) {
                         if (newValue) {
-                            widget = widgetFactory.createWidget(element.find('widget-body'), scope.widgetData.type, {
-                                crossfilter: scope.crossFilter,
-                                rawData: scope.widgetData
-                            });
+                            var widgetBody = element.find('widget-body');
+
+                            widget = createWidget(widgetBody, scope.widgetData, scope.crossFilter, widgetFactory);
+
+                            if (scope.widgetData.overlays) {
+                                overlays = [];
+
+                                for (var i in scope.widgetData.overlays) {
+                                    var overlayWidget = createWidget(widgetBody,
+                                        scope.widgetData.overlays[i],
+                                        scope.crossFilter,
+                                        widgetFactory);
+
+                                    overlays.push(overlayWidget);
+                                }
+                            }
 
                             filterWatch();
                         }
@@ -145,6 +157,13 @@
             };
         }
     ]);
+
+    function createWidget(element, widgetData, crossFilter, widgetFactory) {
+        return widgetFactory.createWidget(element, widgetData.type, {
+            crossfilter: crossFilter,
+            rawData: widgetData
+        });
+    }
 })(angular);
 (function(angular) {
     var ngDashboard = angular.module('ngDashboard');
@@ -271,7 +290,7 @@
                                 throw 'No groupfunction provider for ' + groupData.functionName + ' registered';
                             }
 
-                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters);
+                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters, groupData.debug);
                         }
                     };
                 }
@@ -601,6 +620,7 @@
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
 
+        invoke(raw, chart, 'colors');
         invoke(raw, chart, 'colorDomain');
         invoke(raw, chart, 'linearColors');
         invoke(raw, chart, 'ordinalColors');

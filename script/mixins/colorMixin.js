@@ -20,6 +20,7 @@
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
 
+        invoke(raw, chart, 'colors');
         invoke(raw, chart, 'colorDomain');
         invoke(raw, chart, 'linearColors');
         invoke(raw, chart, 'ordinalColors');

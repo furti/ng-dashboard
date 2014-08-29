@@ -10,28 +10,35 @@
 
     function ConditionalGroupProvider() {}
 
-    ConditionalGroupProvider.prototype.initialize = ['$parse',
-        function($parse) {
+    ConditionalGroupProvider.prototype.initialize = ['$parse', '$log',
+        function($parse, $log) {
             this.$parse = $parse;
+            this.$log = $log;
         }
     ];
 
-    ConditionalGroupProvider.prototype.buildGroup = function(groupParams) {
+    ConditionalGroupProvider.prototype.buildGroup = function(groupParams, debug) {
         if (!groupParams) {
             throw 'conditional needs a groupParam';
         }
 
-        return conditionalGroupBuilder(groupParams, this.$parse);
+        return conditionalGroupBuilder(groupParams, this.$parse, debug, this.$log);
     };
 
-    function conditionalGroupBuilder(groupParams, $parse) {
+    function conditionalGroupBuilder(groupParams, $parse, debug, $log) {
         var conditions = prepare(groupParams.conditions, $parse);
         var addHandlers = prepare(groupParams.handlers.add, $parse);
         var removeHandlers = prepare(groupParams.handlers.remove, $parse);
-        
+
         var conditionalGroup = {
             init: function() {
-                return angular.copy(groupParams.init);
+                var initData = angular.copy(groupParams.init);
+
+                if (debug) {
+                    $log.info(initData);
+                }
+
+                return initData;
             },
             add: function(p, v) {
                 handleConditions(conditions, addHandlers, {

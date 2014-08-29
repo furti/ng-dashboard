@@ -167,6 +167,57 @@
                 }
             };
 
+            var totalCrimeRateByYearGroup = {
+                functionName: 'conditional',
+                parameters: {
+                    init: {
+                        totalCrimeRecords: 0,
+                        totalCrimeRate: 0,
+                        avgTotalCrimeRate: 0,
+                        violentCrimeRecords: 0,
+                        violentCrimeRate: 0,
+                        avgViolentCrimeRate: 0,
+                        violentCrimeRatio: 0
+                    },
+                    conditions: {
+                        isTotalCrimeRateRecord: 'v.type == "Total, all violations" && v.sub_type == "Rate per 100,000 population"',
+                        isViolentCrimeRateRecord: 'v.type == "Total violent Criminal Code violations" && v.sub_type == "Rate per 100,000 population"'
+                    },
+                    handlers: {
+                        add: {
+                            isTotalCrimeRateRecord: {
+                                'p.totalCrimeRecords': 'p.totalCrimeRecords + 1',
+                                'p.totalCrimeRate': 'p.totalCrimeRate + v.number',
+                                'p.avgTotalCrimeRate': 'p.totalCrimeRate / p.totalCrimeRecords'
+                            },
+                            isViolentCrimeRateRecord: {
+                                'p.violentCrimeRecords': 'p.violentCrimeRecords + 1',
+                                'p.violentCrimeRate': 'p.violentCrimeRate + v.number',
+                                'p.avgViolentCrimeRate': 'p.violentCrimeRate / p.violentCrimeRecords'
+                            },
+                            post: {
+                                'p.violentCrimeRatio': 'p.avgViolentCrimeRate / p.avgTotalCrimeRate * 100'
+                            }
+                        },
+                        remove: {
+                            isTotalCrimeRateRecord: {
+                                'p.totalCrimeRecords': 'p.totalCrimeRecords - 1',
+                                'p.totalCrimeRate': 'p.totalCrimeRate - v.number',
+                                'p.avgTotalCrimeRate': 'p.totalCrimeRate / p.totalCrimeRecords'
+                            },
+                            isViolentCrimeRateRecord: {
+                                'p.violentCrimeRecords': 'p.violentCrimeRecords - 1',
+                                'p.violentCrimeRate': 'p.violentCrimeRate - v.number',
+                                'p.avgViolentCrimeRate': 'p.violentCrimeRate / p.violentCrimeRecords'
+                            },
+                            post: {
+                                'p.violentCrimeRatio': 'p.avgViolentCrimeRate / p.avgTotalCrimeRate * 100'
+                            }
+                        }
+                    }
+                }
+            };
+
             var canadaSvg = [{
                 type: 'g',
                 id: 'Canada',
@@ -412,7 +463,82 @@
                     type: 'svg',
                     width: 600,
                     height: 450,
-                    elements: canadaSvg
+                    elements: canadaSvg,
+                    overlays: [{
+                        name: 'citycrime',
+                        type: 'bubbleoverlay',
+                        width: 600,
+                        height: 450,
+                        dimension: 'd.city',
+                        group: totalCrimeRateByYearGroup,
+                        colors: ["#ff7373", "#ff4040", "#ff0000", "#bf3030", "#a60000"],
+                        colorDomain: [13, 30],
+                        colorAccessor: 'd.value.violentCrimeRatio',
+                        radiusValueAccessor: 'd.value.avgTotalCrimeRate',
+                        r: {
+                            type: 'linear',
+                            parameters: {
+                                domain: [0, 200000]
+                            }
+                        },
+                        points: [{
+                            name: "Toronto",
+                            x: 364,
+                            y: 400
+                        }, {
+                            name: "Ottawa",
+                            x: 395.5,
+                            y: 383
+                        }, {
+                            name: "Vancouver",
+                            x: 40.5,
+                            y: 316
+                        }, {
+                            name: "Montreal",
+                            x: 417,
+                            y: 370
+                        }, {
+                            name: "Edmonton",
+                            x: 120,
+                            y: 299
+                        }, {
+                            name: "Saskatoon",
+                            x: 163,
+                            y: 322
+                        }, {
+                            name: "Winnipeg",
+                            x: 229,
+                            y: 345
+                        }, {
+                            name: "Calgary",
+                            x: 119,
+                            y: 329
+                        }, {
+                            name: "Quebec",
+                            x: 431,
+                            y: 351
+                        }, {
+                            name: "Halifax",
+                            x: 496,
+                            y: 367
+                        }, {
+                            name: "St. John's",
+                            x: 553,
+                            y: 323
+                        }, {
+                            name: "Yukon",
+                            x: 44,
+                            y: 176
+                        }, {
+                            name: "Northwest Territories",
+                            x: 125,
+                            y: 195
+                        }, {
+                            name: "Nunavut",
+                            x: 273,
+                            y: 188
+                        }]
+                    }]
                 }, {
                     name: 'incident',
                     title: 'Crime Per 100K Population by Year',
