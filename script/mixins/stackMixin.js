@@ -9,10 +9,9 @@
 
     function StackMixin() {}
 
-    StackMixin.prototype.initialize = ['invokeIfDefined', '$parse', 'crossfilterUtils', 'widgetExpressionParser',
-        function(invokeIfDefined, $parse, crossfilterUtils, widgetExpressionParser) {
+    StackMixin.prototype.initialize = ['invokeIfDefined', 'crossfilterUtils', 'widgetExpressionParser',
+        function(invokeIfDefined, crossfilterUtils, widgetExpressionParser) {
             this.invokeIfDefined = invokeIfDefined;
-            this.$parse = $parse;
             this.crossfilterUtils = crossfilterUtils;
             this.widgetExpressionParser = widgetExpressionParser;
         }
@@ -35,7 +34,7 @@
             var valueAccessor;
 
             if (stack.valueAccessor) {
-                valueAccessor = mixin.widgetExpressionParser.valueFunction(mixin.$parse(stack.valueAccessor));
+                valueAccessor = mixin.widgetExpressionParser.valueFunction(stack.valueAccessor);
             }
 
             if (stack.name && valueAccessor) {

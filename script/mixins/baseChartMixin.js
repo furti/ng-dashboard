@@ -9,10 +9,9 @@
 
     function BaseChartMixin() {}
 
-    BaseChartMixin.prototype.initialize = ['invokeIfDefined', '$parse', 'widgetExpressionParser', 'crossfilterUtils',
-        function(invokeIfDefined, $parse, widgetExpressionParser, crossfilterUtils) {
+    BaseChartMixin.prototype.initialize = ['invokeIfDefined', 'widgetExpressionParser', 'crossfilterUtils',
+        function(invokeIfDefined, widgetExpressionParser, crossfilterUtils) {
             this.invokeIfDefined = invokeIfDefined;
-            this.$parse = $parse;
             this.widgetExpressionParser = widgetExpressionParser;
             this.crossfilterUtils = crossfilterUtils;
         }
@@ -40,15 +39,15 @@
         invoke(raw, chart, 'transitionDuration');
 
         if (raw.keyAccessor) {
-            chart.keyAccessor(this.widgetExpressionParser.valueFunction(this.$parse(raw.keyAccessor)));
+            chart.keyAccessor(this.widgetExpressionParser.valueFunction(raw.keyAccessor));
         }
 
         if (raw.valueAccessor) {
-            chart.valueAccessor(this.widgetExpressionParser.valueFunction(this.$parse(raw.valueAccessor)));
+            chart.valueAccessor(this.widgetExpressionParser.valueFunction(raw.valueAccessor));
         }
 
         if (raw.titleAccessor) {
-            chart.title(this.widgetExpressionParser.valueFunction(this.$parse(raw.titleAccessor)));
+            chart.title(this.widgetExpressionParser.valueFunction(raw.titleAccessor));
         }
 
 

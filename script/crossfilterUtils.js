@@ -11,8 +11,8 @@
             };
 
 
-            this.$get = ['$parse', 'widgetExpressionParser', '$injector',
-                function($parse, widgetExpressionParser, $injector) {
+            this.$get = ['widgetExpressionParser', '$injector',
+                function(widgetExpressionParser, $injector) {
 
                     angular.forEach(groupFunctionProviders, function(provider) {
                         if (provider.initialize) {
@@ -27,7 +27,7 @@
                                 throw 'Expression is required to create crossfilter dimension';
                             }
 
-                            return widgetExpressionParser.valueFunction($parse(expression));
+                            return widgetExpressionParser.valueFunction(expression);
                         },
                         groupFunctions: function(groupData) {
                             if (!groupData) {

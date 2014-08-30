@@ -28,8 +28,10 @@
                     };
                 },
                 valueFunction: function(expression) {
+                    var getter = $parse(expression);
+
                     function value(d) {
-                        var val = expression({
+                        var val = getter({
                             d: d
                         });
 

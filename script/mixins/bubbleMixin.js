@@ -9,10 +9,9 @@
 
     function BubbleMixin() {}
 
-    BubbleMixin.prototype.initialize = ['scaleParser', '$parse', 'widgetExpressionParser',
-        function(scaleParser, $parse, widgetExpressionParser) {
+    BubbleMixin.prototype.initialize = ['scaleParser', 'widgetExpressionParser',
+        function(scaleParser, widgetExpressionParser) {
             this.scaleParser = scaleParser;
-            this.$parse = $parse;
             this.widgetExpressionParser = widgetExpressionParser;
         }
     ];
@@ -26,7 +25,7 @@
         }
 
         if (raw.radiusValueAccessor) {
-            chart.radiusValueAccessor(this.widgetExpressionParser.valueFunction(this.$parse(raw.radiusValueAccessor)));
+            chart.radiusValueAccessor(this.widgetExpressionParser.valueFunction(raw.radiusValueAccessor));
         }
     };
 })(angular);
