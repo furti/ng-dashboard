@@ -22,13 +22,18 @@
 
     BarChartProvider.prototype.createWidget = function(element, widgetData) {
         var barChart = dc.barChart(element[0]);
+        var invoke = this.invokeIfDefined;
+        var raw = widgetData.rawData;
 
         this.baseChartMixin.configureChart(barChart, widgetData);
         this.stackMixin.configureChart(barChart, widgetData);
         this.coordinateGridMixin.configureChart(barChart, widgetData);
         this.marginMixin.configureChart(barChart, widgetData);
         this.colorMixin.configureChart(barChart, widgetData);
-        
+
+        invoke(raw, barChart, 'outerPadding');
+        invoke(raw, barChart, 'gap');
+
         barChart.render();
 
         return barChart;
