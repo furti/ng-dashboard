@@ -61,6 +61,7 @@
                     margins: margins
                 }, {
                     title: 'Pie Chart',
+                    name: 'pie',
                     type: 'piechart',
                     width: 350,
                     height: 200,
@@ -74,6 +75,21 @@
                     slicesCap: 5,
                     innerRadius: 40,
                     legend: true
+                }, {
+                    title: 'Pie Chart that shows Top 5 groups',
+                    name: 'pietop5',
+                    type: 'piechart',
+                    width: 350,
+                    height: 200,
+                    dimension: '"run-" + d.Run',
+                    group: {
+                        functionName: 'sum',
+                        parameters: {
+                            value: 'v.Speed * v.Run'
+                        }
+                    },
+                    data: 'group.top(5)',
+                    innerRadius: 40
                 }, {
                     title: 'Box Plot',
                     type: 'boxPlot',

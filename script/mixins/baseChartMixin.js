@@ -25,7 +25,6 @@
 
 
         chart.dimension(dimension);
-
         if (raw.group.name) {
             chart.group(group, raw.group.name);
         } else {
@@ -36,6 +35,11 @@
         invoke(raw, chart, 'minWidth');
         invoke(raw, chart, 'height');
         invoke(raw, chart, 'minHeight');
+
+        if (raw.data) {
+            chart.data(this.widgetExpressionParser.valueFunction(raw.data, 'group'));
+        }
+
         invoke(raw, chart, 'transitionDuration');
 
         if (raw.keyAccessor) {

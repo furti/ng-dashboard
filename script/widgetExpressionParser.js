@@ -27,13 +27,15 @@
                         parameters: functionParams
                     };
                 },
-                valueFunction: function(expression) {
+                valueFunction: function(expression, contextName) {
                     var getter = $parse(expression);
+                    var contextProperty = contextName ? contextName : 'd';
 
                     function value(d) {
-                        var val = getter({
-                            d: d
-                        });
+                        var context = {};
+                        context[contextProperty] = d;
+
+                        var val = getter(context);
 
                         return val;
                     }

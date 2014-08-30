@@ -23,4 +23,15 @@ describe('Test widgetExpressionParser', function() {
 
         expect(valueFunction(d)).toBe(1);
     });
+
+    it('valueFunction returns the value of different context name', function() {
+        var expression = 'group.value';
+        var d = {
+            type: 'A',
+            value: 5
+        };
+        var valueFunction = widgetExpressionParser.valueFunction(expression, 'group');
+
+        expect(valueFunction(d)).toBe(5);
+    });
 });
