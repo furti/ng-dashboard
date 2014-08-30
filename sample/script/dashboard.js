@@ -4,6 +4,16 @@
     dashboard.controller('ChartController', [
 
         function() {
+            this.intro = {
+                title: 'ng-dashboard',
+                name: 'intro',
+                widgets: [{
+                    name: 'intro',
+                    type: 'raw',
+                    content: 'This sample page uses data from <a href="https://github.com/dc-js/dc.js/tree/master/web" target="_blank">dc.js</a>'
+                }]
+            };
+
             var margins = {
                 top: 10,
                 left: 50,
