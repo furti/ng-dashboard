@@ -347,13 +347,18 @@
 
     BarChartProvider.prototype.createWidget = function(element, widgetData) {
         var barChart = dc.barChart(element[0]);
+        var invoke = this.invokeIfDefined;
+        var raw = widgetData.rawData;
 
         this.baseChartMixin.configureChart(barChart, widgetData);
         this.stackMixin.configureChart(barChart, widgetData);
         this.coordinateGridMixin.configureChart(barChart, widgetData);
         this.marginMixin.configureChart(barChart, widgetData);
         this.colorMixin.configureChart(barChart, widgetData);
-        
+
+        invoke(raw, barChart, 'outerPadding');
+        invoke(raw, barChart, 'gap');
+
         barChart.render();
 
         return barChart;
@@ -516,24 +521,24 @@
 
     function LinearScaleProvider() {}
 
+    LinearScaleProvider.prototype.initialize = ['invokeIfDefined',
+        function(invokeIfDefined) {
+            this.invokeIfDefined = invokeIfDefined;
+        }
+    ];
+
     LinearScaleProvider.prototype.createScale = function(scaleParams) {
         var scale = d3.scale.linear();
+        var invoke = this.invokeIfDefined;
 
-        setIfPresent(scale, scaleParams, 'domain');
-        setIfPresent(scale, scaleParams, 'range');
-        setIfPresent(scale, scaleParams, 'rangeRound');
-        setIfPresent(scale, scaleParams, 'clamp');
-        setIfPresent(scale, scaleParams, 'ticks');
+        invoke(scaleParams, scale, 'domain');
+        invoke(scaleParams, scale, 'range');
+        invoke(scaleParams, scale, 'rangeRound');
+        invoke(scaleParams, scale, 'clamp');
+        invoke(scaleParams, scale, 'ticks');
 
         return scale;
     };
-
-    function setIfPresent(scale, paramObject, name) {
-        if (paramObject[name]) {
-            scale[name](paramObject[name]);
-        }
-    }
-
 })(angular);
 (function(angular) {
     var ngDashboard = angular.module('ngDashboard');
@@ -641,10 +646,11 @@
 
     function ColorMixin() {}
 
-    ColorMixin.prototype.initialize = ['invokeIfDefined', '$parse',
-        function(invokeIfDefined, $parse) {
+    ColorMixin.prototype.initialize = ['invokeIfDefined', '$parse', 'scaleParser',
+        function(invokeIfDefined, $parse, scaleParser) {
             this.invokeIfDefined = invokeIfDefined;
             this.$parse = $parse;
+            this.scaleParser = scaleParser;
         }
     ];
 
@@ -652,10 +658,13 @@
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
 
-        invoke(raw, chart, 'colors');
         invoke(raw, chart, 'colorDomain');
         invoke(raw, chart, 'linearColors');
         invoke(raw, chart, 'ordinalColors');
+
+        if (raw.colors) {
+            chart.colors(this.scaleParser.parse(raw.colors));
+        }
 
         if (raw.colorAccessor) {
             chart.colorAccessor(colorAccessor(this.$parse(raw.colorAccessor)));

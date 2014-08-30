@@ -9,22 +9,22 @@
 
     function LinearScaleProvider() {}
 
+    LinearScaleProvider.prototype.initialize = ['invokeIfDefined',
+        function(invokeIfDefined) {
+            this.invokeIfDefined = invokeIfDefined;
+        }
+    ];
+
     LinearScaleProvider.prototype.createScale = function(scaleParams) {
         var scale = d3.scale.linear();
+        var invoke = this.invokeIfDefined;
 
-        setIfPresent(scale, scaleParams, 'domain');
-        setIfPresent(scale, scaleParams, 'range');
-        setIfPresent(scale, scaleParams, 'rangeRound');
-        setIfPresent(scale, scaleParams, 'clamp');
-        setIfPresent(scale, scaleParams, 'ticks');
+        invoke(scaleParams, scale, 'domain');
+        invoke(scaleParams, scale, 'range');
+        invoke(scaleParams, scale, 'rangeRound');
+        invoke(scaleParams, scale, 'clamp');
+        invoke(scaleParams, scale, 'ticks');
 
         return scale;
     };
-
-    function setIfPresent(scale, paramObject, name) {
-        if (paramObject[name]) {
-            scale[name](paramObject[name]);
-        }
-    }
-
 })(angular);
