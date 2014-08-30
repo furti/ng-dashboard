@@ -531,11 +531,13 @@
         var scale = d3.scale.linear();
         var invoke = this.invokeIfDefined;
 
-        invoke(scaleParams, scale, 'domain');
-        invoke(scaleParams, scale, 'range');
-        invoke(scaleParams, scale, 'rangeRound');
-        invoke(scaleParams, scale, 'clamp');
-        invoke(scaleParams, scale, 'ticks');
+        if (scaleParams) {
+            invoke(scaleParams, scale, 'domain');
+            invoke(scaleParams, scale, 'range');
+            invoke(scaleParams, scale, 'rangeRound');
+            invoke(scaleParams, scale, 'clamp');
+            invoke(scaleParams, scale, 'ticks');
+        }
 
         return scale;
     };
@@ -721,7 +723,10 @@
         invoke(raw, chart, 'mouseZoomable');
         invoke(raw, chart, 'renderHorizontalGridLines');
         invoke(raw, chart, 'renderVerticalGridLines');
-        
+
+        if (raw.xUnits) {
+            chart.xUnits(dc.units.ordinal);
+        }
 
         if (raw.xAxis) {
             this.configureAxis(chart.xAxis(), raw.xAxis);

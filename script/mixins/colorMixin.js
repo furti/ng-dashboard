@@ -9,10 +9,11 @@
 
     function ColorMixin() {}
 
-    ColorMixin.prototype.initialize = ['invokeIfDefined', '$parse',
-        function(invokeIfDefined, $parse) {
+    ColorMixin.prototype.initialize = ['invokeIfDefined', '$parse', 'scaleParser',
+        function(invokeIfDefined, $parse, scaleParser) {
             this.invokeIfDefined = invokeIfDefined;
             this.$parse = $parse;
+            this.scaleParser = scaleParser;
         }
     ];
 
@@ -20,10 +21,13 @@
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
 
-        invoke(raw, chart, 'colors');
         invoke(raw, chart, 'colorDomain');
         invoke(raw, chart, 'linearColors');
         invoke(raw, chart, 'ordinalColors');
+
+        if (raw.colors) {
+            chart.colors(this.scaleParser.parse(raw.colors));
+        }
 
         if (raw.colorAccessor) {
             chart.colorAccessor(colorAccessor(this.$parse(raw.colorAccessor)));
