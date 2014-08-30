@@ -66,30 +66,27 @@
                     widgetData: '=widgetData',
                     crossFilter: '=crossFilter'
                 },
-                link: function(scope, element) {
+                require: '^widgetGroup',
+                link: function(scope, element, attrs, widgetGroupCtrl) {
                     var widget, overlays;
                     element.addClass('widget');
 
-                    var filterWatch = scope.$watch('crossFilter', function(newValue) {
-                        if (newValue) {
-                            var widgetBody = element.find('widget-body');
+                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter) {
+                        var widgetBody = element.find('widget-body');
 
-                            widget = createWidget(widgetBody, scope.widgetData, scope.crossFilter, widgetFactory);
+                        widget = createWidget(widgetBody, scope.widgetData, crossFilter, widgetFactory);
 
-                            if (scope.widgetData.overlays) {
-                                overlays = [];
+                        if (scope.widgetData.overlays) {
+                            overlays = [];
 
-                                for (var i in scope.widgetData.overlays) {
-                                    var overlayWidget = createWidget(widgetBody,
-                                        scope.widgetData.overlays[i],
-                                        scope.crossFilter,
-                                        widgetFactory);
+                            for (var i in scope.widgetData.overlays) {
+                                var overlayWidget = createWidget(widgetBody,
+                                    scope.widgetData.overlays[i],
+                                    crossFilter,
+                                    widgetFactory);
 
-                                    overlays.push(overlayWidget);
-                                }
+                                overlays.push(overlayWidget);
                             }
-
-                            filterWatch();
                         }
                     });
                 },

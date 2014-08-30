@@ -32,8 +32,31 @@
                 },
                 controller: ['$scope', '$http',
                     function($scope, $http) {
+                        var initializers = [],
+                            initialized = false;
+
+                        this.registerWidgetInitializer = function(initializer) {
+                            if (initialized) {
+                                initializer($scope.crossFilter);
+                            } else {
+                                initializers.push(initializer);
+                            }
+                        };
+
+                        function initializeWidgets() {
+                            initialized = true;
+
+                            for (var i in initializers) {
+                                initializers[i]($scope.crossFilter);
+                            }
+
+                            initializers.length = 0;
+                        }
+
+
                         if (angular.isArray($scope.groupData.data)) {
                             $scope.crossFilter = crossfilter($scope.groupData.data);
+                            initializeWidgets();
                         } else if (angular.isString($scope.groupData.dataUrl)) {
                             $http({
                                 method: 'GET',
@@ -41,12 +64,13 @@
                             })
                                 .success(function(data) {
                                     $scope.crossFilter = crossfilter(data);
+                                    initializeWidgets();
                                 })
                                 .error(function(error) {
                                     throw error;
                                 });
                         } else {
-                            throw 'No data array or data url specified for group ' + $scope.groupData.name;
+                            initializeWidgets();
                         }
                     }
                 ],
@@ -126,30 +150,27 @@
                     widgetData: '=widgetData',
                     crossFilter: '=crossFilter'
                 },
-                link: function(scope, element) {
+                require: '^widgetGroup',
+                link: function(scope, element, attrs, widgetGroupCtrl) {
                     var widget, overlays;
                     element.addClass('widget');
 
-                    var filterWatch = scope.$watch('crossFilter', function(newValue) {
-                        if (newValue) {
-                            var widgetBody = element.find('widget-body');
+                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter) {
+                        var widgetBody = element.find('widget-body');
 
-                            widget = createWidget(widgetBody, scope.widgetData, scope.crossFilter, widgetFactory);
+                        widget = createWidget(widgetBody, scope.widgetData, crossFilter, widgetFactory);
 
-                            if (scope.widgetData.overlays) {
-                                overlays = [];
+                        if (scope.widgetData.overlays) {
+                            overlays = [];
 
-                                for (var i in scope.widgetData.overlays) {
-                                    var overlayWidget = createWidget(widgetBody,
-                                        scope.widgetData.overlays[i],
-                                        scope.crossFilter,
-                                        widgetFactory);
+                            for (var i in scope.widgetData.overlays) {
+                                var overlayWidget = createWidget(widgetBody,
+                                    scope.widgetData.overlays[i],
+                                    crossFilter,
+                                    widgetFactory);
 
-                                    overlays.push(overlayWidget);
-                                }
+                                overlays.push(overlayWidget);
                             }
-
-                            filterWatch();
                         }
                     });
                 },
