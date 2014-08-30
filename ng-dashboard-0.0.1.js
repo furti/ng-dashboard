@@ -572,12 +572,13 @@
         invoke(raw, chart, 'minWidth');
         invoke(raw, chart, 'height');
         invoke(raw, chart, 'minHeight');
+        invoke(raw, chart, 'transitionDuration');
+        invoke(raw, chart, 'renderLabel');
+        invoke(raw, chart, 'renderTitle');
 
         if (raw.data) {
             chart.data(this.widgetExpressionParser.valueFunction(raw.data, 'group'));
         }
-
-        invoke(raw, chart, 'transitionDuration');
 
         if (raw.keyAccessor) {
             chart.keyAccessor(this.widgetExpressionParser.valueFunction(raw.keyAccessor));
@@ -591,6 +592,9 @@
             chart.title(this.widgetExpressionParser.valueFunction(raw.titleAccessor));
         }
 
+        if (raw.labelAccessor) {
+            chart.label(this.widgetExpressionParser.valueFunction(raw.labelAccessor));
+        }
 
         this.setupLegend(chart, raw.legend);
     };

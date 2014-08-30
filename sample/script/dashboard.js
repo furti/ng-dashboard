@@ -101,6 +101,24 @@
                     data: 'group.top(5)',
                     innerRadius: 40
                 }, {
+                    title: 'Pie Chart with no title and no label',
+                    name: 'pienotitle',
+                    type: 'piechart',
+                    width: 350,
+                    height: 200,
+                    dimension: '"run-" + d.Run',
+                    group: {
+                        functionName: 'sum',
+                        parameters: {
+                            value: 'v.Speed * v.Run'
+                        }
+                    },
+                    renderTitle: false,
+                    renderLabel: false,
+                    innerRadius: 40,
+                    legend: true,
+                    data: 'group.top(10)',
+                }, {
                     title: 'Box Plot',
                     type: 'boxPlot',
                     width: 350,
