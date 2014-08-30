@@ -194,13 +194,15 @@
                         parameters: functionParams
                     };
                 },
-                valueFunction: function(expression) {
+                valueFunction: function(expression, contextName) {
                     var getter = $parse(expression);
+                    var contextProperty = contextName ? contextName : 'd';
 
                     function value(d) {
-                        var val = getter({
-                            d: d
-                        });
+                        var context = {};
+                        context[contextProperty] = d;
+
+                        var val = getter(context);
 
                         return val;
                     }
@@ -539,7 +541,6 @@
 
 
         chart.dimension(dimension);
-
         if (raw.group.name) {
             chart.group(group, raw.group.name);
         } else {
@@ -550,6 +551,11 @@
         invoke(raw, chart, 'minWidth');
         invoke(raw, chart, 'height');
         invoke(raw, chart, 'minHeight');
+
+        if (raw.data) {
+            chart.data(this.widgetExpressionParser.valueFunction(raw.data, 'group'));
+        }
+
         invoke(raw, chart, 'transitionDuration');
 
         if (raw.keyAccessor) {
