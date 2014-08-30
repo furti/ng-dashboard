@@ -137,6 +137,6 @@
         }]
     };
 
-    angular.module('ngDashboard')
+    angular.module('dashboard')
         .constant('experiments', experimentGroup);
 })(angular);

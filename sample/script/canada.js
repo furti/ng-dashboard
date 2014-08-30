@@ -359,7 +359,7 @@
                 height: 450,
                 dimension: 'd.city',
                 group: totalCrimeRateByYearGroup,
-                colors: ["#ff7373", "#ff4040", "#ff0000", "#bf3030", "#a60000"],
+                ordinalColors: ["#ff7373", "#ff4040", "#ff0000", "#bf3030", "#a60000"],
                 colorDomain: [13, 30],
                 colorAccessor: 'd.value.violentCrimeRatio',
                 radiusValueAccessor: 'd.value.avgTotalCrimeRate',
@@ -501,6 +501,6 @@
         }]
     };
 
-    angular.module('ngDashboard')
+    angular.module('dashboard')
         .constant('crime', crimeGroup);
 })(angular);
