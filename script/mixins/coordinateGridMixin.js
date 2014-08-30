@@ -32,7 +32,10 @@
         invoke(raw, chart, 'mouseZoomable');
         invoke(raw, chart, 'renderHorizontalGridLines');
         invoke(raw, chart, 'renderVerticalGridLines');
-        
+
+        if (raw.xUnits) {
+            chart.xUnits(dc.units.ordinal);
+        }
 
         if (raw.xAxis) {
             this.configureAxis(chart.xAxis(), raw.xAxis);

@@ -1,0 +1,7722 @@
+[
+  {
+    "epid":119436,
+    "country":"HR",
+    "first_name":"Ivana",
+    "last_name":"MALETIĆ",
+    "birthdate":"1973-10-12",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Hrvatska demokratska zajednica"
+  },
+  {
+    "epid":96798,
+    "country":"GB",
+    "first_name":"John",
+    "last_name":"BUFTON",
+    "birthdate":"1962-08-31",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":96717,
+    "country":"CZ",
+    "first_name":"Robert",
+    "last_name":"DUŠEK",
+    "birthdate":"1967-03-14",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":97058,
+    "country":"BE",
+    "first_name":"Guy",
+    "last_name":"VERHOFSTADT",
+    "birthdate":"1953-04-11",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Open Vlaamse Liberalen en Democraten"
+  },
+  {
+    "epid":96897,
+    "country":"GB",
+    "first_name":"John Stuart",
+    "last_name":"AGNEW",
+    "birthdate":"1949-08-30",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":96976,
+    "country":"PT",
+    "first_name":"Luís Paulo",
+    "last_name":"ALVES",
+    "birthdate":"1961-09-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista"
+  },
+  {
+    "epid":96808,
+    "country":"ES",
+    "first_name":"Pablo",
+    "last_name":"ARIAS ECHEVERRÍA",
+    "birthdate":"1970-06-30",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":5956,
+    "country":"PT",
+    "first_name":"Regina",
+    "last_name":"BASTOS",
+    "birthdate":"1960-11-04",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":96955,
+    "country":"GB",
+    "first_name":"Catherine",
+    "last_name":"BEARDER",
+    "birthdate":"1949-01-14",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96738,
+    "country":"FR",
+    "first_name":"Sandrine",
+    "last_name":"BÉLIER",
+    "birthdate":"1973-09-02",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":96705,
+    "country":"DK",
+    "first_name":"Bendt",
+    "last_name":"BENDTSEN",
+    "birthdate":"1954-03-25",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Det Konservative Folkeparti"
+  },
+  {
+    "epid":96922,
+    "country":"ES",
+    "first_name":"Izaskun",
+    "last_name":"BILBAO BARANDICA",
+    "birthdate":"1961-03-27",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Partido Nacionalista Vasco"
+  },
+  {
+    "epid":97198,
+    "country":"IT",
+    "first_name":"Mara",
+    "last_name":"BIZZOTTO",
+    "birthdate":"1972-06-03",
+    "gender":"F",
+    "eugroup":"EFD",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":96681,
+    "country":"LT",
+    "first_name":"Vilija",
+    "last_name":"BLINKEVIČIŪTĖ",
+    "birthdate":"1960-03-03",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Lietuvos socialdemokratų partija"
+  },
+  {
+    "epid":96799,
+    "country":"PL",
+    "first_name":"Piotr",
+    "last_name":"BORYS",
+    "birthdate":"1976-01-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96719,
+    "country":"CZ",
+    "first_name":"Andrea",
+    "last_name":"ČEŠKOVÁ",
+    "birthdate":"1971-10-18",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":96603,
+    "country":"IE",
+    "first_name":"Nessa",
+    "last_name":"CHILDERS",
+    "birthdate":"1956-10-09",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"Labour Party"
+  },
+  {
+    "epid":28493,
+    "country":"GB",
+    "first_name":"Derek Roland",
+    "last_name":"CLARK",
+    "birthdate":"1933-10-10",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":96915,
+    "country":"IT",
+    "first_name":"Sergio Gaetano",
+    "last_name":"COFFERATI",
+    "birthdate":"1948-01-30",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":96975,
+    "country":"PT",
+    "first_name":"António Fernando",
+    "last_name":"CORREIA DE CAMPOS",
+    "birthdate":"1942-12-14",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":96917,
+    "country":"IT",
+    "first_name":"Silvia",
+    "last_name":"COSTA",
+    "birthdate":"1949-06-12",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":96951,
+    "country":"GB",
+    "first_name":"Diane",
+    "last_name":"DODDS",
+    "birthdate":"1958-08-16",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"Democratic Unionist Party (Northern Ireland)"
+  },
+  {
+    "epid":96888,
+    "country":"IT",
+    "first_name":"Leonardo",
+    "last_name":"DOMENICI",
+    "birthdate":"1955-07-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":96692,
+    "country":"LT",
+    "first_name":"Leonidas",
+    "last_name":"DONSKIS",
+    "birthdate":"1962-08-13",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Lietuvos Respublikos liberalų sąjūdis"
+  },
+  {
+    "epid":96787,
+    "country":"IT",
+    "first_name":"Herbert",
+    "last_name":"DORFMANN",
+    "birthdate":"1969-03-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Südtiroler Volkspartei (Partito popolare sudtirolese)"
+  },
+  {
+    "epid":39769,
+    "country":"AT",
+    "first_name":"Martin",
+    "last_name":"EHRENHAUSER",
+    "birthdate":"1978-09-18",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"-"
+  },
+  {
+    "epid":96682,
+    "country":"FI",
+    "first_name":"Sari",
+    "last_name":"ESSAYAH",
+    "birthdate":"1967-02-21",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Suomen kristillisdemokraatit"
+  },
+  {
+    "epid":96811,
+    "country":"ES",
+    "first_name":"Rosa",
+    "last_name":"ESTARÀS FERRAGUT",
+    "birthdate":"1965-10-21",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96977,
+    "country":"PT",
+    "first_name":"Diogo",
+    "last_name":"FEIO",
+    "birthdate":"1970-10-06",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96899,
+    "country":"PT",
+    "first_name":"José Manuel",
+    "last_name":"FERNANDES",
+    "birthdate":"1967-07-26",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":96833,
+    "country":"DE",
+    "first_name":"Jens",
+    "last_name":"GEIER",
+    "birthdate":"1961-06-22",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96730,
+    "country":"DE",
+    "first_name":"Sven",
+    "last_name":"GIEGOLD",
+    "birthdate":"1969-11-17",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":97004,
+    "country":"LV",
+    "first_name":"Ivars",
+    "last_name":"GODMANIS",
+    "birthdate":"1951-11-27",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Latvijas Pirmā Partija/Latvijas Ceļš"
+  },
+  {
+    "epid":97137,
+    "country":"FR",
+    "first_name":"Sylvie",
+    "last_name":"GOULARD",
+    "birthdate":"1964-12-06",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Mouvement Démocrate"
+  },
+  {
+    "epid":96753,
+    "country":"PL",
+    "first_name":"Jolanta Emilia",
+    "last_name":"HIBNER",
+    "birthdate":"1951-01-26",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96950,
+    "country":"FR",
+    "first_name":"Liem",
+    "last_name":"HOANG NGOC",
+    "birthdate":"1964-12-11",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":34235,
+    "country":"BG",
+    "first_name":"Stanimir",
+    "last_name":"ILCHEV",
+    "birthdate":"1953-07-31",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"National Movement for Stability and Progress"
+  },
+  {
+    "epid":105192,
+    "country":"ES",
+    "first_name":"María",
+    "last_name":"IRIGOYEN PÉREZ",
+    "birthdate":"1952-10-01",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28424,
+    "country":"EE",
+    "first_name":"Tunne",
+    "last_name":"KELAM",
+    "birthdate":"1936-07-10",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "epid":96668,
+    "country":"IE",
+    "first_name":"Seán",
+    "last_name":"KELLY",
+    "birthdate":"1952-04-26",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fine Gael Party"
+  },
+  {
+    "epid":96769,
+    "country":"DE",
+    "first_name":"Jürgen",
+    "last_name":"KLUTE",
+    "birthdate":"1953-10-13",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":102887,
+    "country":"HU",
+    "first_name":"Béla",
+    "last_name":"KOVÁCS",
+    "birthdate":"1960-02-25",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Jobbik Magyarországért Mozgalom"
+  },
+  {
+    "epid":96651,
+    "country":"SK",
+    "first_name":"Eduard",
+    "last_name":"KUKAN",
+    "birthdate":"1939-12-26",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Slovenská demokratická a kresťanská únia - Demokratická strana"
+  },
+  {
+    "epid":96765,
+    "country":"ES",
+    "first_name":"Verónica",
+    "last_name":"LOPE FONTAGNÉ",
+    "birthdate":"1952-02-01",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96854,
+    "country":"DE",
+    "first_name":"Sabine",
+    "last_name":"LÖSING",
+    "birthdate":"1955-11-30",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":96675,
+    "country":"SE",
+    "first_name":"Isabella",
+    "last_name":"LÖVIN",
+    "birthdate":"1963-02-03",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Miljöpartiet de gröna"
+  },
+  {
+    "epid":96673,
+    "country":"SE",
+    "first_name":"Olle",
+    "last_name":"LUDVIGSSON",
+    "birthdate":"1948-10-28",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Arbetarepartiet- Socialdemokraterna"
+  },
+  {
+    "epid":96792,
+    "country":"PL",
+    "first_name":"Bogdan Kazimierz",
+    "last_name":"MARCINKIEWICZ",
+    "birthdate":"1966-03-21",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96652,
+    "country":"SK",
+    "first_name":"Alajos",
+    "last_name":"MÉSZÁROS",
+    "birthdate":"1952-06-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Strana mad'arskej komunity- Magyar Közösség Pártja"
+  },
+  {
+    "epid":28255,
+    "country":"AT",
+    "first_name":"Andreas",
+    "last_name":"MÖLZER",
+    "birthdate":"1952-12-02",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Freiheitliche Partei Österreichs"
+  },
+  {
+    "epid":96695,
+    "country":"LT",
+    "first_name":"Radvilė",
+    "last_name":"MORKŪNAITĖ-MIKULĖNIENĖ",
+    "birthdate":"1984-01-02",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Tėvynės sąjunga - Lietuvos krikščionys demokratai"
+  },
+  {
+    "epid":96760,
+    "country":"IT",
+    "first_name":"Tiziano",
+    "last_name":"MOTTI",
+    "birthdate":"1966-02-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unione dei Democratici cristiani e dei Democratici di Centro"
+  },
+  {
+    "epid":96701,
+    "country":"ES",
+    "first_name":"María",
+    "last_name":"MUÑIZ DE URQUIZA",
+    "birthdate":"1962-08-05",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":96844,
+    "country":"DE",
+    "first_name":"Norbert",
+    "last_name":"NEUSER",
+    "birthdate":"1949-03-22",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96861,
+    "country":"BG",
+    "first_name":"Nadezhda",
+    "last_name":"NEYNSKY",
+    "birthdate":"1962-08-09",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Blue Coalition"
+  },
+  {
+    "epid":111024,
+    "country":"SE",
+    "first_name":"Jens",
+    "last_name":"NILSSON",
+    "birthdate":"1948-09-25",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Arbetarepartiet- Socialdemokraterna"
+  },
+  {
+    "epid":96805,
+    "country":"GB",
+    "first_name":"Paul",
+    "last_name":"NUTTALL",
+    "birthdate":"1976-11-30",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":40599,
+    "country":"FI",
+    "first_name":"Sirpa",
+    "last_name":"PIETIKÄINEN",
+    "birthdate":"1959-04-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Kansallinen Kokoomus"
+  },
+  {
+    "epid":96715,
+    "country":"CZ",
+    "first_name":"Pavel",
+    "last_name":"POC",
+    "birthdate":"1964-05-26",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":96931,
+    "country":"FR",
+    "first_name":"Maurice",
+    "last_name":"PONGA",
+    "birthdate":"1947-06-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96801,
+    "country":"PL",
+    "first_name":"Tomasz Piotr",
+    "last_name":"PORĘBA",
+    "birthdate":"1973-03-31",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":96838,
+    "country":"RO",
+    "first_name":"Cristian Dan",
+    "last_name":"PREDA",
+    "birthdate":"1966-10-26",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"-"
+  },
+  {
+    "epid":107386,
+    "country":"IE",
+    "first_name":"Phil",
+    "last_name":"PRENDERGAST",
+    "birthdate":"1959-09-20",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":108080,
+    "country":"FR",
+    "first_name":"Franck",
+    "last_name":"PROUST",
+    "birthdate":"1963-05-02",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96903,
+    "country":"PT",
+    "first_name":"Paulo",
+    "last_name":"RANGEL",
+    "birthdate":"1968-02-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":96686,
+    "country":"FI",
+    "first_name":"Mitro",
+    "last_name":"REPO",
+    "birthdate":"1958-09-03",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti"
+  },
+  {
+    "epid":97022,
+    "country":"FR",
+    "first_name":"Robert",
+    "last_name":"ROCHEFORT",
+    "birthdate":"1955-09-19",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Mouvement Démocrate"
+  },
+  {
+    "epid":96746,
+    "country":"FR",
+    "first_name":"Marie-Thérèse",
+    "last_name":"SANCHEZ-SCHMID",
+    "birthdate":"1957-11-15",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96676,
+    "country":"SE",
+    "first_name":"Christian",
+    "last_name":"ENGSTRÖM",
+    "birthdate":"1960-02-09",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Piratpartiet"
+  },
+  {
+    "epid":112611,
+    "country":"FI",
+    "first_name":"Petri",
+    "last_name":"SARVAMAA",
+    "birthdate":"1960-09-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Kansallinen Kokoomus"
+  },
+  {
+    "epid":30482,
+    "country":"FR",
+    "first_name":"Younous",
+    "last_name":"OMARJEE",
+    "birthdate":"1969-09-30",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Liste \"Alliance des Outre-Mers\""
+  },
+  {
+    "epid":111068,
+    "country":"FR",
+    "first_name":"Jean",
+    "last_name":"ROATTA",
+    "birthdate":"1941-12-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96992,
+    "country":"IT",
+    "first_name":"Magdi Cristiano",
+    "last_name":"ALLAM",
+    "birthdate":"1952-04-22",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"\"Io amo l'Italia\""
+  },
+  {
+    "epid":111496,
+    "country":"ES",
+    "first_name":"María Auxiliadora",
+    "last_name":"CORREA ZAMORA",
+    "birthdate":"1972-05-24",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":112788,
+    "country":"DE",
+    "first_name":"Birgit",
+    "last_name":"COLLIN-LANGEN",
+    "birthdate":"1956-09-04",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96744,
+    "country":"FR",
+    "first_name":"José",
+    "last_name":"BOVÉ",
+    "birthdate":"1953-06-11",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":114279,
+    "country":"FR",
+    "first_name":"Isabelle",
+    "last_name":"THOMAS",
+    "birthdate":"1961-11-26",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":113890,
+    "country":"FR",
+    "first_name":"Karim",
+    "last_name":"ZÉRIBI",
+    "birthdate":"1966-09-25",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":113597,
+    "country":"RO",
+    "first_name":"Minodora",
+    "last_name":"CLIVETI",
+    "birthdate":"1955-10-24",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":113883,
+    "country":"HU",
+    "first_name":"Erik",
+    "last_name":"BÁNKI",
+    "birthdate":"1970-05-26",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":113892,
+    "country":"FR",
+    "first_name":"Eric",
+    "last_name":"ANDRIEU",
+    "birthdate":"1960-04-14",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":96947,
+    "country":"FR",
+    "first_name":"Nora",
+    "last_name":"BERRA",
+    "birthdate":"1963-01-21",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":113891,
+    "country":"FR",
+    "first_name":"Jean-Jacob",
+    "last_name":"BICEP",
+    "birthdate":"1965-06-23",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":114268,
+    "country":"FI",
+    "first_name":"Nils",
+    "last_name":"TORVALDS",
+    "birthdate":"1945-08-07",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Svenska folkpartiet"
+  },
+  {
+    "epid":114873,
+    "country":"CZ",
+    "first_name":"Vojtěch",
+    "last_name":"MYNÁŘ",
+    "birthdate":"1944-05-04",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":96959,
+    "country":"GB",
+    "first_name":"George",
+    "last_name":"LYON",
+    "birthdate":"1956-07-16",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":116663,
+    "country":"BG",
+    "first_name":"Monika",
+    "last_name":"PANAYOTOVA",
+    "birthdate":"1983-08-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Citizens for European Development of Bulgaria"
+  },
+  {
+    "epid":99419,
+    "country":"GR",
+    "first_name":"Charalampos",
+    "last_name":"ANGOURAKIS",
+    "birthdate":"1951-01-19",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Communist Party of Greece"
+  },
+  {
+    "epid":115868,
+    "country":"NL",
+    "first_name":"Patricia van der",
+    "last_name":"KAMMEN",
+    "birthdate":"1972-04-08",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"Partij voor de Vrijheid"
+  },
+  {
+    "epid":111017,
+    "country":"ES",
+    "first_name":"Dolores",
+    "last_name":"GARCÍA-HIERRO CARABALLO",
+    "birthdate":"1958-05-16",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":96860,
+    "country":"FR",
+    "first_name":"Michèle",
+    "last_name":"STRIFFLER",
+    "birthdate":"1957-08-23",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Parti Radical / Union des Démocrates et Indépendants"
+  },
+  {
+    "epid":116823,
+    "country":"IT",
+    "first_name":"Francesca",
+    "last_name":"BARRACCIU",
+    "birthdate":"1966-06-11",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":113959,
+    "country":"GB",
+    "first_name":"Martina",
+    "last_name":"ANDERSON",
+    "birthdate":"1962-04-16",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Sinn Féin"
+  },
+  {
+    "epid":96702,
+    "country":"RO",
+    "first_name":"Elena Oana",
+    "last_name":"ANTONESCU",
+    "birthdate":"1979-12-30",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":116816,
+    "country":"BG",
+    "first_name":"Preslav",
+    "last_name":"BORISSOV",
+    "birthdate":"1977-03-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Citizens for European Development of Bulgaria"
+  },
+  {
+    "epid":94283,
+    "country":"GB",
+    "first_name":"Trevor",
+    "last_name":"COLMAN",
+    "birthdate":"1941-08-27",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":96726,
+    "country":"NL",
+    "first_name":"Marije",
+    "last_name":"CORNELISSEN",
+    "birthdate":"1974-03-09",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"GroenLinks"
+  },
+  {
+    "epid":96868,
+    "country":"FR",
+    "first_name":"Karima",
+    "last_name":"DELLI",
+    "birthdate":"1979-03-04",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":117477,
+    "country":"BE",
+    "first_name":"Mark",
+    "last_name":"DEMESMAEKER",
+    "birthdate":"1958-09-12",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Nieuw-Vlaamse Alliantie"
+  },
+  {
+    "epid":96725,
+    "country":"NL",
+    "first_name":"Bas",
+    "last_name":"EICKHOUT",
+    "birthdate":"1976-10-08",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"GroenLinks"
+  },
+  {
+    "epid":96745,
+    "country":"FR",
+    "first_name":"Catherine",
+    "last_name":"GRÈZE",
+    "birthdate":"1960-04-15",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":96648,
+    "country":"BE",
+    "first_name":"Philippe",
+    "last_name":"LAMBERTS",
+    "birthdate":"1963-03-14",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Ecologistes Confédérés pour l'Organisation de Luttes Originales"
+  },
+  {
+    "epid":118144,
+    "country":"CY",
+    "first_name":"Andreas",
+    "last_name":"PITSILLIDES",
+    "birthdate":"1977-06-09",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Democratic Rally"
+  },
+  {
+    "epid":113487,
+    "country":"PT",
+    "first_name":"Alda",
+    "last_name":"SOUSA",
+    "birthdate":"1953-08-04",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Bloco de Esquerda"
+  },
+  {
+    "epid":118710,
+    "country":"IT",
+    "first_name":"Franco",
+    "last_name":"BONANINI",
+    "birthdate":"1952-11-07",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Indipendente"
+  },
+  {
+    "epid":111014,
+    "country":"AT",
+    "first_name":"Josef",
+    "last_name":"WEIDENHOLZER",
+    "birthdate":"1950-03-06",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Österreichs"
+  },
+  {
+    "epid":118708,
+    "country":"IT",
+    "first_name":"Susy",
+    "last_name":"DE MARTINI",
+    "birthdate":"1952-06-17",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":103246,
+    "country":"NL",
+    "first_name":"Auke",
+    "last_name":"ZIJLSTRA",
+    "birthdate":"1964-11-01",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Partij voor de Vrijheid"
+  },
+  {
+    "epid":119439,
+    "country":"HR",
+    "first_name":"Marino",
+    "last_name":"BALDINI",
+    "birthdate":"1963-07-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socijaldemokratska partija Hrvatske"
+  },
+  {
+    "epid":28497,
+    "country":"GB",
+    "first_name":"Gerard",
+    "last_name":"BATTEN",
+    "birthdate":"1954-03-27",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":28336,
+    "country":"CZ",
+    "first_name":"Věra",
+    "last_name":"FLASAROVÁ",
+    "birthdate":"1952-12-19",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Komunistická strana Čech a Moravy"
+  },
+  {
+    "epid":37448,
+    "country":"RO",
+    "first_name":"Eduard-Raul",
+    "last_name":"HELLVIG",
+    "birthdate":"1974-10-27",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Partidul Naţional Liberal"
+  },
+  {
+    "epid":96704,
+    "country":"CZ",
+    "first_name":"Edvard",
+    "last_name":"KOŽUŠNÍK",
+    "birthdate":"1971-01-30",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":119441,
+    "country":"HR",
+    "first_name":"Sandra",
+    "last_name":"PETROVIĆ JAKOVINA",
+    "birthdate":"1985-03-21",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socijaldemokratska partija Hrvatske"
+  },
+  {
+    "epid":33991,
+    "country":"RO",
+    "first_name":"Ovidiu Ioan",
+    "last_name":"SILAGHI",
+    "birthdate":"1962-12-12",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Partidul Naţional Liberal"
+  },
+  {
+    "epid":4293,
+    "country":"DE",
+    "first_name":"Gabriele",
+    "last_name":"STAUNER",
+    "birthdate":"1948-04-22",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":119440,
+    "country":"HR",
+    "first_name":"Oleg",
+    "last_name":"VALJALO",
+    "birthdate":"1970-11-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socijaldemokratska partija Hrvatske"
+  },
+  {
+    "epid":96944,
+    "country":"GB",
+    "first_name":"Marina",
+    "last_name":"YANNAKOUDAKIS",
+    "birthdate":"1956-04-16",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":117119,
+    "country":"RO",
+    "first_name":"Dan Dumitru",
+    "last_name":"ZAMFIRESCU",
+    "birthdate":"1953-11-01",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Partidul România Mare"
+  },
+  {
+    "epid":118709,
+    "country":"IT",
+    "first_name":"Fabrizio",
+    "last_name":"BERTOT",
+    "birthdate":"1967-02-23",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":96815,
+    "country":"NL",
+    "first_name":"Judith",
+    "last_name":"SARGENTINI",
+    "birthdate":"1974-03-13",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"GroenLinks"
+  },
+  {
+    "epid":96696,
+    "country":"LT",
+    "first_name":"Algirdas",
+    "last_name":"SAUDARGAS",
+    "birthdate":"1948-04-17",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Tėvynės sąjunga - Lietuvos krikščionys demokratai"
+  },
+  {
+    "epid":96945,
+    "country":"NL",
+    "first_name":"Marietje",
+    "last_name":"SCHAAKE",
+    "birthdate":"1978-10-28",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Democraten 66"
+  },
+  {
+    "epid":96827,
+    "country":"DE",
+    "first_name":"Birgit",
+    "last_name":"SCHNIEBER-JASTRAM",
+    "birthdate":"1946-07-04",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96731,
+    "country":"DE",
+    "first_name":"Werner",
+    "last_name":"SCHULZ",
+    "birthdate":"1950-01-22",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":96836,
+    "country":"DE",
+    "first_name":"Peter",
+    "last_name":"SIMON",
+    "birthdate":"1967-04-04",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96655,
+    "country":"SK",
+    "first_name":"Monika",
+    "last_name":"SMOLKOVÁ",
+    "birthdate":"1956-10-06",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"SMER-Sociálna demokracia"
+  },
+  {
+    "epid":96678,
+    "country":"SE",
+    "first_name":"Alf",
+    "last_name":"SVENSSON",
+    "birthdate":"1938-10-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Kristdemokraterna"
+  },
+  {
+    "epid":96920,
+    "country":"GB",
+    "first_name":"Kay",
+    "last_name":"SWINBURNE",
+    "birthdate":"1967-06-08",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96847,
+    "country":"RO",
+    "first_name":"Claudiu Ciprian",
+    "last_name":"TĂNĂSESCU",
+    "birthdate":"1965-07-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":97136,
+    "country":"EE",
+    "first_name":"Indrek",
+    "last_name":"TARAND",
+    "birthdate":"1964-02-03",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Sõltumatu"
+  },
+  {
+    "epid":96974,
+    "country":"PT",
+    "first_name":"Nuno",
+    "last_name":"TEIXEIRA",
+    "birthdate":"1973-01-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":96776,
+    "country":"PL",
+    "first_name":"Róża Gräfin von",
+    "last_name":"THUN UND HOHENSTEIN",
+    "birthdate":"1954-04-13",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":97026,
+    "country":"FR",
+    "first_name":"Patrice",
+    "last_name":"TIROLIEN",
+    "birthdate":"1946-03-17",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":96756,
+    "country":"DE",
+    "first_name":"Sabine",
+    "last_name":"VERHEYEN",
+    "birthdate":"1964-10-24",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96839,
+    "country":"DE",
+    "first_name":"Kerstin",
+    "last_name":"WESTPHAL",
+    "birthdate":"1962-09-11",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96741,
+    "country":"DE",
+    "first_name":"Sabine",
+    "last_name":"WILS",
+    "birthdate":"1959-05-31",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":96764,
+    "country":"DE",
+    "first_name":"Hermann",
+    "last_name":"WINKLER",
+    "birthdate":"1963-04-22",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":39725,
+    "country":"RO",
+    "first_name":"Iuliu",
+    "last_name":"WINKLER",
+    "birthdate":"1964-03-14",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Uniunea Democrată Maghiară din România"
+  },
+  {
+    "epid":96656,
+    "country":"SK",
+    "first_name":"Boris",
+    "last_name":"ZALA",
+    "birthdate":"1954-12-09",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"SMER-Sociálna demokracia"
+  },
+  {
+    "epid":96795,
+    "country":"PL",
+    "first_name":"Jacek Olgierd",
+    "last_name":"KURSKI",
+    "birthdate":"1966-02-22",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Solidarna Polska"
+  },
+  {
+    "epid":97344,
+    "country":"IE",
+    "first_name":"Paul",
+    "last_name":"MURPHY",
+    "birthdate":"1983-04-13",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Socialist Party"
+  },
+  {
+    "epid":96900,
+    "country":"GR",
+    "first_name":"Georgios",
+    "last_name":"PAPANIKOLAOU",
+    "birthdate":"1977-08-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":96758,
+    "country":"DE",
+    "first_name":"Gerald",
+    "last_name":"HÄFNER",
+    "birthdate":"1956-11-03",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":96872,
+    "country":"DE",
+    "first_name":"Nadja",
+    "last_name":"HIRSCH",
+    "birthdate":"1978-07-13",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":96693,
+    "country":"LT",
+    "first_name":"Juozas",
+    "last_name":"IMBRASAS",
+    "birthdate":"1941-01-08",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Partija Tvarka ir teisingumas"
+  },
+  {
+    "epid":96812,
+    "country":"ES",
+    "first_name":"Juan Fernando",
+    "last_name":"LÓPEZ AGUILAR",
+    "birthdate":"1961-06-10",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":34234,
+    "country":"BG",
+    "first_name":"Antonyia",
+    "last_name":"PARVANOVA",
+    "birthdate":"1962-04-26",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"National Movement for Stability and Progress"
+  },
+  {
+    "epid":96658,
+    "country":"GR",
+    "first_name":"Konstantinos",
+    "last_name":"POUPAKIS",
+    "birthdate":"1951-01-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":108570,
+    "country":"SE",
+    "first_name":"Amelia",
+    "last_name":"ANDERSDOTTER",
+    "birthdate":"1987-08-30",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Piratpartiet"
+  },
+  {
+    "epid":97193,
+    "country":"IT",
+    "first_name":"Antonello",
+    "last_name":"ANTINORO",
+    "birthdate":"1960-08-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unione dei Democratici cristiani e dei Democratici di Centro"
+  },
+  {
+    "epid":97009,
+    "country":"GR",
+    "first_name":"Kriton",
+    "last_name":"ARSENIS",
+    "birthdate":"1977-08-03",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"-"
+  },
+  {
+    "epid":96732,
+    "country":"FR",
+    "first_name":"Malika",
+    "last_name":"BENARAB-ATTOU",
+    "birthdate":"1963-03-25",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":96912,
+    "country":"GB",
+    "first_name":"David",
+    "last_name":"CAMPBELL BANNERMAN",
+    "birthdate":"1960-05-28",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96866,
+    "country":"IT",
+    "first_name":"Salvatore",
+    "last_name":"CARONNA",
+    "birthdate":"1964-03-05",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":26851,
+    "country":"GR",
+    "first_name":"Nikolaos",
+    "last_name":"CHOUNTIS",
+    "birthdate":"1953-09-17",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Coalition of the Radical Left"
+  },
+  {
+    "epid":111823,
+    "country":"GR",
+    "first_name":"Nikos",
+    "last_name":"CHRYSOGELOS",
+    "birthdate":"1959-05-13",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Ecologist Greens"
+  },
+  {
+    "epid":96775,
+    "country":"IT",
+    "first_name":"Lara",
+    "last_name":"COMI",
+    "birthdate":"1983-02-18",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":96786,
+    "country":"PL",
+    "first_name":"Tadeusz",
+    "last_name":"CYMAŃSKI",
+    "birthdate":"1955-06-06",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Solidarna Polska"
+  },
+  {
+    "epid":96747,
+    "country":"FR",
+    "first_name":"Arnaud",
+    "last_name":"DANJEAN",
+    "birthdate":"1971-02-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":109337,
+    "country":"BE",
+    "first_name":"Philippe",
+    "last_name":"DE BACKER",
+    "birthdate":"1978-12-04",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Open Vlaamse Liberalen en Democraten"
+  },
+  {
+    "epid":28256,
+    "country":"BE",
+    "first_name":"Jean-Luc",
+    "last_name":"DEHAENE",
+    "birthdate":"1940-08-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christen-Democratisch & Vlaams"
+  },
+  {
+    "epid":96914,
+    "country":"BE",
+    "first_name":"Anne",
+    "last_name":"DELVAUX",
+    "birthdate":"1970-10-20",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Centre Démocrate Humaniste"
+  },
+  {
+    "epid":107977,
+    "country":"GR",
+    "first_name":"Dimitrios",
+    "last_name":"DROUTSAS",
+    "birthdate":"1968-08-05",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":23840,
+    "country":"CZ",
+    "first_name":"Richard",
+    "last_name":"FALBR",
+    "birthdate":"1940-09-29",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":28126,
+    "country":"SE",
+    "first_name":"Christofer",
+    "last_name":"FJELLNER",
+    "birthdate":"1976-12-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Moderata Samlingspartiet"
+  },
+  {
+    "epid":96993,
+    "country":"IT",
+    "first_name":"Lorenzo",
+    "last_name":"FONTANA",
+    "birthdate":"1980-04-10",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":96949,
+    "country":"GB",
+    "first_name":"Vicky",
+    "last_name":"FORD",
+    "birthdate":"1967-09-21",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96957,
+    "country":"GB",
+    "first_name":"Ashley",
+    "last_name":"FOX",
+    "birthdate":"1969-11-15",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96940,
+    "country":"NL",
+    "first_name":"Gerben-Jan",
+    "last_name":"GERBRANDY",
+    "birthdate":"1967-06-28",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Democraten 66"
+  },
+  {
+    "epid":96956,
+    "country":"GB",
+    "first_name":"Julie",
+    "last_name":"GIRLING",
+    "birthdate":"1956-12-21",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96790,
+    "country":"PL",
+    "first_name":"Marek Józef",
+    "last_name":"GRÓBARCZYK",
+    "birthdate":"1968-03-13",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":96768,
+    "country":"ES",
+    "first_name":"Enrique",
+    "last_name":"GUERRERO SALOM",
+    "birthdate":"1948-08-28",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":96952,
+    "country":"FR",
+    "first_name":"Sylvie",
+    "last_name":"GUILLAUME",
+    "birthdate":"1962-06-11",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":109649,
+    "country":"SE",
+    "first_name":"Mikael",
+    "last_name":"GUSTAFSSON",
+    "birthdate":"1966-03-06",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Vänsterpartiet"
+  },
+  {
+    "epid":96907,
+    "country":"CY",
+    "first_name":"Takis",
+    "last_name":"HADJIGEORGIOU",
+    "birthdate":"1956-12-11",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Progressive Party of Working People - Left - New Forces"
+  },
+  {
+    "epid":28233,
+    "country":"DE",
+    "first_name":"Rebecca",
+    "last_name":"HARMS",
+    "birthdate":"1956-12-07",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":28321,
+    "country":"FI",
+    "first_name":"Satu",
+    "last_name":"HASSI",
+    "birthdate":"1951-06-03",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Vihreä liitto"
+  },
+  {
+    "epid":110365,
+    "country":"SE",
+    "first_name":"Kent",
+    "last_name":"JOHANSSON",
+    "birthdate":"1951-12-27",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Centerpartiet"
+  },
+  {
+    "epid":96883,
+    "country":"FR",
+    "first_name":"Eva",
+    "last_name":"JOLY",
+    "birthdate":"1943-12-05",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":28280,
+    "country":"PL",
+    "first_name":"Filip",
+    "last_name":"KACZMAREK",
+    "birthdate":"1966-11-22",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96807,
+    "country":"BG",
+    "first_name":"Ivailo",
+    "last_name":"KALFIN",
+    "birthdate":"1964-05-30",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Coalition for Bulgaria"
+  },
+  {
+    "epid":96901,
+    "country":"LV",
+    "first_name":"Krišjānis",
+    "last_name":"KARIŅŠ",
+    "birthdate":"1964-12-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Vienotība"
+  },
+  {
+    "epid":96734,
+    "country":"DE",
+    "first_name":"Franziska",
+    "last_name":"KELLER",
+    "birthdate":"1981-11-22",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":97011,
+    "country":"GR",
+    "first_name":"Georgios",
+    "last_name":"KOUMOUTSAKOS",
+    "birthdate":"1961-09-17",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":97968,
+    "country":"BG",
+    "first_name":"Andrey",
+    "last_name":"KOVATCHEV",
+    "birthdate":"1967-12-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Citizens for European Development of Bulgaria"
+  },
+  {
+    "epid":96820,
+    "country":"PT",
+    "first_name":"Marisa",
+    "last_name":"MATIAS",
+    "birthdate":"1976-02-20",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Bloco de Esquerda"
+  },
+  {
+    "epid":96936,
+    "country":"ES",
+    "first_name":"Gabriel",
+    "last_name":"MATO ADROVER",
+    "birthdate":"1961-04-29",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96663,
+    "country":"DK",
+    "first_name":"Morten",
+    "last_name":"MESSERSCHMIDT",
+    "birthdate":"1980-11-13",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Dansk Folkeparti"
+  },
+  {
+    "epid":97020,
+    "country":"IT",
+    "first_name":"Guido",
+    "last_name":"MILANA",
+    "birthdate":"1954-03-02",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":97280,
+    "country":"IT",
+    "first_name":"Claudio",
+    "last_name":"MORGANTI",
+    "birthdate":"1973-04-14",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Indipendente"
+  },
+  {
+    "epid":28288,
+    "country":"PL",
+    "first_name":"Jan",
+    "last_name":"OLBRYCHT",
+    "birthdate":"1952-09-21",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96783,
+    "country":"PL",
+    "first_name":"Wojciech Michał",
+    "last_name":"OLEJNICZAK",
+    "birthdate":"1974-04-10",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sojusz Lewicy Demokratycznej"
+  },
+  {
+    "epid":97007,
+    "country":"GR",
+    "first_name":"Chrysoula",
+    "last_name":"PALIADELI",
+    "birthdate":"1947-07-08",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":97050,
+    "country":"CY",
+    "first_name":"Antigoni",
+    "last_name":"PAPADOPOULOU",
+    "birthdate":"1954-07-08",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Democratic Party"
+  },
+  {
+    "epid":33984,
+    "country":"RO",
+    "first_name":"Ioan Mircea",
+    "last_name":"PAŞCU",
+    "birthdate":"1949-02-17",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":96989,
+    "country":"ES",
+    "first_name":"Andrés",
+    "last_name":"PERELLÓ RODRÍGUEZ",
+    "birthdate":"1957-07-01",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":96925,
+    "country":"GR",
+    "first_name":"Sylvana",
+    "last_name":"RAPTI",
+    "birthdate":"1958-11-10",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":96885,
+    "country":"FR",
+    "first_name":"Dominique",
+    "last_name":"RIQUET",
+    "birthdate":"1946-09-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Parti Radical"
+  },
+  {
+    "epid":96710,
+    "country":"DK",
+    "first_name":"Jens",
+    "last_name":"ROHDE",
+    "birthdate":"1970-04-18",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Venstre, Danmarks Liberale Parti"
+  },
+  {
+    "epid":96819,
+    "country":"IT",
+    "first_name":"Licia",
+    "last_name":"RONZULLI",
+    "birthdate":"1975-09-14",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":99416,
+    "country":"GR",
+    "first_name":"Nikolaos",
+    "last_name":"SALAVRAKOS",
+    "birthdate":"1946-02-15",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Popular Orthodox Rally - G. Karatzaferis"
+  },
+  {
+    "epid":96770,
+    "country":"PL",
+    "first_name":"Joanna Katarzyna",
+    "last_name":"SKRZYDLEWSKA",
+    "birthdate":"1977-02-17",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":97018,
+    "country":"GR",
+    "first_name":"Theodoros",
+    "last_name":"SKYLAKAKIS",
+    "birthdate":"1959-10-18",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Drassi"
+  },
+  {
+    "epid":97008,
+    "country":"GR",
+    "first_name":"Georgios",
+    "last_name":"STAVRAKAKIS",
+    "birthdate":"1954-10-13",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":39721,
+    "country":"RO",
+    "first_name":"Theodor Dumitru",
+    "last_name":"STOLOJAN",
+    "birthdate":"1943-10-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":28320,
+    "country":"CZ",
+    "first_name":"Ivo",
+    "last_name":"STREJČEK",
+    "birthdate":"1962-01-11",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":96703,
+    "country":"DK",
+    "first_name":"Emilie",
+    "last_name":"TURUNEN",
+    "birthdate":"1984-05-13",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socialdemokratiet"
+  },
+  {
+    "epid":96660,
+    "country":"GR",
+    "first_name":"Niki",
+    "last_name":"TZAVELA",
+    "birthdate":"1947-06-30",
+    "gender":"F",
+    "eugroup":"EFD",
+    "party":"Popular Orthodox Rally - G. Karatzaferis"
+  },
+  {
+    "epid":97131,
+    "country":"IT",
+    "first_name":"Giommaria",
+    "last_name":"UGGIAS",
+    "birthdate":"1961-03-29",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Italia dei Valori - Lista Di Pietro"
+  },
+  {
+    "epid":28221,
+    "country":"DE",
+    "first_name":"Thomas",
+    "last_name":"ULMER",
+    "birthdate":"1956-07-25",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96858,
+    "country":"FR",
+    "first_name":"Marie-Christine",
+    "last_name":"VERGIAT",
+    "birthdate":"1956-09-23",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Front de gauche pour changer d’Europe"
+  },
+  {
+    "epid":96774,
+    "country":"PL",
+    "first_name":"Jarosław Leszek",
+    "last_name":"WAŁĘSA",
+    "birthdate":"1976-09-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96763,
+    "country":"ES",
+    "first_name":"Pablo",
+    "last_name":"ZALBA BIDEGAIN",
+    "birthdate":"1975-01-28",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96777,
+    "country":"PL",
+    "first_name":"Paweł",
+    "last_name":"ZALEWSKI",
+    "birthdate":"1964-09-25",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":108329,
+    "country":"IT",
+    "first_name":"Andrea",
+    "last_name":"ZANONI",
+    "birthdate":"1965-08-26",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"-"
+  },
+  {
+    "epid":96933,
+    "country":"SI",
+    "first_name":"Milan",
+    "last_name":"ZVER",
+    "birthdate":"1962-05-25",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Slovenska demokratska stranka"
+  },
+  {
+    "epid":96814,
+    "country":"RO",
+    "first_name":"Elena",
+    "last_name":"BĂSESCU",
+    "birthdate":"1980-04-24",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":96878,
+    "country":"HU",
+    "first_name":"Lajos",
+    "last_name":"BOKROS",
+    "birthdate":"1954-06-26",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Modern Magyarország Mozgalom"
+  },
+  {
+    "epid":96739,
+    "country":"DE",
+    "first_name":"Reinhard",
+    "last_name":"BÜTIKOFER",
+    "birthdate":"1953-01-26",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":99325,
+    "country":"GR",
+    "first_name":"Spyros",
+    "last_name":"DANELLIS",
+    "birthdate":"1955-01-28",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":96859,
+    "country":"RO",
+    "first_name":"Ioan",
+    "last_name":"ENCIU",
+    "birthdate":"1953-04-14",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":96852,
+    "country":"DE",
+    "first_name":"Cornelia",
+    "last_name":"ERNST",
+    "birthdate":"1956-11-30",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":39321,
+    "country":"ES",
+    "first_name":"Vicente Miguel",
+    "last_name":"GARCÉS RAMÓN",
+    "birthdate":"1946-11-10",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":96991,
+    "country":"ES",
+    "first_name":"Eider",
+    "last_name":"GARDIAZÁBAL RUBIAL",
+    "birthdate":"1975-07-12",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28266,
+    "country":"NL",
+    "first_name":"Sophia in 't",
+    "last_name":"VELD",
+    "birthdate":"1963-09-13",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Democraten 66"
+  },
+  {
+    "epid":28314,
+    "country":"FI",
+    "first_name":"Anneli",
+    "last_name":"JÄÄTTEENMÄKI",
+    "birthdate":"1955-02-11",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Suomen Keskusta"
+  },
+  {
+    "epid":105849,
+    "country":"FR",
+    "first_name":"Agnès",
+    "last_name":"LE BRUN",
+    "birthdate":"1961-12-28",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96709,
+    "country":"DK",
+    "first_name":"Morten",
+    "last_name":"LØKKEGAARD",
+    "birthdate":"1964-12-20",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Venstre, Danmarks Liberale Parti"
+  },
+  {
+    "epid":96825,
+    "country":"RO",
+    "first_name":"Norica",
+    "last_name":"NICOLAI",
+    "birthdate":"1958-01-27",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Partidul Naţional Liberal"
+  },
+  {
+    "epid":97229,
+    "country":"IT",
+    "first_name":"Niccolò",
+    "last_name":"RINALDI",
+    "birthdate":"1962-12-03",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Italia dei Valori - Lista Di Pietro"
+  },
+  {
+    "epid":111018,
+    "country":"ES",
+    "first_name":"Salvador",
+    "last_name":"SEDÓ i ALABART",
+    "birthdate":"1969-04-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unió Democràtica de Catalunya"
+  },
+  {
+    "epid":97019,
+    "country":"SI",
+    "first_name":"Ivo",
+    "last_name":"VAJGL",
+    "birthdate":"1943-03-03",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"ZARES-Nova Politika"
+  },
+  {
+    "epid":111589,
+    "country":"PT",
+    "first_name":"Inês Cristina",
+    "last_name":"ZUBER",
+    "birthdate":"1980-03-11",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Partido Comunista Português"
+  },
+  {
+    "epid":96803,
+    "country":"PL",
+    "first_name":"Zbigniew",
+    "last_name":"ZIOBRO",
+    "birthdate":"1970-08-18",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Solidarna Polska"
+  },
+  {
+    "epid":111019,
+    "country":"ES",
+    "first_name":"Eva",
+    "last_name":"ORTIZ VILELLA",
+    "birthdate":"1975-10-16",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":111026,
+    "country":"AT",
+    "first_name":"Ewald",
+    "last_name":"STADLER",
+    "birthdate":"1961-05-21",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Bündnis Zukunft Österreich"
+  },
+  {
+    "epid":112620,
+    "country":"GB",
+    "first_name":"Rebecca",
+    "last_name":"TAYLOR",
+    "birthdate":"1975-08-10",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96908,
+    "country":"FR",
+    "first_name":"Gaston",
+    "last_name":"FRANCO",
+    "birthdate":"1944-02-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":23785,
+    "country":"PL",
+    "first_name":"Andrzej",
+    "last_name":"GRZYB",
+    "birthdate":"1956-08-23",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Polskie Stronnictwo Ludowe"
+  },
+  {
+    "epid":96813,
+    "country":"IT",
+    "first_name":"Barbara",
+    "last_name":"MATERA",
+    "birthdate":"1981-12-09",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":96997,
+    "country":"DE",
+    "first_name":"Burkhard",
+    "last_name":"BALZ",
+    "birthdate":"1969-07-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96779,
+    "country":"PL",
+    "first_name":"Danuta Maria",
+    "last_name":"HÜBNER",
+    "birthdate":"1948-04-08",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96871,
+    "country":"DE",
+    "first_name":"Michael",
+    "last_name":"THEURER",
+    "birthdate":"1967-01-12",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":33997,
+    "country":"RO",
+    "first_name":"Corina",
+    "last_name":"CREŢU",
+    "birthdate":"1967-06-24",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":97296,
+    "country":"FR",
+    "first_name":"Michel",
+    "last_name":"DANTIN",
+    "birthdate":"1960-01-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96998,
+    "country":"AT",
+    "first_name":"Evelyn",
+    "last_name":"REGNER",
+    "birthdate":"1966-01-24",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Österreichs"
+  },
+  {
+    "epid":96843,
+    "country":"IT",
+    "first_name":"Marco",
+    "last_name":"SCURRIA",
+    "birthdate":"1967-05-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fratelli d'Italia - Centrodestra Nazionale"
+  },
+  {
+    "epid":101580,
+    "country":"FR",
+    "first_name":"Constance",
+    "last_name":"LE GRIP",
+    "birthdate":"1960-11-14",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":105624,
+    "country":"FR",
+    "first_name":"Philippe",
+    "last_name":"BOULLAND",
+    "birthdate":"1955-08-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":28324,
+    "country":"CZ",
+    "first_name":"Milan",
+    "last_name":"CABRNOCH",
+    "birthdate":"1962-08-06",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":96826,
+    "country":"HU",
+    "first_name":"Tamás",
+    "last_name":"DEUTSCH",
+    "birthdate":"1966-07-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":96896,
+    "country":"FR",
+    "first_name":"Marielle",
+    "last_name":"GALLO",
+    "birthdate":"1949-05-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union des Démocrates et Indépendants"
+  },
+  {
+    "epid":96684,
+    "country":"FI",
+    "first_name":"Liisa",
+    "last_name":"JAAKONSAARI",
+    "birthdate":"1945-09-02",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti"
+  },
+  {
+    "epid":4246,
+    "country":"AT",
+    "first_name":"Othmar",
+    "last_name":"KARAS",
+    "birthdate":"1957-12-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Österreichische Volkspartei"
+  },
+  {
+    "epid":96800,
+    "country":"PL",
+    "first_name":"Marek Henryk",
+    "last_name":"MIGALSKI",
+    "birthdate":"1969-01-14",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Polska Razem Jarosława Gowina"
+  },
+  {
+    "epid":96889,
+    "country":"IT",
+    "first_name":"Potito",
+    "last_name":"SALATTO",
+    "birthdate":"1942-01-22",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Popolari per l’Europa"
+  },
+  {
+    "epid":96918,
+    "country":"GB",
+    "first_name":"Derek",
+    "last_name":"VAUGHAN",
+    "birthdate":"1961-05-02",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":112071,
+    "country":"IE",
+    "first_name":"Emer",
+    "last_name":"COSTELLO",
+    "birthdate":"1962-09-03",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":111027,
+    "country":"BG",
+    "first_name":"Svetoslav Hristov",
+    "last_name":"MALINOV",
+    "birthdate":"1968-01-19",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Blue Coalition"
+  },
+  {
+    "epid":96749,
+    "country":"GB",
+    "first_name":"Andrew Henry William",
+    "last_name":"BRONS",
+    "birthdate":"1947-06-16",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"British Democratic Party"
+  },
+  {
+    "epid":4553,
+    "country":"GB",
+    "first_name":"Jacqueline",
+    "last_name":"FOSTER",
+    "birthdate":"1947-12-30",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96735,
+    "country":"FR",
+    "first_name":"Patrick",
+    "last_name":"LE HYARIC",
+    "birthdate":"1957-02-04",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Front de gauche pour changer d’Europe"
+  },
+  {
+    "epid":96831,
+    "country":"DE",
+    "first_name":"Jutta",
+    "last_name":"STEINRUCK",
+    "birthdate":"1962-09-01",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":4462,
+    "country":"IT",
+    "first_name":"Clemente",
+    "last_name":"MASTELLA",
+    "birthdate":"1947-02-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unione Democratici per l'Europa"
+  },
+  {
+    "epid":96999,
+    "country":"LV",
+    "first_name":"Alexander",
+    "last_name":"MIRSKY",
+    "birthdate":"1964-03-20",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Politiskā Partija \"Alternative\""
+  },
+  {
+    "epid":96875,
+    "country":"DE",
+    "first_name":"Britta",
+    "last_name":"REIMERS",
+    "birthdate":"1971-07-27",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":96685,
+    "country":"FI",
+    "first_name":"Riikka",
+    "last_name":"PAKARINEN",
+    "birthdate":"1981-08-24",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Suomen Keskusta"
+  },
+  {
+    "epid":4556,
+    "country":"GB",
+    "first_name":"Nirj",
+    "last_name":"DEVA",
+    "birthdate":"1948-05-11",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96780,
+    "country":"DE",
+    "first_name":"Monika",
+    "last_name":"HOHLMEIER",
+    "birthdate":"1962-07-02",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":28171,
+    "country":"NL",
+    "first_name":"Emine",
+    "last_name":"BOZKURT",
+    "birthdate":"1967-08-09",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partij van de Arbeid"
+  },
+  {
+    "epid":28311,
+    "country":"PT",
+    "first_name":"Luis Manuel",
+    "last_name":"CAPOULAS SANTOS",
+    "birthdate":"1951-08-22",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista"
+  },
+  {
+    "epid":96848,
+    "country":"BG",
+    "first_name":"Mariya",
+    "last_name":"GABRIEL",
+    "birthdate":"1979-05-20",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Citizens for European Development of Bulgaria"
+  },
+  {
+    "epid":28177,
+    "country":"FR",
+    "first_name":"Bernadette",
+    "last_name":"VERGNAUD",
+    "birthdate":"1950-09-16",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":96874,
+    "country":"DE",
+    "first_name":"Alexandra",
+    "last_name":"THEIN",
+    "birthdate":"1963-10-05",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":41007,
+    "country":"IT",
+    "first_name":"Iva",
+    "last_name":"ZANICCHI",
+    "birthdate":"1940-01-18",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":96802,
+    "country":"PL",
+    "first_name":"Jacek",
+    "last_name":"WŁOSOWICZ",
+    "birthdate":"1966-01-25",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Solidarna Polska"
+  },
+  {
+    "epid":97086,
+    "country":"IT",
+    "first_name":"Sonia",
+    "last_name":"ALFANO",
+    "birthdate":"1971-10-15",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Italia dei Valori - Lista Di Pietro"
+  },
+  {
+    "epid":96892,
+    "country":"IT",
+    "first_name":"Roberto",
+    "last_name":"GUALTIERI",
+    "birthdate":"1966-07-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":96862,
+    "country":"FR",
+    "first_name":"Sophie",
+    "last_name":"AUCONIE",
+    "birthdate":"1963-08-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union des Démocrates et Indépendants"
+  },
+  {
+    "epid":96736,
+    "country":"DE",
+    "first_name":"Jan Philipp",
+    "last_name":"ALBRECHT",
+    "birthdate":"1982-12-20",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":96750,
+    "country":"FR",
+    "first_name":"François",
+    "last_name":"ALFONSI",
+    "birthdate":"1953-09-14",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Partitu di a Nazione Corsa"
+  },
+  {
+    "epid":28246,
+    "country":"DE",
+    "first_name":"Alexander",
+    "last_name":"ALVARO",
+    "birthdate":"1975-05-26",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":96954,
+    "country":"GB",
+    "first_name":"Marta",
+    "last_name":"ANDREASEN",
+    "birthdate":"1954-11-26",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"-"
+  },
+  {
+    "epid":96986,
+    "country":"ES",
+    "first_name":"Josefa",
+    "last_name":"ANDRÉS BAREA",
+    "birthdate":"1958-02-17",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28276,
+    "country":"LT",
+    "first_name":"Laima Liucija",
+    "last_name":"ANDRIKIENĖ",
+    "birthdate":"1958-01-01",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Tėvynės sąjunga - Lietuvos krikščionys demokratai"
+  },
+  {
+    "epid":1941,
+    "country":"IT",
+    "first_name":"Roberta",
+    "last_name":"ANGELILLI",
+    "birthdate":"1965-02-01",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":28422,
+    "country":"IT",
+    "first_name":"Alfredo",
+    "last_name":"ANTONIOZZI",
+    "birthdate":"1956-03-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":97228,
+    "country":"IT",
+    "first_name":"Pino",
+    "last_name":"ARLACCHI",
+    "birthdate":"1951-02-21",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":28132,
+    "country":"GB",
+    "first_name":"Richard",
+    "last_name":"ASHWORTH",
+    "birthdate":"1947-09-17",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":4537,
+    "country":"GB",
+    "first_name":"Sir Robert",
+    "last_name":"ATKINS",
+    "birthdate":"1946-02-05",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":23938,
+    "country":"MT",
+    "first_name":"John",
+    "last_name":"ATTARD-MONTALTO",
+    "birthdate":"1953-02-07",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partit Laburista"
+  },
+  {
+    "epid":33775,
+    "country":"FR",
+    "first_name":"Jean-Pierre",
+    "last_name":"AUDY",
+    "birthdate":"1952-06-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":28161,
+    "country":"DK",
+    "first_name":"Margrete",
+    "last_name":"AUKEN",
+    "birthdate":"1945-01-06",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Socialistisk Folkeparti"
+  },
+  {
+    "epid":28292,
+    "country":"ES",
+    "first_name":"Inés",
+    "last_name":"AYALA SENDER",
+    "birthdate":"1957-03-28",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28114,
+    "country":"IE",
+    "first_name":"Liam",
+    "last_name":"AYLWARD",
+    "birthdate":"1952-09-27",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Fianna Fáil Party"
+  },
+  {
+    "epid":4319,
+    "country":"ES",
+    "first_name":"Pilar",
+    "last_name":"AYUSO",
+    "birthdate":"1942-06-16",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96937,
+    "country":"NL",
+    "first_name":"Johannes Cornelis van",
+    "last_name":"BAALEN",
+    "birthdate":"1960-06-17",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Volkspartij voor Vrijheid en Democratie"
+  },
+  {
+    "epid":97293,
+    "country":"LU",
+    "first_name":"Georges",
+    "last_name":"BACH",
+    "birthdate":"1955-06-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Parti chrétien social luxembourgeois"
+  },
+  {
+    "epid":28342,
+    "country":"ES",
+    "first_name":"Maria",
+    "last_name":"BADIA i CUTCHET",
+    "birthdate":"1947-05-13",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partit dels Socialistes de Catalunya"
+  },
+  {
+    "epid":23813,
+    "country":"HU",
+    "first_name":"Zoltán",
+    "last_name":"BAGÓ",
+    "birthdate":"1975-01-10",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":96680,
+    "country":"LT",
+    "first_name":"Zigmantas",
+    "last_name":"BALČYTIS",
+    "birthdate":"1953-11-16",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Lietuvos socialdemokratų partija"
+  },
+  {
+    "epid":96757,
+    "country":"IT",
+    "first_name":"Raffaele",
+    "last_name":"BALDASSARRE",
+    "birthdate":"1956-09-23",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":96979,
+    "country":"IT",
+    "first_name":"Francesca",
+    "last_name":"BALZANI",
+    "birthdate":"1966-10-31",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":21818,
+    "country":"IT",
+    "first_name":"Paolo",
+    "last_name":"BARTOLOZZI",
+    "birthdate":"1957-09-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":23866,
+    "country":"SK",
+    "first_name":"Edit",
+    "last_name":"BAUER",
+    "birthdate":"1946-08-30",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Strana mad'arskej komunity- Magyar Közösség Pártja"
+  },
+  {
+    "epid":4507,
+    "country":"NL",
+    "first_name":"Bastiaan",
+    "last_name":"BELDER",
+    "birthdate":"1946-10-25",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Staatkundig Gereformeerde Partij"
+  },
+  {
+    "epid":28257,
+    "country":"BE",
+    "first_name":"Ivo",
+    "last_name":"BELET",
+    "birthdate":"1959-06-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christen-Democratisch & Vlaams"
+  },
+  {
+    "epid":28214,
+    "country":"FR",
+    "first_name":"Jean-Luc",
+    "last_name":"BENNAHMIAS",
+    "birthdate":"1954-12-02",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Mouvement Démocrate"
+  },
+  {
+    "epid":1985,
+    "country":"FR",
+    "first_name":"Pervenche",
+    "last_name":"BERÈS",
+    "birthdate":"1957-03-10",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":4746,
+    "country":"IT",
+    "first_name":"Sergio",
+    "last_name":"BERLATO",
+    "birthdate":"1959-07-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":97156,
+    "country":"IT",
+    "first_name":"Luigi",
+    "last_name":"BERLINGUER",
+    "birthdate":"1932-07-25",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":28174,
+    "country":"NL",
+    "first_name":"Thijs",
+    "last_name":"BERMAN",
+    "birthdate":"1957-09-26",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partij van de Arbeid"
+  },
+  {
+    "epid":23788,
+    "country":"PL",
+    "first_name":"Adam",
+    "last_name":"BIELAN",
+    "birthdate":"1974-09-12",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Polska Razem Jarosława Gowina"
+  },
+  {
+    "epid":38610,
+    "country":"BG",
+    "first_name":"Slavi",
+    "last_name":"BINEV",
+    "birthdate":"1965-12-10",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"People for Real, Open and United Democracy / Conservative Party for Democracy and Success"
+  },
+  {
+    "epid":28513,
+    "country":"GB",
+    "first_name":"Godfrey",
+    "last_name":"BLOOM",
+    "birthdate":"1949-11-22",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":39722,
+    "country":"RO",
+    "first_name":"Sebastian Valentin",
+    "last_name":"BODU",
+    "birthdate":"1970-12-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":1037,
+    "country":"DE",
+    "first_name":"Reimer",
+    "last_name":"BÖGE",
+    "birthdate":"1951-12-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":29074,
+    "country":"IT",
+    "first_name":"Vito",
+    "last_name":"BONSIGNORE",
+    "birthdate":"1943-07-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":21817,
+    "country":"IT",
+    "first_name":"Mario",
+    "last_name":"BORGHEZIO",
+    "birthdate":"1947-12-03",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":96916,
+    "country":"IT",
+    "first_name":"Rita",
+    "last_name":"BORSELLINO",
+    "birthdate":"1945-06-02",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":39711,
+    "country":"RO",
+    "first_name":"Victor",
+    "last_name":"BOŞTINARU",
+    "birthdate":"1952-05-17",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":33570,
+    "country":"GB",
+    "first_name":"Sharon",
+    "last_name":"BOWLES",
+    "birthdate":"1953-06-12",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":4540,
+    "country":"GB",
+    "first_name":"Philip",
+    "last_name":"BRADBOURN",
+    "birthdate":"1951-08-09",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":111126,
+    "country":"PL",
+    "first_name":"Arkadiusz Tomasz",
+    "last_name":"BRATKOWSKI",
+    "birthdate":"1959-05-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Polskie Stronnictwo Ludowe"
+  },
+  {
+    "epid":28354,
+    "country":"CZ",
+    "first_name":"Jan",
+    "last_name":"BŘEZINA",
+    "birthdate":"1954-04-14",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"-"
+  },
+  {
+    "epid":1263,
+    "country":"DE",
+    "first_name":"Elmar",
+    "last_name":"BROK",
+    "birthdate":"1946-05-14",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96716,
+    "country":"CZ",
+    "first_name":"Zuzana",
+    "last_name":"BRZOBOHATÁ",
+    "birthdate":"1962-07-11",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":4267,
+    "country":"DE",
+    "first_name":"Udo",
+    "last_name":"BULLMANN",
+    "birthdate":"1956-06-08",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28269,
+    "country":"PL",
+    "first_name":"Jerzy",
+    "last_name":"BUZEK",
+    "birthdate":"1940-07-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96849,
+    "country":"FR",
+    "first_name":"Alain",
+    "last_name":"CADEC",
+    "birthdate":"1953-06-21",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":4536,
+    "country":"GB",
+    "first_name":"Martin",
+    "last_name":"CALLANAN",
+    "birthdate":"1961-08-08",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96754,
+    "country":"NL",
+    "first_name":"Wim van de",
+    "last_name":"CAMP",
+    "birthdate":"1953-07-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christen Democratisch Appèl"
+  },
+  {
+    "epid":96733,
+    "country":"IT",
+    "first_name":"Antonio",
+    "last_name":"CANCIAN",
+    "birthdate":"1951-07-02",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":96867,
+    "country":"PT",
+    "first_name":"Maria Da Graça",
+    "last_name":"CARVALHO",
+    "birthdate":"1955-04-09",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":28122,
+    "country":"MT",
+    "first_name":"David",
+    "last_name":"CASA",
+    "birthdate":"1968-11-16",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partit Nazzjonalista"
+  },
+  {
+    "epid":4532,
+    "country":"GB",
+    "first_name":"Michael",
+    "last_name":"CASHMAN",
+    "birthdate":"1950-12-17",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":988,
+    "country":"IT",
+    "first_name":"Carlo",
+    "last_name":"CASINI",
+    "birthdate":"1935-03-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unione dei Democratici cristiani e dei Democratici di Centro"
+  },
+  {
+    "epid":28219,
+    "country":"DE",
+    "first_name":"Daniel",
+    "last_name":"CASPARY",
+    "birthdate":"1976-04-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28148,
+    "country":"FR",
+    "first_name":"Françoise",
+    "last_name":"CASTEX",
+    "birthdate":"1956-02-07",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":28206,
+    "country":"FR",
+    "first_name":"Jean-Marie",
+    "last_name":"CAVADA",
+    "birthdate":"1940-02-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nouveau Centre"
+  },
+  {
+    "epid":4337,
+    "country":"ES",
+    "first_name":"Alejandro",
+    "last_name":"CERCAS",
+    "birthdate":"1949-05-25",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28243,
+    "country":"DE",
+    "first_name":"Jorgo",
+    "last_name":"CHATZIMARKAKIS",
+    "birthdate":"1966-04-21",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":2097,
+    "country":"GB",
+    "first_name":"Giles",
+    "last_name":"CHICHESTER",
+    "birthdate":"1946-07-29",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":28154,
+    "country":"DK",
+    "first_name":"Ole",
+    "last_name":"CHRISTENSEN",
+    "birthdate":"1955-05-07",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socialdemokratiet"
+  },
+  {
+    "epid":24030,
+    "country":"BE",
+    "first_name":"Philip",
+    "last_name":"CLAEYS",
+    "birthdate":"1965-05-24",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Vlaams Belang"
+  },
+  {
+    "epid":1202,
+    "country":"FR",
+    "first_name":"Yves",
+    "last_name":"COCHET",
+    "birthdate":"1946-02-15",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":1892,
+    "country":"PT",
+    "first_name":"Carlos",
+    "last_name":"COELHO",
+    "birthdate":"1960-05-20",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":1934,
+    "country":"FR",
+    "first_name":"Daniel",
+    "last_name":"COHN-BENDIT",
+    "birthdate":"1945-04-04",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":2315,
+    "country":"FR",
+    "first_name":"Jean Louis",
+    "last_name":"COTTIGNY",
+    "birthdate":"1950-09-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":96880,
+    "country":"IT",
+    "first_name":"Andrea",
+    "last_name":"COZZOLINO",
+    "birthdate":"1962-08-03",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":28238,
+    "country":"DE",
+    "first_name":"Michael",
+    "last_name":"CRAMER",
+    "birthdate":"1949-06-16",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":96873,
+    "country":"DE",
+    "first_name":"Jürgen",
+    "last_name":"CREUTZMANN",
+    "birthdate":"1945-10-04",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":2109,
+    "country":"IE",
+    "first_name":"Brian",
+    "last_name":"CROWLEY",
+    "birthdate":"1964-03-04",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Fianna Fáil Party"
+  },
+  {
+    "epid":96856,
+    "country":"RO",
+    "first_name":"George Sabin",
+    "last_name":"CUTAŞ",
+    "birthdate":"1968-02-23",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat + Partidul Conservator"
+  },
+  {
+    "epid":97125,
+    "country":"BE",
+    "first_name":"Frédéric",
+    "last_name":"DAERDEN",
+    "birthdate":"1970-01-11",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti Socialiste"
+  },
+  {
+    "epid":96809,
+    "country":"NL",
+    "first_name":"Peter van",
+    "last_name":"DALEN",
+    "birthdate":"1958-09-03",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"ChristenUnie"
+  },
+  {
+    "epid":95281,
+    "country":"RO",
+    "first_name":"Vasilica Viorica",
+    "last_name":"DĂNCILĂ",
+    "birthdate":"1963-12-16",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":4342,
+    "country":"FR",
+    "first_name":"Joseph",
+    "last_name":"DAUL",
+    "birthdate":"1947-04-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96973,
+    "country":"PT",
+    "first_name":"Mário",
+    "last_name":"DAVID",
+    "birthdate":"1953-08-20",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":4554,
+    "country":"GB",
+    "first_name":"Chris",
+    "last_name":"DAVIES",
+    "birthdate":"1954-07-07",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96887,
+    "country":"IT",
+    "first_name":"Francesco",
+    "last_name":"DE ANGELIS",
+    "birthdate":"1959-10-04",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":96891,
+    "country":"IT",
+    "first_name":"Paolo",
+    "last_name":"DE CASTRO",
+    "birthdate":"1958-02-02",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":22097,
+    "country":"BE",
+    "first_name":"Véronique",
+    "last_name":"DE KEYSER",
+    "birthdate":"1945-03-23",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti Socialiste"
+  },
+  {
+    "epid":1746,
+    "country":"IT",
+    "first_name":"Luigi Ciriaco",
+    "last_name":"DE MITA",
+    "birthdate":"1928-02-02",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unione dei Democratici cristiani e dei Democratici di Centro"
+  },
+  {
+    "epid":4335,
+    "country":"FR",
+    "first_name":"Marielle de",
+    "last_name":"SARNEZ",
+    "birthdate":"1951-03-27",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Mouvement Démocrate"
+  },
+  {
+    "epid":4318,
+    "country":"FR",
+    "first_name":"Harlem",
+    "last_name":"DÉSIR",
+    "birthdate":"1959-11-25",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":28228,
+    "country":"DE",
+    "first_name":"Albert",
+    "last_name":"DESS",
+    "birthdate":"1947-04-17",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":4347,
+    "country":"FR",
+    "first_name":"Christine",
+    "last_name":"DE VEYRAC",
+    "birthdate":"1959-11-06",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union des Démocrates et Indépendants"
+  },
+  {
+    "epid":28397,
+    "country":"ES",
+    "first_name":"Agustín",
+    "last_name":"DÍAZ DE MERA GARCÍA CONSUEGRA",
+    "birthdate":"1947-09-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":4514,
+    "country":"GB",
+    "first_name":"Andrew",
+    "last_name":"DUFF",
+    "birthdate":"1950-12-25",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96639,
+    "country":"BE",
+    "first_name":"Isabelle",
+    "last_name":"DURANT",
+    "birthdate":"1954-09-04",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Ecologistes Confédérés pour l'Organisation de Luttes Originales"
+  },
+  {
+    "epid":28226,
+    "country":"DE",
+    "first_name":"Christian",
+    "last_name":"EHLER",
+    "birthdate":"1963-08-17",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":25718,
+    "country":"BE",
+    "first_name":"Saïd",
+    "last_name":"EL KHADRAOUI",
+    "birthdate":"1975-04-09",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socialistische Partij.Anders"
+  },
+  {
+    "epid":1419,
+    "country":"GB",
+    "first_name":"James",
+    "last_name":"ELLES",
+    "birthdate":"1949-09-03",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":96876,
+    "country":"LU",
+    "first_name":"Frank",
+    "last_name":"ENGEL",
+    "birthdate":"1975-05-10",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Parti chrétien social luxembourgeois"
+  },
+  {
+    "epid":97133,
+    "country":"BE",
+    "first_name":"Derk Jan",
+    "last_name":"EPPINK",
+    "birthdate":"1958-11-07",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Lijst Dedecker"
+  },
+  {
+    "epid":28310,
+    "country":"PT",
+    "first_name":"Edite",
+    "last_name":"ESTRELA",
+    "birthdate":"1949-10-28",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista"
+  },
+  {
+    "epid":4550,
+    "country":"GB",
+    "first_name":"Jill",
+    "last_name":"EVANS",
+    "birthdate":"1959-05-08",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Plaid Cymru - Party of Wales"
+  },
+  {
+    "epid":23695,
+    "country":"CZ",
+    "first_name":"Hynek",
+    "last_name":"FAJMON",
+    "birthdate":"1968-05-17",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":96911,
+    "country":"SI",
+    "first_name":"Tanja",
+    "last_name":"FAJON",
+    "birthdate":"1971-05-09",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socialni demokrati"
+  },
+  {
+    "epid":4525,
+    "country":"GB",
+    "first_name":"Nigel",
+    "last_name":"FARAGE",
+    "birthdate":"1964-04-03",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":4265,
+    "country":"SE",
+    "first_name":"Göran",
+    "last_name":"FÄRM",
+    "birthdate":"1949-10-17",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Arbetarepartiet- Socialdemokraterna"
+  },
+  {
+    "epid":1917,
+    "country":"DE",
+    "first_name":"Markus",
+    "last_name":"FERBER",
+    "birthdate":"1965-01-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":28308,
+    "country":"PT",
+    "first_name":"Elisa",
+    "last_name":"FERREIRA",
+    "birthdate":"1955-10-17",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista"
+  },
+  {
+    "epid":96706,
+    "country":"PT",
+    "first_name":"João",
+    "last_name":"FERREIRA",
+    "birthdate":"1978-11-20",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Partido Comunista Português"
+  },
+  {
+    "epid":96810,
+    "country":"IT",
+    "first_name":"Carlo",
+    "last_name":"FIDANZA",
+    "birthdate":"1976-09-21",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fratelli d'Italia - Centrodestra Nazionale"
+  },
+  {
+    "epid":96729,
+    "country":"ES",
+    "first_name":"Santiago",
+    "last_name":"FISAS AYXELA",
+    "birthdate":"1948-08-29",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":23868,
+    "country":"SK",
+    "first_name":"Monika",
+    "last_name":"FLAŠÍKOVÁ BEŇOVÁ",
+    "birthdate":"1968-08-15",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"SMER-Sociálna demokracia"
+  },
+  {
+    "epid":4385,
+    "country":"FR",
+    "first_name":"Hélène",
+    "last_name":"FLAUTRE",
+    "birthdate":"1958-07-29",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":96840,
+    "country":"DE",
+    "first_name":"Knut",
+    "last_name":"FLECKENSTEIN",
+    "birthdate":"1953-12-20",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":1038,
+    "country":"DE",
+    "first_name":"Karl-Heinz",
+    "last_name":"FLORENZ",
+    "birthdate":"1947-10-22",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":1993,
+    "country":"ES",
+    "first_name":"Carmen",
+    "last_name":"FRAGA ESTÉVEZ",
+    "birthdate":"1948-10-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":2341,
+    "country":"DE",
+    "first_name":"Michael",
+    "last_name":"GAHLER",
+    "birthdate":"1960-04-22",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":2125,
+    "country":"IE",
+    "first_name":"Pat the Cope",
+    "last_name":"GALLAGHER",
+    "birthdate":"1948-03-10",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Fianna Fáil Party"
+  },
+  {
+    "epid":102886,
+    "country":"HU",
+    "first_name":"Ildikó",
+    "last_name":"GÁLL-PELCZ",
+    "birthdate":"1962-05-02",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":28298,
+    "country":"ES",
+    "first_name":"Iratxe",
+    "last_name":"GARCÍA PÉREZ",
+    "birthdate":"1974-10-07",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":4562,
+    "country":"IT",
+    "first_name":"Giuseppe",
+    "last_name":"GARGANI",
+    "birthdate":"1935-04-23",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Popolari per l’Europa"
+  },
+  {
+    "epid":1665,
+    "country":"ES",
+    "first_name":"Salvador",
+    "last_name":"GARRIGA POLLEDO",
+    "birthdate":"1957-08-06",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":28193,
+    "country":"FR",
+    "first_name":"Jean-Paul",
+    "last_name":"GAUZÈS",
+    "birthdate":"1947-10-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":1913,
+    "country":"DE",
+    "first_name":"Evelyne",
+    "last_name":"GEBHARDT",
+    "birthdate":"1954-01-19",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28377,
+    "country":"PL",
+    "first_name":"Lidia Joanna",
+    "last_name":"GERINGER de OEDENBERG",
+    "birthdate":"1957-09-12",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sojusz Lewicy Demokratycznej"
+  },
+  {
+    "epid":1431,
+    "country":"GR",
+    "first_name":"Marietta",
+    "last_name":"GIANNAKOU",
+    "birthdate":"1951-06-05",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":28379,
+    "country":"PL",
+    "first_name":"Adam",
+    "last_name":"GIEREK",
+    "birthdate":"1938-04-17",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Unia Pracy"
+  },
+  {
+    "epid":1902,
+    "country":"DE",
+    "first_name":"Norbert",
+    "last_name":"GLANTE",
+    "birthdate":"1952-08-08",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28145,
+    "country":"HU",
+    "first_name":"Béla",
+    "last_name":"GLATTFELDER",
+    "birthdate":"1967-05-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":4429,
+    "country":"LU",
+    "first_name":"Robert",
+    "last_name":"GOEBBELS",
+    "birthdate":"1944-04-03",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti ouvrier socialiste luxembourgeois"
+  },
+  {
+    "epid":840,
+    "country":"LU",
+    "first_name":"Charles",
+    "last_name":"GOERENS",
+    "birthdate":"1952-02-06",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Parti démocratique"
+  },
+  {
+    "epid":1164,
+    "country":"FR",
+    "first_name":"Bruno",
+    "last_name":"GOLLNISCH",
+    "birthdate":"1950-01-28",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Front national"
+  },
+  {
+    "epid":28306,
+    "country":"PT",
+    "first_name":"Ana",
+    "last_name":"GOMES",
+    "birthdate":"1954-02-09",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista"
+  },
+  {
+    "epid":96832,
+    "country":"HU",
+    "first_name":"Kinga",
+    "last_name":"GÖNCZ",
+    "birthdate":"1947-11-08",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Magyar Szocialista Párt"
+  },
+  {
+    "epid":28393,
+    "country":"ES",
+    "first_name":"Luis de",
+    "last_name":"GRANDES PASCUAL",
+    "birthdate":"1945-01-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":28220,
+    "country":"DE",
+    "first_name":"Ingeborg",
+    "last_name":"GRÄSSLE",
+    "birthdate":"1961-03-02",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28208,
+    "country":"FR",
+    "first_name":"Nathalie",
+    "last_name":"GRIESBECK",
+    "birthdate":"1956-05-24",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Mouvement Démocrate"
+  },
+  {
+    "epid":96751,
+    "country":"GB",
+    "first_name":"Nick",
+    "last_name":"GRIFFIN",
+    "birthdate":"1959-03-01",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"British National Party"
+  },
+  {
+    "epid":34728,
+    "country":"DE",
+    "first_name":"Matthias",
+    "last_name":"GROOTE",
+    "birthdate":"1973-10-21",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":2247,
+    "country":"BE",
+    "first_name":"Mathieu",
+    "last_name":"GROSCH",
+    "birthdate":"1950-09-14",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Soziale Partei"
+  },
+  {
+    "epid":2025,
+    "country":"FR",
+    "first_name":"Françoise",
+    "last_name":"GROSSETÊTE",
+    "birthdate":"1946-05-17",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":4326,
+    "country":"ES",
+    "first_name":"Cristina",
+    "last_name":"GUTIÉRREZ-CORTINES",
+    "birthdate":"1939-12-17",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":23816,
+    "country":"HU",
+    "first_name":"András",
+    "last_name":"GYÜRK",
+    "birthdate":"1972-12-02",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":28477,
+    "country":"GB",
+    "first_name":"Fiona",
+    "last_name":"HALL",
+    "birthdate":"1955-07-15",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96851,
+    "country":"DE",
+    "first_name":"Thomas",
+    "last_name":"HÄNDEL",
+    "birthdate":"1953-08-27",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":28275,
+    "country":"PL",
+    "first_name":"Małgorzata",
+    "last_name":"HANDZLIK",
+    "birthdate":"1965-01-01",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96707,
+    "country":"HU",
+    "first_name":"Ágnes",
+    "last_name":"HANKISS",
+    "birthdate":"1950-03-07",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":4555,
+    "country":"GB",
+    "first_name":"Daniel",
+    "last_name":"HANNAN",
+    "birthdate":"1971-09-01",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":4538,
+    "country":"GB",
+    "first_name":"Malcolm",
+    "last_name":"HARBOUR",
+    "birthdate":"1947-02-19",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":28116,
+    "country":"IE",
+    "first_name":"Marian",
+    "last_name":"HARKIN",
+    "birthdate":"1953-11-26",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"-"
+  },
+  {
+    "epid":103132,
+    "country":"NL",
+    "first_name":"Lucas",
+    "last_name":"HARTONG",
+    "birthdate":"1963-05-24",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Partij voor de Vrijheid"
+  },
+  {
+    "epid":1914,
+    "country":"DE",
+    "first_name":"Jutta",
+    "last_name":"HAUG",
+    "birthdate":"1951-10-08",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96752,
+    "country":"DE",
+    "first_name":"Martin",
+    "last_name":"HÄUSLING",
+    "birthdate":"1961-03-26",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":28131,
+    "country":"SE",
+    "first_name":"Anna",
+    "last_name":"HEDH",
+    "birthdate":"1967-03-18",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Arbetarepartiet- Socialdemokraterna"
+  },
+  {
+    "epid":4516,
+    "country":"GB",
+    "first_name":"Roger",
+    "last_name":"HELMER",
+    "birthdate":"1944-01-25",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":28155,
+    "country":"HU",
+    "first_name":"Edit",
+    "last_name":"HERCZOG",
+    "birthdate":"1961-05-05",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Magyar Szocialista Párt"
+  },
+  {
+    "epid":22418,
+    "country":"ES",
+    "first_name":"Esther",
+    "last_name":"HERRANZ GARCÍA",
+    "birthdate":"1969-07-03",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":28117,
+    "country":"IE",
+    "first_name":"Jim",
+    "last_name":"HIGGINS",
+    "birthdate":"1945-05-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fine Gael Party"
+  },
+  {
+    "epid":28124,
+    "country":"SE",
+    "first_name":"Gunnar",
+    "last_name":"HÖKMARK",
+    "birthdate":"1952-09-19",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Moderata Samlingspartiet"
+  },
+  {
+    "epid":5846,
+    "country":"GB",
+    "first_name":"Mary",
+    "last_name":"HONEYBALL",
+    "birthdate":"1952-11-12",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":5565,
+    "country":"FR",
+    "first_name":"Brice",
+    "last_name":"HORTEFEUX",
+    "birthdate":"1958-05-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":2073,
+    "country":"GB",
+    "first_name":"Richard",
+    "last_name":"HOWITT",
+    "birthdate":"1961-04-05",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":2338,
+    "country":"GB",
+    "first_name":"Ian",
+    "last_name":"HUDGHTON",
+    "birthdate":"1951-09-19",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Scottish National Party"
+  },
+  {
+    "epid":1407,
+    "country":"GB",
+    "first_name":"Stephen",
+    "last_name":"HUGHES",
+    "birthdate":"1952-08-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":34249,
+    "country":"BG",
+    "first_name":"Filiz Hakaeva",
+    "last_name":"HYUSMENOVA",
+    "birthdate":"1966-06-10",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Movement for Rights and Freedoms"
+  },
+  {
+    "epid":28125,
+    "country":"SE",
+    "first_name":"Anna",
+    "last_name":"IBRISAGIC",
+    "birthdate":"1967-05-23",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Moderata Samlingspartiet"
+  },
+  {
+    "epid":38605,
+    "country":"BG",
+    "first_name":"Iliana Malinova",
+    "last_name":"IOTOVA",
+    "birthdate":"1964-10-24",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Coalition for Bulgaria"
+  },
+  {
+    "epid":97130,
+    "country":"IT",
+    "first_name":"Vincenzo",
+    "last_name":"IOVINE",
+    "birthdate":"1955-12-28",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":28398,
+    "country":"ES",
+    "first_name":"Carlos José",
+    "last_name":"ITURGAIZ ANGULO",
+    "birthdate":"1965-10-20",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96857,
+    "country":"RO",
+    "first_name":"Cătălin Sorin",
+    "last_name":"IVAN",
+    "birthdate":"1978-12-23",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":96740,
+    "country":"FR",
+    "first_name":"Yannick",
+    "last_name":"JADOT",
+    "birthdate":"1967-07-27",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":96772,
+    "country":"DE",
+    "first_name":"Peter",
+    "last_name":"JAHR",
+    "birthdate":"1959-04-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96806,
+    "country":"ES",
+    "first_name":"Teresa",
+    "last_name":"JIMÉNEZ-BECERRIL BARRIO",
+    "birthdate":"1961-07-24",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96837,
+    "country":"DE",
+    "first_name":"Petra",
+    "last_name":"KAMMEREVERT",
+    "birthdate":"1966-06-01",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28506,
+    "country":"GB",
+    "first_name":"Mike",
+    "last_name":"NATTRASS",
+    "birthdate":"1945-12-14",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"An Independence Party"
+  },
+  {
+    "epid":28295,
+    "country":"ES",
+    "first_name":"Antolín",
+    "last_name":"SÁNCHEZ PRESEDO",
+    "birthdate":"1955-04-05",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":114840,
+    "country":"CY",
+    "first_name":"Sophocles",
+    "last_name":"SOPHOCLEOUS",
+    "birthdate":"1962-08-07",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Movement for Social Democracy EDEK"
+  },
+  {
+    "epid":96855,
+    "country":"HU",
+    "first_name":"Csanád",
+    "last_name":"SZEGEDI",
+    "birthdate":"1982-09-22",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Jobbik Magyarországért Mozgalom"
+  },
+  {
+    "epid":96958,
+    "country":"GB",
+    "first_name":"William (The Earl of)",
+    "last_name":"DARTMOUTH",
+    "birthdate":"1949-09-23",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"United Kingdom Independence Party"
+  },
+  {
+    "epid":30475,
+    "country":"LT",
+    "first_name":"Justina",
+    "last_name":"VITKAUSKAITE BERNARD",
+    "birthdate":"1978-01-11",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Darbo partija"
+  },
+  {
+    "epid":112014,
+    "country":"GB",
+    "first_name":"Phil",
+    "last_name":"BENNION",
+    "birthdate":"1954-10-07",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96674,
+    "country":"SE",
+    "first_name":"Anna Maria",
+    "last_name":"CORAZZA BILDT",
+    "birthdate":"1963-03-10",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Moderata Samlingspartiet"
+  },
+  {
+    "epid":37524,
+    "country":"BG",
+    "first_name":"Marusya",
+    "last_name":"LYUBCHEVA",
+    "birthdate":"1949-07-20",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Coalition for Bulgaria"
+  },
+  {
+    "epid":119435,
+    "country":"HR",
+    "first_name":"Davor Ivo",
+    "last_name":"STIER",
+    "birthdate":"1972-01-06",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Hrvatska demokratska zajednica"
+  },
+  {
+    "epid":118999,
+    "country":"IT",
+    "first_name":"Franco",
+    "last_name":"FRIGO",
+    "birthdate":"1950-08-13",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":110984,
+    "country":"MT",
+    "first_name":"Joseph",
+    "last_name":"CUSCHIERI",
+    "birthdate":"1968-02-20",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partit Laburista"
+  },
+  {
+    "epid":96699,
+    "country":"FR",
+    "first_name":"Jean-Paul",
+    "last_name":"BESSET",
+    "birthdate":"1946-08-17",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":28372,
+    "country":"PL",
+    "first_name":"Ryszard",
+    "last_name":"CZARNECKI",
+    "birthdate":"1963-01-25",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":28150,
+    "country":"HU",
+    "first_name":"Kinga",
+    "last_name":"GÁL",
+    "birthdate":"1970-09-06",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":103488,
+    "country":"ES",
+    "first_name":"Sergio",
+    "last_name":"GUTIÉRREZ PRIETO",
+    "birthdate":"1982-07-11",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":119875,
+    "country":"ES",
+    "first_name":"Iñaki",
+    "last_name":"IRAZABALBEITIA FERNÁNDEZ",
+    "birthdate":"1957-08-01",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Aralar"
+  },
+  {
+    "epid":28291,
+    "country":"SI",
+    "first_name":"Romana",
+    "last_name":"JORDAN",
+    "birthdate":"1966-01-08",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Slovenska demokratska stranka"
+  },
+  {
+    "epid":38613,
+    "country":"BG",
+    "first_name":"Metin",
+    "last_name":"KAZAK",
+    "birthdate":"1972-07-29",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Movement for Rights and Freedoms"
+  },
+  {
+    "epid":96882,
+    "country":"AT",
+    "first_name":"Elisabeth",
+    "last_name":"KÖSTINGER",
+    "birthdate":"1978-11-22",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Österreichische Volkspartei"
+  },
+  {
+    "epid":122404,
+    "country":"DK",
+    "first_name":"Claus",
+    "last_name":"LARSEN-JENSEN",
+    "birthdate":"1953-05-09",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socialdemokratiet"
+  },
+  {
+    "epid":120478,
+    "country":"DE",
+    "first_name":"Martina",
+    "last_name":"MICHELS",
+    "birthdate":"1955-12-01",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":118858,
+    "country":"MT",
+    "first_name":"Marlene",
+    "last_name":"MIZZI",
+    "birthdate":"1954-12-24",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partit Laburista"
+  },
+  {
+    "epid":112744,
+    "country":"HR",
+    "first_name":"Tonino",
+    "last_name":"PICULA",
+    "birthdate":"1961-08-31",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socijaldemokratska partija Hrvatske"
+  },
+  {
+    "epid":28404,
+    "country":"IT",
+    "first_name":"Matteo",
+    "last_name":"SALVINI",
+    "birthdate":"1973-03-09",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":96718,
+    "country":"CZ",
+    "first_name":"Olga",
+    "last_name":"SEHNALOVÁ",
+    "birthdate":"1968-10-25",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":122317,
+    "country":"PL",
+    "first_name":"Tadeusz",
+    "last_name":"ROSS",
+    "birthdate":"1938-03-14",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":118860,
+    "country":"MT",
+    "first_name":"Claudette",
+    "last_name":"ABELA BALDACCHINO",
+    "birthdate":"1973-02-17",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partit Laburista"
+  },
+  {
+    "epid":122885,
+    "country":"DK",
+    "first_name":"Rina Ronja",
+    "last_name":"KARI",
+    "birthdate":"1985-02-15",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Folkebevægelsen mod EU"
+  },
+  {
+    "epid":28141,
+    "country":"HU",
+    "first_name":"Lívia",
+    "last_name":"JÁRÓKA",
+    "birthdate":"1974-10-06",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":96782,
+    "country":"PL",
+    "first_name":"Sidonia Elżbieta",
+    "last_name":"JĘDRZEJEWSKA",
+    "birthdate":"1975-11-05",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":4271,
+    "country":"DE",
+    "first_name":"Elisabeth",
+    "last_name":"JEGGLE",
+    "birthdate":"1947-07-21",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":4440,
+    "country":"DK",
+    "first_name":"Anne",
+    "last_name":"E. JENSEN",
+    "birthdate":"1951-08-17",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Venstre, Danmarks Liberale Parti"
+  },
+  {
+    "epid":96748,
+    "country":"NL",
+    "first_name":"Cornelis de",
+    "last_name":"JONG",
+    "birthdate":"1955-05-22",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Socialistische Partij"
+  },
+  {
+    "epid":28156,
+    "country":"DK",
+    "first_name":"Dan",
+    "last_name":"JØRGENSEN",
+    "birthdate":"1975-06-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Socialdemokratiet"
+  },
+  {
+    "epid":96884,
+    "country":"FR",
+    "first_name":"Philippe",
+    "last_name":"JUVIN",
+    "birthdate":"1964-02-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":23691,
+    "country":"SI",
+    "first_name":"Jelko",
+    "last_name":"KACIN",
+    "birthdate":"1955-11-26",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberalna Demokracija Slovenije"
+  },
+  {
+    "epid":97014,
+    "country":"AT",
+    "first_name":"Karin",
+    "last_name":"KADENBACH",
+    "birthdate":"1958-04-19",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Österreichs"
+  },
+  {
+    "epid":96771,
+    "country":"PL",
+    "first_name":"Jarosław",
+    "last_name":"KALINOWSKI",
+    "birthdate":"1962-04-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Polskie Stronnictwo Ludowe"
+  },
+  {
+    "epid":96934,
+    "country":"LV",
+    "first_name":"Sandra",
+    "last_name":"KALNIETE",
+    "birthdate":"1952-12-22",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Vienotība"
+  },
+  {
+    "epid":33569,
+    "country":"GB",
+    "first_name":"Syed",
+    "last_name":"KAMALL",
+    "birthdate":"1967-02-15",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":23792,
+    "country":"PL",
+    "first_name":"Michał Tomasz",
+    "last_name":"KAMIŃSKI",
+    "birthdate":"1972-03-28",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Niezależny"
+  },
+  {
+    "epid":28481,
+    "country":"GB",
+    "first_name":"Sajjad",
+    "last_name":"KARIM",
+    "birthdate":"1970-07-11",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":25919,
+    "country":"DE",
+    "first_name":"Martin",
+    "last_name":"KASTLER",
+    "birthdate":"1974-06-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":96737,
+    "country":"FR",
+    "first_name":"Nicole",
+    "last_name":"KIIL-NIELSEN",
+    "birthdate":"1949-08-21",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":34231,
+    "country":"BG",
+    "first_name":"Evgeni",
+    "last_name":"KIRILOV",
+    "birthdate":"1945-01-26",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Coalition for Bulgaria"
+  },
+  {
+    "epid":4542,
+    "country":"GB",
+    "first_name":"Timothy",
+    "last_name":"KIRKHOPE",
+    "birthdate":"1945-04-29",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":1929,
+    "country":"DE",
+    "first_name":"Christa",
+    "last_name":"KLASS",
+    "birthdate":"1951-11-07",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":23413,
+    "country":"SI",
+    "first_name":"Mojca",
+    "last_name":"KLEVA KEKUŠ",
+    "birthdate":"1976-03-30",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socialni demokrati"
+  },
+  {
+    "epid":28244,
+    "country":"DE",
+    "first_name":"Wolf",
+    "last_name":"KLINZ",
+    "birthdate":"1941-09-13",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":1852,
+    "country":"DE",
+    "first_name":"Dieter-Lebrecht",
+    "last_name":"KOCH",
+    "birthdate":"1953-01-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28241,
+    "country":"DE",
+    "first_name":"Silvana",
+    "last_name":"KOCH-MEHRIN",
+    "birthdate":"1970-11-17",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":28331,
+    "country":"CZ",
+    "first_name":"Jaromír",
+    "last_name":"KOHLÍČEK",
+    "birthdate":"1953-02-23",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Komunistická strana Čech a Moravy"
+  },
+  {
+    "epid":96785,
+    "country":"PL",
+    "first_name":"Lena",
+    "last_name":"KOLARSKA-BOBIŃSKA",
+    "birthdate":"1947-12-03",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":39319,
+    "country":"GR",
+    "first_name":"Maria Eleni",
+    "last_name":"KOPPA",
+    "birthdate":"1963-03-01",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":4260,
+    "country":"FI",
+    "first_name":"Eija-Riitta",
+    "last_name":"KORHOLA",
+    "birthdate":"1959-06-15",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Kansallinen Kokoomus"
+  },
+  {
+    "epid":96829,
+    "country":"HU",
+    "first_name":"Ádám",
+    "last_name":"KÓSA",
+    "birthdate":"1975-07-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":96793,
+    "country":"PL",
+    "first_name":"Paweł Robert",
+    "last_name":"KOWAL",
+    "birthdate":"1975-07-22",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Polska Razem Jarosława Gowina"
+  },
+  {
+    "epid":23873,
+    "country":"SK",
+    "first_name":"Sergej",
+    "last_name":"KOZLÍK",
+    "birthdate":"1950-07-27",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Ľudová strana - Hnutie za demokratické Slovensko"
+  },
+  {
+    "epid":101954,
+    "country":"PL",
+    "first_name":"Jan",
+    "last_name":"KOZŁOWSKI",
+    "birthdate":"1946-01-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":28247,
+    "country":"DE",
+    "first_name":"Holger",
+    "last_name":"KRAHMER",
+    "birthdate":"1970-10-16",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":4482,
+    "country":"GR",
+    "first_name":"Rodi",
+    "last_name":"KRATSA-TSAGAROPOULOU",
+    "birthdate":"1953-04-15",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":1854,
+    "country":"DE",
+    "first_name":"Constanze Angela",
+    "last_name":"KREHL",
+    "birthdate":"1956-10-14",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":1935,
+    "country":"DE",
+    "first_name":"Wolfgang",
+    "last_name":"KREISSL-DÖRFLER",
+    "birthdate":"1950-12-01",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96767,
+    "country":"DE",
+    "first_name":"Werner",
+    "last_name":"KUHN",
+    "birthdate":"1955-05-19",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":1204,
+    "country":"FR",
+    "first_name":"Alain",
+    "last_name":"LAMASSOURE",
+    "birthdate":"1944-02-10",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":4531,
+    "country":"GB",
+    "first_name":"Jean",
+    "last_name":"LAMBERT",
+    "birthdate":"1950-06-01",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Green Party"
+  },
+  {
+    "epid":28242,
+    "country":"DE",
+    "first_name":"Alexander Graf",
+    "last_name":"LAMBSDORFF",
+    "birthdate":"1966-11-05",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":23746,
+    "country":"LT",
+    "first_name":"Vytautas",
+    "last_name":"LANDSBERGIS",
+    "birthdate":"1932-10-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Tėvynės sąjunga - Lietuvos krikščionys demokratai"
+  },
+  {
+    "epid":1909,
+    "country":"DE",
+    "first_name":"Bernd",
+    "last_name":"LANGE",
+    "birthdate":"1955-11-14",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":38398,
+    "country":"NL",
+    "first_name":"Esther de",
+    "last_name":"LANGE",
+    "birthdate":"1975-02-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christen Democratisch Appèl"
+  },
+  {
+    "epid":1928,
+    "country":"DE",
+    "first_name":"Werner",
+    "last_name":"LANGEN",
+    "birthdate":"1949-11-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96816,
+    "country":"IT",
+    "first_name":"Giovanni",
+    "last_name":"LA VIA",
+    "birthdate":"1963-06-28",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":96796,
+    "country":"PL",
+    "first_name":"Ryszard Antoni",
+    "last_name":"LEGUTKO",
+    "birthdate":"1949-12-24",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":2224,
+    "country":"DE",
+    "first_name":"Klaus-Heiner",
+    "last_name":"LEHNE",
+    "birthdate":"1957-10-28",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28251,
+    "country":"AT",
+    "first_name":"Jörg",
+    "last_name":"LEICHTFRIED",
+    "birthdate":"1967-06-18",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Österreichs"
+  },
+  {
+    "epid":4262,
+    "country":"DE",
+    "first_name":"Jo",
+    "last_name":"LEINEN",
+    "birthdate":"1948-04-06",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":97076,
+    "country":"FR",
+    "first_name":"Corinne",
+    "last_name":"LEPAGE",
+    "birthdate":"1951-05-11",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Citoyenneté Action Participation pour le 21ème siècle"
+  },
+  {
+    "epid":1023,
+    "country":"FR",
+    "first_name":"Jean-Marie",
+    "last_name":"LE PEN",
+    "birthdate":"1928-06-20",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Front national"
+  },
+  {
+    "epid":28210,
+    "country":"FR",
+    "first_name":"Marine",
+    "last_name":"LE PEN",
+    "birthdate":"1968-08-05",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"Front national"
+  },
+  {
+    "epid":23768,
+    "country":"PL",
+    "first_name":"Bogusław",
+    "last_name":"LIBERADZKI",
+    "birthdate":"1948-09-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sojusz Lewicy Demokratycznej"
+  },
+  {
+    "epid":28253,
+    "country":"AT",
+    "first_name":"Eva",
+    "last_name":"LICHTENBERGER",
+    "birthdate":"1954-07-01",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Die Grünen - Die Grüne Alternative"
+  },
+  {
+    "epid":1927,
+    "country":"DE",
+    "first_name":"Peter",
+    "last_name":"LIESE",
+    "birthdate":"1965-05-20",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28182,
+    "country":"NL",
+    "first_name":"Kartika Tamara",
+    "last_name":"LIOTARD",
+    "birthdate":"1971-06-26",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"Onafhankelijk lid"
+  },
+  {
+    "epid":96788,
+    "country":"PL",
+    "first_name":"Krzysztof",
+    "last_name":"LISEK",
+    "birthdate":"1967-05-28",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96728,
+    "country":"DE",
+    "first_name":"Barbara",
+    "last_name":"LOCHBIHLER",
+    "birthdate":"1959-05-20",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":28399,
+    "country":"ES",
+    "first_name":"Antonio",
+    "last_name":"LÓPEZ-ISTÚRIZ WHITE",
+    "birthdate":"1970-04-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":4529,
+    "country":"GB",
+    "first_name":"Baroness Sarah",
+    "last_name":"LUDFORD",
+    "birthdate":"1951-03-14",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":96791,
+    "country":"PL",
+    "first_name":"Elżbieta Katarzyna",
+    "last_name":"ŁUKACIJEWSKA",
+    "birthdate":"1966-11-25",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":1186,
+    "country":"LU",
+    "first_name":"Astrid",
+    "last_name":"LULLING",
+    "birthdate":"1929-06-11",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Parti chrétien social luxembourgeois"
+  },
+  {
+    "epid":2327,
+    "country":"GB",
+    "first_name":"Linda",
+    "last_name":"McAVAN",
+    "birthdate":"1962-12-02",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":2173,
+    "country":"GB",
+    "first_name":"Arlene",
+    "last_name":"McCARTHY",
+    "birthdate":"1960-10-10",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":96919,
+    "country":"GB",
+    "first_name":"Emma",
+    "last_name":"McCLARKIN",
+    "birthdate":"1978-10-09",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":28115,
+    "country":"IE",
+    "first_name":"Mairead",
+    "last_name":"McGUINNESS",
+    "birthdate":"1959-06-13",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Fine Gael Party"
+  },
+  {
+    "epid":1405,
+    "country":"GB",
+    "first_name":"Edward",
+    "last_name":"McMILLAN-SCOTT",
+    "birthdate":"1949-08-15",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":4560,
+    "country":"NL",
+    "first_name":"Toine",
+    "last_name":"MANDERS",
+    "birthdate":"1956-03-14",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Volkspartij voor Vrijheid en Democratie"
+  },
+  {
+    "epid":28192,
+    "country":"SK",
+    "first_name":"Vladimír",
+    "last_name":"MAŇKA",
+    "birthdate":"1959-09-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"SMER-Sociálna demokracia"
+  },
+  {
+    "epid":1922,
+    "country":"DE",
+    "first_name":"Thomas",
+    "last_name":"MANN",
+    "birthdate":"1946-01-28",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":33982,
+    "country":"RO",
+    "first_name":"Marian-Jean",
+    "last_name":"MARINESCU",
+    "birthdate":"1952-08-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":1403,
+    "country":"GB",
+    "first_name":"David",
+    "last_name":"MARTIN",
+    "birthdate":"1954-08-26",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":4238,
+    "country":"AT",
+    "first_name":"Hans-Peter",
+    "last_name":"MARTIN",
+    "birthdate":"1957-08-11",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Liste \"Dr. Martin - für Demokratie, Kontrolle, Gerechtigkeit\""
+  },
+  {
+    "epid":4346,
+    "country":"ES",
+    "first_name":"Miguel Angel",
+    "last_name":"MARTÍNEZ MARTÍNEZ",
+    "birthdate":"1940-01-30",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28338,
+    "country":"ES",
+    "first_name":"Antonio",
+    "last_name":"MASIP HIDALGO",
+    "birthdate":"1946-05-03",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":23704,
+    "country":"CZ",
+    "first_name":"Jiří",
+    "last_name":"MAŠTÁLKA",
+    "birthdate":"1956-01-03",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Komunistická strana Čech a Moravy"
+  },
+  {
+    "epid":4412,
+    "country":"FR",
+    "first_name":"Véronique",
+    "last_name":"MATHIEU HOUILLON",
+    "birthdate":"1955-10-28",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":95017,
+    "country":"RO",
+    "first_name":"Iosif",
+    "last_name":"MATULA",
+    "birthdate":"1958-08-23",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":4275,
+    "country":"DE",
+    "first_name":"Hans-Peter",
+    "last_name":"MAYER",
+    "birthdate":"1944-05-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28362,
+    "country":"ES",
+    "first_name":"Jaime",
+    "last_name":"MAYOR OREJA",
+    "birthdate":"1951-07-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":39916,
+    "country":"SI",
+    "first_name":"Zofija",
+    "last_name":"MAZEJ KUKOVIČ",
+    "birthdate":"1955-05-14",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Slovenska demokratska stranka"
+  },
+  {
+    "epid":96817,
+    "country":"IT",
+    "first_name":"Erminia",
+    "last_name":"MAZZONI",
+    "birthdate":"1965-04-28",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":96870,
+    "country":"DE",
+    "first_name":"Gesine",
+    "last_name":"MEISSNER",
+    "birthdate":"1952-02-22",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Freie Demokratische Partei"
+  },
+  {
+    "epid":96742,
+    "country":"FR",
+    "first_name":"Jean-Luc",
+    "last_name":"MÉLENCHON",
+    "birthdate":"1951-08-19",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Front de gauche pour changer d’Europe"
+  },
+  {
+    "epid":96978,
+    "country":"PT",
+    "first_name":"Nuno",
+    "last_name":"MELO",
+    "birthdate":"1966-03-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":4348,
+    "country":"ES",
+    "first_name":"Emilio",
+    "last_name":"MENÉNDEZ del VALLE",
+    "birthdate":"1945-06-20",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":96910,
+    "country":"NL",
+    "first_name":"Judith",
+    "last_name":"A. MERKIES",
+    "birthdate":"1966-09-28",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partij van de Arbeid"
+  },
+  {
+    "epid":28407,
+    "country":"ES",
+    "first_name":"Willy",
+    "last_name":"MEYER",
+    "birthdate":"1952-08-19",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Izquierda Unida"
+  },
+  {
+    "epid":96670,
+    "country":"BE",
+    "first_name":"Louis",
+    "last_name":"MICHEL",
+    "birthdate":"1947-09-02",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Mouvement Réformateur"
+  },
+  {
+    "epid":28178,
+    "country":"SK",
+    "first_name":"Miroslav",
+    "last_name":"MIKOLÁŠIK",
+    "birthdate":"1952-09-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Kresťanskodemokratické hnutie"
+  },
+  {
+    "epid":28400,
+    "country":"ES",
+    "first_name":"Francisco José",
+    "last_name":"MILLÁN MON",
+    "birthdate":"1955-03-08",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":28112,
+    "country":"IE",
+    "first_name":"Gay",
+    "last_name":"MITCHELL",
+    "birthdate":"1951-12-30",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fine Gael Party"
+  },
+  {
+    "epid":4519,
+    "country":"GB",
+    "first_name":"Claude",
+    "last_name":"MORAES",
+    "birthdate":"1965-10-22",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":96930,
+    "country":"PT",
+    "first_name":"Vital",
+    "last_name":"MOREIRA",
+    "birthdate":"1944-11-08",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista"
+  },
+  {
+    "epid":38596,
+    "country":"FR",
+    "first_name":"Elisabeth",
+    "last_name":"MORIN-CHARTIER",
+    "birthdate":"1947-10-10",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96661,
+    "country":"HU",
+    "first_name":"Krisztina",
+    "last_name":"MORVAI",
+    "birthdate":"1963-06-22",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"Jobbik Magyarországért Mozgalom"
+  },
+  {
+    "epid":1965,
+    "country":"NL",
+    "first_name":"Jan",
+    "last_name":"MULDER",
+    "birthdate":"1943-10-03",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Volkspartij voor Vrijheid en Democratie"
+  },
+  {
+    "epid":1073,
+    "country":"IT",
+    "first_name":"Cristiana",
+    "last_name":"MUSCARDINI",
+    "birthdate":"1948-11-06",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservatori e Social Riformatori"
+  },
+  {
+    "epid":5537,
+    "country":"ES",
+    "first_name":"Juan Andrés",
+    "last_name":"NARANJO ESCOBAR",
+    "birthdate":"1952-01-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96653,
+    "country":"SK",
+    "first_name":"Katarína",
+    "last_name":"NEVEĎALOVÁ",
+    "birthdate":"1982-11-10",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"SMER-Sociálna demokracia"
+  },
+  {
+    "epid":1394,
+    "country":"GB",
+    "first_name":"Bill",
+    "last_name":"NEWTON DUNN",
+    "birthdate":"1941-10-03",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":1946,
+    "country":"BE",
+    "first_name":"Annemie",
+    "last_name":"NEYTS-UYTTEBROECK",
+    "birthdate":"1944-06-17",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Open Vlaamse Liberalen en Democraten"
+  },
+  {
+    "epid":1318,
+    "country":"GB",
+    "first_name":"James",
+    "last_name":"NICHOLSON",
+    "birthdate":"1945-01-29",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Ulster Conservatives and Unionists-New Force"
+  },
+  {
+    "epid":39714,
+    "country":"RO",
+    "first_name":"Rareş-Lucian",
+    "last_name":"NICULESCU",
+    "birthdate":"1976-08-29",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":4289,
+    "country":"DE",
+    "first_name":"Angelika",
+    "last_name":"NIEBLER",
+    "birthdate":"1963-02-18",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":28165,
+    "country":"NL",
+    "first_name":"Lambert van",
+    "last_name":"NISTELROOIJ",
+    "birthdate":"1953-03-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christen Democratisch Appèl"
+  },
+  {
+    "epid":96794,
+    "country":"PL",
+    "first_name":"Sławomir",
+    "last_name":"NITRAS",
+    "birthdate":"1973-04-26",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96981,
+    "country":"AT",
+    "first_name":"Franz",
+    "last_name":"OBERMAYR",
+    "birthdate":"1952-05-25",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Freiheitliche Partei Österreichs"
+  },
+  {
+    "epid":4328,
+    "country":"ES",
+    "first_name":"Raimon",
+    "last_name":"OBIOLS",
+    "birthdate":"1940-08-05",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partit dels Socialistes de Catalunya"
+  },
+  {
+    "epid":97230,
+    "country":"EE",
+    "first_name":"Kristiina",
+    "last_name":"OJULAND",
+    "birthdate":"1966-12-17",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Sõltumatu"
+  },
+  {
+    "epid":1122,
+    "country":"NL",
+    "first_name":"Ria",
+    "last_name":"OOMEN-RUIJTEN",
+    "birthdate":"1950-09-06",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christen Democratisch Appèl"
+  },
+  {
+    "epid":23819,
+    "country":"HU",
+    "first_name":"Csaba",
+    "last_name":"ŐRY",
+    "birthdate":"1952-05-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":23705,
+    "country":"CZ",
+    "first_name":"Miroslav",
+    "last_name":"OUZKÝ",
+    "birthdate":"1958-08-18",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":26829,
+    "country":"EE",
+    "first_name":"Siiri",
+    "last_name":"OVIIR",
+    "birthdate":"1947-11-03",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Sõltumatu"
+  },
+  {
+    "epid":1191,
+    "country":"DE",
+    "first_name":"Doris",
+    "last_name":"PACK",
+    "birthdate":"1942-03-18",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":97025,
+    "country":"EE",
+    "first_name":"Ivari",
+    "last_name":"PADAR",
+    "birthdate":"1965-03-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "epid":96694,
+    "country":"LT",
+    "first_name":"Rolandas",
+    "last_name":"PAKSAS",
+    "birthdate":"1956-06-10",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Partija Tvarka ir teisingumas"
+  },
+  {
+    "epid":28279,
+    "country":"LT",
+    "first_name":"Justas Vincas",
+    "last_name":"PALECKIS",
+    "birthdate":"1942-01-01",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Lietuvos socialdemokratų partija"
+  },
+  {
+    "epid":97197,
+    "country":"IT",
+    "first_name":"Alfredo",
+    "last_name":"PALLONE",
+    "birthdate":"1947-09-13",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nuovo Centrodestra"
+  },
+  {
+    "epid":38602,
+    "country":"BG",
+    "first_name":"Vladko Todorov",
+    "last_name":"PANAYOTOV",
+    "birthdate":"1950-05-07",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Movement for Rights and Freedoms"
+  },
+  {
+    "epid":28365,
+    "country":"IT",
+    "first_name":"Pier Antonio",
+    "last_name":"PANZERI",
+    "birthdate":"1955-06-06",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":28572,
+    "country":"GR",
+    "first_name":"Georgios",
+    "last_name":"PAPASTAMKOS",
+    "birthdate":"1955-03-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":96948,
+    "country":"FR",
+    "first_name":"Gilles",
+    "last_name":"PARGNEAUX",
+    "birthdate":"1957-03-24",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":96654,
+    "country":"SK",
+    "first_name":"Jaroslav",
+    "last_name":"PAŠKA",
+    "birthdate":"1954-06-20",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Slovenská národná strana"
+  },
+  {
+    "epid":96902,
+    "country":"PT",
+    "first_name":"Maria do Céu",
+    "last_name":"PATRÃO NEVES",
+    "birthdate":"1959-04-26",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Social Democrata"
+  },
+  {
+    "epid":36392,
+    "country":"IT",
+    "first_name":"Aldo",
+    "last_name":"PATRICIELLO",
+    "birthdate":"1957-09-27",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":4270,
+    "country":"SE",
+    "first_name":"Marit",
+    "last_name":"PAULSEN",
+    "birthdate":"1939-11-24",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Folkpartiet liberalerna"
+  },
+  {
+    "epid":23693,
+    "country":"SI",
+    "first_name":"Alojz",
+    "last_name":"PETERLE",
+    "birthdate":"1948-07-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nova Slovenija - Krščanska ljudska stranka"
+  },
+  {
+    "epid":28341,
+    "country":"PL",
+    "first_name":"Mirosław",
+    "last_name":"PIOTROWSKI",
+    "birthdate":"1966-01-09",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":2307,
+    "country":"AT",
+    "first_name":"Hubert",
+    "last_name":"PIRKER",
+    "birthdate":"1948-10-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Österreichische Volkspartei"
+  },
+  {
+    "epid":4436,
+    "country":"IT",
+    "first_name":"Gianni",
+    "last_name":"PITTELLA",
+    "birthdate":"1958-11-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":39317,
+    "country":"GR",
+    "first_name":"Anni",
+    "last_name":"PODIMATA",
+    "birthdate":"1962-10-08",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Panhellenic Socialist Movement"
+  },
+  {
+    "epid":2229,
+    "country":"DE",
+    "first_name":"Bernd",
+    "last_name":"POSSELT",
+    "birthdate":"1956-06-04",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":1253,
+    "country":"DE",
+    "first_name":"Hans-Gert",
+    "last_name":"PÖTTERING",
+    "birthdate":"1945-09-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28370,
+    "country":"IT",
+    "first_name":"Vittorio",
+    "last_name":"PRODI",
+    "birthdate":"1937-05-19",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":23782,
+    "country":"PL",
+    "first_name":"Jacek",
+    "last_name":"PROTASIEWICZ",
+    "birthdate":"1967-06-05",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96994,
+    "country":"IT",
+    "first_name":"Fiorello",
+    "last_name":"PROVERA",
+    "birthdate":"1946-03-31",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":1055,
+    "country":"DE",
+    "first_name":"Godelieve",
+    "last_name":"QUISTHOUDT-ROWOHL",
+    "birthdate":"1947-06-18",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":23706,
+    "country":"CZ",
+    "first_name":"Miloslav",
+    "last_name":"RANSDORF",
+    "birthdate":"1953-02-15",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Komunistická strana Čech a Moravy"
+  },
+  {
+    "epid":1906,
+    "country":"DE",
+    "first_name":"Bernhard",
+    "last_name":"RAPKAY",
+    "birthdate":"1951-01-08",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28330,
+    "country":"CZ",
+    "first_name":"Vladimír",
+    "last_name":"REMEK",
+    "birthdate":"1948-09-26",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Komunistická strana Čech a Moravy"
+  },
+  {
+    "epid":28225,
+    "country":"DE",
+    "first_name":"Herbert",
+    "last_name":"REUL",
+    "birthdate":"1952-08-31",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":28349,
+    "country":"ES",
+    "first_name":"Teresa",
+    "last_name":"RIERA MADURELL",
+    "birthdate":"1950-10-13",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":4253,
+    "country":"BE",
+    "first_name":"Frédérique",
+    "last_name":"RIES",
+    "birthdate":"1959-05-14",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Mouvement Réformateur"
+  },
+  {
+    "epid":96743,
+    "country":"FR",
+    "first_name":"Michèle",
+    "last_name":"RIVASI",
+    "birthdate":"1953-02-09",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Europe Écologie"
+  },
+  {
+    "epid":97199,
+    "country":"IT",
+    "first_name":"Crescenzio",
+    "last_name":"RIVELLINI",
+    "birthdate":"1955-07-09",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":93624,
+    "country":"DE",
+    "first_name":"Ulrike",
+    "last_name":"RODUST",
+    "birthdate":"1949-06-04",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28352,
+    "country":"CZ",
+    "first_name":"Zuzana",
+    "last_name":"ROITHOVÁ",
+    "birthdate":"1953-01-30",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Křesťanská a demokratická unie - Československá strana lidová"
+  },
+  {
+    "epid":96990,
+    "country":"ES",
+    "first_name":"Carmen",
+    "last_name":"ROMERO LÓPEZ",
+    "birthdate":"1946-11-15",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":28409,
+    "country":"ES",
+    "first_name":"Raül",
+    "last_name":"ROMEVA i RUEDA",
+    "birthdate":"1971-03-12",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Iniciativa per Catalunya Verds"
+  },
+  {
+    "epid":96664,
+    "country":"DK",
+    "first_name":"Anna",
+    "last_name":"ROSBACH",
+    "birthdate":"1947-02-02",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Løsgænger"
+  },
+  {
+    "epid":97196,
+    "country":"IT",
+    "first_name":"Oreste",
+    "last_name":"ROSSI",
+    "birthdate":"1964-03-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"-"
+  },
+  {
+    "epid":1183,
+    "country":"DE",
+    "first_name":"Dagmar",
+    "last_name":"ROTH-BEHRENDT",
+    "birthdate":"1953-02-21",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":23707,
+    "country":"CZ",
+    "first_name":"Libor",
+    "last_name":"ROUČEK",
+    "birthdate":"1954-09-04",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Česká strana sociálně demokratická"
+  },
+  {
+    "epid":2278,
+    "country":"AT",
+    "first_name":"Paul",
+    "last_name":"RÜBIG",
+    "birthdate":"1953-05-06",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Österreichische Volkspartei"
+  },
+  {
+    "epid":96988,
+    "country":"LV",
+    "first_name":"Alfreds",
+    "last_name":"RUBIKS",
+    "birthdate":"1935-09-24",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Politisko partiju apvienība \"Saskaņas centrs\""
+  },
+  {
+    "epid":4294,
+    "country":"DE",
+    "first_name":"Heide",
+    "last_name":"RÜHLE",
+    "birthdate":"1948-11-05",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":4345,
+    "country":"FR",
+    "first_name":"Tokia",
+    "last_name":"SAÏFI",
+    "birthdate":"1959-07-11",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":2002,
+    "country":"ES",
+    "first_name":"José Ignacio",
+    "last_name":"SALAFRANCA SÁNCHEZ-NEYRA",
+    "birthdate":"1955-05-31",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":33989,
+    "country":"RO",
+    "first_name":"Daciana Octavia",
+    "last_name":"SÂRBU",
+    "birthdate":"1977-01-15",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":4423,
+    "country":"IT",
+    "first_name":"Amalia",
+    "last_name":"SARTORI",
+    "birthdate":"1947-08-02",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":28297,
+    "country":"PL",
+    "first_name":"Jacek",
+    "last_name":"SARYUSZ-WOLSKI",
+    "birthdate":"1948-09-19",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96864,
+    "country":"IT",
+    "first_name":"David-Maria",
+    "last_name":"SASSOLI",
+    "birthdate":"1956-05-30",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":37312,
+    "country":"DK",
+    "first_name":"Christel",
+    "last_name":"SCHALDEMOSE",
+    "birthdate":"1967-08-04",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socialdemokratiet"
+  },
+  {
+    "epid":28139,
+    "country":"SE",
+    "first_name":"Carl",
+    "last_name":"SCHLYTER",
+    "birthdate":"1968-01-07",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Miljöpartiet de gröna"
+  },
+  {
+    "epid":4274,
+    "country":"SE",
+    "first_name":"Olle",
+    "last_name":"SCHMIDT",
+    "birthdate":"1949-07-22",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Folkpartiet liberalerna"
+  },
+  {
+    "epid":1930,
+    "country":"DE",
+    "first_name":"Horst",
+    "last_name":"SCHNELLHARDT",
+    "birthdate":"1946-05-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96646,
+    "country":"DE",
+    "first_name":"Helmut",
+    "last_name":"SCHOLZ",
+    "birthdate":"1954-06-21",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":28135,
+    "country":"HU",
+    "first_name":"György",
+    "last_name":"SCHÖPFLIN",
+    "birthdate":"1939-11-24",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":1933,
+    "country":"DE",
+    "first_name":"Elisabeth",
+    "last_name":"SCHROEDTER",
+    "birthdate":"1959-03-11",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":1911,
+    "country":"DE",
+    "first_name":"Martin",
+    "last_name":"SCHULZ",
+    "birthdate":"1955-12-20",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28223,
+    "country":"DE",
+    "first_name":"Andreas",
+    "last_name":"SCHWAB",
+    "birthdate":"1973-04-09",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96996,
+    "country":"IT",
+    "first_name":"Giancarlo",
+    "last_name":"SCOTTÀ",
+    "birthdate":"1953-04-11",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":28252,
+    "country":"AT",
+    "first_name":"Richard",
+    "last_name":"SEEBER",
+    "birthdate":"1962-01-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Österreichische Volkspartei"
+  },
+  {
+    "epid":96789,
+    "country":"PL",
+    "first_name":"Joanna",
+    "last_name":"SENYSZYN",
+    "birthdate":"1949-02-01",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sojusz Lewicy Demokratycznej"
+  },
+  {
+    "epid":33990,
+    "country":"RO",
+    "first_name":"Adrian",
+    "last_name":"SEVERIN",
+    "birthdate":"1954-03-28",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":23787,
+    "country":"PL",
+    "first_name":"Czesław Adam",
+    "last_name":"SIEKIERSKI",
+    "birthdate":"1952-10-08",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Polskie Stronnictwo Ludowe"
+  },
+  {
+    "epid":96755,
+    "country":"IT",
+    "first_name":"Sergio Paolo Francesco",
+    "last_name":"SILVESTRIS",
+    "birthdate":"1973-12-22",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":1309,
+    "country":"GB",
+    "first_name":"Brian",
+    "last_name":"SIMPSON",
+    "birthdate":"1953-02-06",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":96960,
+    "country":"GB",
+    "first_name":"Nicole",
+    "last_name":"SINCLAIRE",
+    "birthdate":"1968-07-26",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"We Demand a Referendum"
+  },
+  {
+    "epid":96932,
+    "country":"DE",
+    "first_name":"Birgit",
+    "last_name":"SIPPEL",
+    "birthdate":"1960-01-29",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":28380,
+    "country":"PL",
+    "first_name":"Marek",
+    "last_name":"SIWIEC",
+    "birthdate":"1955-03-13",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"-"
+  },
+  {
+    "epid":2081,
+    "country":"GB",
+    "first_name":"Peter",
+    "last_name":"SKINNER",
+    "birthdate":"1959-06-01",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":28508,
+    "country":"GB",
+    "first_name":"Alyn",
+    "last_name":"SMITH",
+    "birthdate":"1973-09-15",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Scottish National Party"
+  },
+  {
+    "epid":39724,
+    "country":"RO",
+    "first_name":"Csaba",
+    "last_name":"SÓGOR",
+    "birthdate":"1964-05-12",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Uniunea Democrată Maghiară din România"
+  },
+  {
+    "epid":4282,
+    "country":"DE",
+    "first_name":"Renate",
+    "last_name":"SOMMER",
+    "birthdate":"1958-09-10",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":37676,
+    "country":"DK",
+    "first_name":"Søren Bo",
+    "last_name":"SØNDERGAARD",
+    "birthdate":"1955-08-16",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Folkebevægelsen mod EU"
+  },
+  {
+    "epid":28299,
+    "country":"PL",
+    "first_name":"Bogusław",
+    "last_name":"SONIK",
+    "birthdate":"1953-12-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":97170,
+    "country":"ES",
+    "first_name":"Francisco",
+    "last_name":"SOSA WAGNER",
+    "birthdate":"1946-06-10",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Unión, Progreso y Democracia"
+  },
+  {
+    "epid":997,
+    "country":"IT",
+    "first_name":"Francesco Enrico",
+    "last_name":"SPERONI",
+    "birthdate":"1946-10-04",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Lega Nord"
+  },
+  {
+    "epid":4751,
+    "country":"BE",
+    "first_name":"Bart",
+    "last_name":"STAES",
+    "birthdate":"1958-08-07",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Groen"
+  },
+  {
+    "epid":96905,
+    "country":"NL",
+    "first_name":"Laurence",
+    "last_name":"J.A.J. STASSEN",
+    "birthdate":"1971-02-08",
+    "gender":"F",
+    "eugroup":"Array",
+    "party":"Partij voor de Vrijheid"
+  },
+  {
+    "epid":28170,
+    "country":"SK",
+    "first_name":"Peter",
+    "last_name":"ŠŤASTNÝ",
+    "birthdate":"1956-09-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Slovenská demokratická a kresťanská únia - Demokratická strana"
+  },
+  {
+    "epid":4546,
+    "country":"GB",
+    "first_name":"Struan",
+    "last_name":"STEVENSON",
+    "birthdate":"1948-04-04",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":4545,
+    "country":"GB",
+    "first_name":"Catherine",
+    "last_name":"STIHLER",
+    "birthdate":"1973-07-30",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":96946,
+    "country":"NL",
+    "first_name":"Daniël van der",
+    "last_name":"STOEP",
+    "birthdate":"1980-09-12",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Artikel 50"
+  },
+  {
+    "epid":34254,
+    "country":"BG",
+    "first_name":"Dimitar",
+    "last_name":"STOYANOV",
+    "birthdate":"1983-05-17",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"National-Democratic Party"
+  },
+  {
+    "epid":2037,
+    "country":"GB",
+    "first_name":"Robert",
+    "last_name":"STURDY",
+    "birthdate":"1944-06-22",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":23820,
+    "country":"HU",
+    "first_name":"László",
+    "last_name":"SURJÁN",
+    "birthdate":"1941-09-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":2295,
+    "country":"AT",
+    "first_name":"Hannes",
+    "last_name":"SWOBODA",
+    "birthdate":"1946-11-10",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Österreichs"
+  },
+  {
+    "epid":23821,
+    "country":"HU",
+    "first_name":"József",
+    "last_name":"SZÁJER",
+    "birthdate":"1961-09-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+  },
+  {
+    "epid":28358,
+    "country":"PL",
+    "first_name":"Konrad",
+    "last_name":"SZYMAŃSKI",
+    "birthdate":"1969-12-06",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":23808,
+    "country":"HU",
+    "first_name":"Csaba Sándor",
+    "last_name":"TABAJDI",
+    "birthdate":"1952-06-26",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Magyar Szocialista Párt"
+  },
+  {
+    "epid":28316,
+    "country":"FI",
+    "first_name":"Hannu",
+    "last_name":"TAKKULA",
+    "birthdate":"1963-11-20",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Suomen Keskusta"
+  },
+  {
+    "epid":4521,
+    "country":"GB",
+    "first_name":"Charles",
+    "last_name":"TANNOCK",
+    "birthdate":"1957-09-25",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":29579,
+    "country":"BE",
+    "first_name":"Marc",
+    "last_name":"TARABELLA",
+    "birthdate":"1963-03-11",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti Socialiste"
+  },
+  {
+    "epid":1945,
+    "country":"IT",
+    "first_name":"Salvatore",
+    "last_name":"TATARELLA",
+    "birthdate":"1947-10-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Futuro e Libertà per l'Italia"
+  },
+  {
+    "epid":96821,
+    "country":"PT",
+    "first_name":"Rui",
+    "last_name":"TAVARES",
+    "birthdate":"1972-07-29",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Independente"
+  },
+  {
+    "epid":102931,
+    "country":"GB",
+    "first_name":"Keith",
+    "last_name":"TAYLOR",
+    "birthdate":"1953-08-01",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Green Party"
+  },
+  {
+    "epid":107385,
+    "country":"FI",
+    "first_name":"Sampo",
+    "last_name":"TERHO",
+    "birthdate":"1977-09-20",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Perussuomalaiset"
+  },
+  {
+    "epid":25704,
+    "country":"CY",
+    "first_name":"Eleni",
+    "last_name":"THEOCHAROUS",
+    "birthdate":"1953-06-24",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Democratic Rally"
+  },
+  {
+    "epid":28153,
+    "country":"DK",
+    "first_name":"Britta",
+    "last_name":"THOMSEN",
+    "birthdate":"1954-01-23",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socialdemokratiet"
+  },
+  {
+    "epid":1832,
+    "country":"BE",
+    "first_name":"Marianne",
+    "last_name":"THYSSEN",
+    "birthdate":"1956-07-24",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christen-Democratisch & Vlaams"
+  },
+  {
+    "epid":36281,
+    "country":"RO",
+    "first_name":"Silvia-Adriana",
+    "last_name":"ŢICĂU",
+    "birthdate":"1970-11-14",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partidul Social Democrat"
+  },
+  {
+    "epid":28340,
+    "country":"IT",
+    "first_name":"Patrizia",
+    "last_name":"TOIA",
+    "birthdate":"1950-03-17",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":39726,
+    "country":"RO",
+    "first_name":"László",
+    "last_name":"TŐKÉS",
+    "birthdate":"1952-04-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"-"
+  },
+  {
+    "epid":96697,
+    "country":"LT",
+    "first_name":"Valdemar",
+    "last_name":"TOMAŠEVSKI",
+    "birthdate":"1965-03-03",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Lietuvos lenkų rinkimų akcija"
+  },
+  {
+    "epid":96713,
+    "country":"CZ",
+    "first_name":"Evžen",
+    "last_name":"TOŠENOVSKÝ",
+    "birthdate":"1956-02-26",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":28584,
+    "country":"GR",
+    "first_name":"Georgios",
+    "last_name":"TOUSSAS",
+    "birthdate":"1954-09-08",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Communist Party of Greece"
+  },
+  {
+    "epid":1129,
+    "country":"FR",
+    "first_name":"Catherine",
+    "last_name":"TRAUTMANN",
+    "birthdate":"1951-01-15",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":110987,
+    "country":"IT",
+    "first_name":"Gino",
+    "last_name":"TREMATERRA",
+    "birthdate":"1940-09-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Unione dei Democratici cristiani e dei Democratici di Centro"
+  },
+  {
+    "epid":97203,
+    "country":"ES",
+    "first_name":"Ramon",
+    "last_name":"TREMOSA i BALCELLS",
+    "birthdate":"1965-06-30",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Convergència Democràtica de Catalunya"
+  },
+  {
+    "epid":28514,
+    "country":"CY",
+    "first_name":"Kyriacos",
+    "last_name":"TRIANTAPHYLLIDES",
+    "birthdate":"1944-09-03",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Progressive Party of Working People - Left - New Forces"
+  },
+  {
+    "epid":28240,
+    "country":"DE",
+    "first_name":"Helga",
+    "last_name":"TRÜPEL",
+    "birthdate":"1958-07-21",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":96773,
+    "country":"PL",
+    "first_name":"Rafał",
+    "last_name":"TRZASKOWSKI",
+    "birthdate":"1972-01-17",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96898,
+    "country":"GR",
+    "first_name":"Ioannis",
+    "last_name":"A. TSOUKALAS",
+    "birthdate":"1941-07-03",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Nea Demokratia"
+  },
+  {
+    "epid":4432,
+    "country":"LU",
+    "first_name":"Claude",
+    "last_name":"TURMES",
+    "birthdate":"1960-11-26",
+    "gender":"M",
+    "eugroup":"Verts/ALE",
+    "party":"Déi Gréng - Les Verts"
+  },
+  {
+    "epid":96672,
+    "country":"SE",
+    "first_name":"Marita",
+    "last_name":"ULVSKOG",
+    "birthdate":"1951-09-04",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Arbetarepartiet- Socialdemokraterna"
+  },
+  {
+    "epid":96835,
+    "country":"RO",
+    "first_name":"Traian",
+    "last_name":"UNGUREANU",
+    "birthdate":"1958-03-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":38601,
+    "country":"BG",
+    "first_name":"Vladimir",
+    "last_name":"URUTCHEV",
+    "birthdate":"1954-10-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Citizens for European Development of Bulgaria"
+  },
+  {
+    "epid":96845,
+    "country":"RO",
+    "first_name":"Corneliu",
+    "last_name":"VADIM TUDOR",
+    "birthdate":"1949-11-28",
+    "gender":"M",
+    "eugroup":"Array",
+    "party":"Partidul România Mare"
+  },
+  {
+    "epid":28617,
+    "country":"LV",
+    "first_name":"Inese",
+    "last_name":"VAIDERE",
+    "birthdate":"1952-09-03",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Vienotība"
+  },
+  {
+    "epid":37324,
+    "country":"RO",
+    "first_name":"Adina-Ioana",
+    "last_name":"VĂLEAN",
+    "birthdate":"1968-02-16",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Partidul Naţional Liberal"
+  },
+  {
+    "epid":5729,
+    "country":"BE",
+    "first_name":"Kathleen",
+    "last_name":"VAN BREMPT",
+    "birthdate":"1969-11-18",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socialistische Partij.Anders"
+  },
+  {
+    "epid":1956,
+    "country":"BE",
+    "first_name":"Frank",
+    "last_name":"VANHECKE",
+    "birthdate":"1959-05-30",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Onafhankelijk"
+  },
+  {
+    "epid":4513,
+    "country":"GB",
+    "first_name":"Geoffrey",
+    "last_name":"VAN ORDEN",
+    "birthdate":"1945-04-10",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":4398,
+    "country":"IT",
+    "first_name":"Gianni",
+    "last_name":"VATTIMO",
+    "birthdate":"1936-01-04",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Italia dei Valori - Lista Di Pietro (Indipendente)"
+  },
+  {
+    "epid":4308,
+    "country":"ES",
+    "first_name":"Alejo",
+    "last_name":"VIDAL-QUADRAS",
+    "birthdate":"1945-05-20",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":2212,
+    "country":"FR",
+    "first_name":"Philippe de",
+    "last_name":"VILLIERS",
+    "birthdate":"1949-03-25",
+    "gender":"M",
+    "eugroup":"EFD",
+    "party":"Mouvement pour la France"
+  },
+  {
+    "epid":28323,
+    "country":"CZ",
+    "first_name":"Oldřich",
+    "last_name":"VLASÁK",
+    "birthdate":"1955-11-26",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":5737,
+    "country":"FR",
+    "first_name":"Dominique",
+    "last_name":"VLASTO",
+    "birthdate":"1946-08-14",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":96761,
+    "country":"DE",
+    "first_name":"Axel",
+    "last_name":"VOSS",
+    "birthdate":"1963-04-07",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":2155,
+    "country":"GB",
+    "first_name":"Sir Graham",
+    "last_name":"WATSON",
+    "birthdate":"1956-03-23",
+    "gender":"M",
+    "eugroup":"ALDE",
+    "party":"Liberal Democrats Party"
+  },
+  {
+    "epid":2319,
+    "country":"FR",
+    "first_name":"Henri",
+    "last_name":"WEBER",
+    "birthdate":"1944-06-24",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Parti socialiste"
+  },
+  {
+    "epid":28229,
+    "country":"DE",
+    "first_name":"Manfred",
+    "last_name":"WEBER",
+    "birthdate":"1972-07-14",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich-Soziale Union in Bayern e.V."
+  },
+  {
+    "epid":39713,
+    "country":"RO",
+    "first_name":"Renate",
+    "last_name":"WEBER",
+    "birthdate":"1955-08-03",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Partidul Naţional Liberal"
+  },
+  {
+    "epid":1907,
+    "country":"DE",
+    "first_name":"Barbara",
+    "last_name":"WEILER",
+    "birthdate":"1946-09-17",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":97016,
+    "country":"AT",
+    "first_name":"Angelika",
+    "last_name":"WERTHMANN",
+    "birthdate":"1963-11-07",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"-"
+  },
+  {
+    "epid":28130,
+    "country":"SE",
+    "first_name":"Åsa",
+    "last_name":"WESTLUND",
+    "birthdate":"1976-05-19",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Arbetarepartiet- Socialdemokraterna"
+  },
+  {
+    "epid":2323,
+    "country":"DE",
+    "first_name":"Rainer",
+    "last_name":"WIELAND",
+    "birthdate":"1957-02-19",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96677,
+    "country":"SE",
+    "first_name":"Cecilia",
+    "last_name":"WIKSTRÖM",
+    "birthdate":"1965-10-17",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Folkpartiet liberalerna"
+  },
+  {
+    "epid":35743,
+    "country":"GB",
+    "first_name":"Glenis",
+    "last_name":"WILLMOTT",
+    "birthdate":"1951-03-04",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Labour Party"
+  },
+  {
+    "epid":23784,
+    "country":"PL",
+    "first_name":"Janusz",
+    "last_name":"WOJCIECHOWSKI",
+    "birthdate":"1954-12-06",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Prawo i Sprawiedliwość"
+  },
+  {
+    "epid":28167,
+    "country":"NL",
+    "first_name":"Corien",
+    "last_name":"WORTMANN-KOOL",
+    "birthdate":"1959-06-27",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Christen Democratisch Appèl"
+  },
+  {
+    "epid":28278,
+    "country":"ES",
+    "first_name":"Luis",
+    "last_name":"YÁÑEZ-BARNUEVO GARCÍA",
+    "birthdate":"1943-04-12",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":23894,
+    "country":"SK",
+    "first_name":"Anna",
+    "last_name":"ZÁBORSKÁ",
+    "birthdate":"1948-06-07",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Kresťanskodemokratické hnutie"
+  },
+  {
+    "epid":23712,
+    "country":"CZ",
+    "first_name":"Jan",
+    "last_name":"ZAHRADIL",
+    "birthdate":"1963-03-20",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Občanská demokratická strana"
+  },
+  {
+    "epid":96778,
+    "country":"PL",
+    "first_name":"Artur",
+    "last_name":"ZASADA",
+    "birthdate":"1969-06-05",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Polska Razem Jarosława Gowina"
+  },
+  {
+    "epid":28619,
+    "country":"LV",
+    "first_name":"Tatjana",
+    "last_name":"ŽDANOKA",
+    "birthdate":"1950-05-08",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Par cilvēka tiesībām vienotā Latvijā"
+  },
+  {
+    "epid":96762,
+    "country":"DE",
+    "first_name":"Joachim",
+    "last_name":"ZELLER",
+    "birthdate":"1952-07-01",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":96784,
+    "country":"PL",
+    "first_name":"Janusz Władysław",
+    "last_name":"ZEMKE",
+    "birthdate":"1949-02-24",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sojusz Lewicy Demokratycznej"
+  },
+  {
+    "epid":28615,
+    "country":"LV",
+    "first_name":"Roberts",
+    "last_name":"ZĪLE",
+    "birthdate":"1958-06-20",
+    "gender":"M",
+    "eugroup":"ECR",
+    "party":"Tēvzemei un Brīvībai/LNNK"
+  },
+  {
+    "epid":28248,
+    "country":"DE",
+    "first_name":"Gabriele",
+    "last_name":"ZIMMER",
+    "birthdate":"1955-05-07",
+    "gender":"F",
+    "eugroup":"GUE/NGL",
+    "party":"DIE LINKE."
+  },
+  {
+    "epid":28301,
+    "country":"PL",
+    "first_name":"Tadeusz",
+    "last_name":"ZWIEFKA",
+    "birthdate":"1954-12-28",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":72775,
+    "country":"FR",
+    "first_name":"Rachida",
+    "last_name":"DATI",
+    "birthdate":"1965-11-27",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Union pour un Mouvement Populaire"
+  },
+  {
+    "epid":28215,
+    "country":"FR",
+    "first_name":"Jacky",
+    "last_name":"HÉNIN",
+    "birthdate":"1960-11-12",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Front de gauche pour changer d’Europe"
+  },
+  {
+    "epid":111011,
+    "country":"GB",
+    "first_name":"Anthea",
+    "last_name":"McINTYRE",
+    "birthdate":"1954-06-29",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Conservative Party"
+  },
+  {
+    "epid":28224,
+    "country":"DE",
+    "first_name":"Markus",
+    "last_name":"PIEPER",
+    "birthdate":"1963-05-15",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Christlich Demokratische Union Deutschlands"
+  },
+  {
+    "epid":111033,
+    "country":"LV",
+    "first_name":"Kārlis",
+    "last_name":"ŠADURSKIS",
+    "birthdate":"1959-10-11",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Vienotība"
+  },
+  {
+    "epid":97308,
+    "country":"EE",
+    "first_name":"Vilja",
+    "last_name":"SAVISAAR-TOOMAST",
+    "birthdate":"1962-08-15",
+    "gender":"F",
+    "eugroup":"ALDE",
+    "party":"Eesti Reformierakond"
+  },
+  {
+    "epid":96824,
+    "country":"RO",
+    "first_name":"Monica Luisa",
+    "last_name":"MACOVEI",
+    "birthdate":"1959-02-04",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":58758,
+    "country":"IT",
+    "first_name":"Elisabetta",
+    "last_name":"GARDINI",
+    "birthdate":"1956-06-03",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":97017,
+    "country":"AT",
+    "first_name":"Ulrike",
+    "last_name":"LUNACEK",
+    "birthdate":"1957-05-26",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Die Grünen - Die Grüne Alternative"
+  },
+  {
+    "epid":1059,
+    "country":"DE",
+    "first_name":"Hiltrud",
+    "last_name":"BREYER",
+    "birthdate":"1957-08-22",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":23805,
+    "country":"HU",
+    "first_name":"Zita",
+    "last_name":"GURMAI",
+    "birthdate":"1965-06-01",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Magyar Szocialista Párt"
+  },
+  {
+    "epid":96728,
+    "country":"DE",
+    "first_name":"Barbara",
+    "last_name":"LOCHBIHLER",
+    "birthdate":"1959-05-20",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Bündnis 90/Die Grünen"
+  },
+  {
+    "epid":112748,
+    "country":"HR",
+    "first_name":"Biljana",
+    "last_name":"BORZAN",
+    "birthdate":"1971-11-29",
+    "gender":"F",
+    "eugroup":"S&D",
+    "party":"Socijaldemokratska partija Hrvatske"
+  },
+  {
+    "epid":107973,
+    "country":"FI",
+    "first_name":"Tarja",
+    "last_name":"CRONBERG",
+    "birthdate":"1943-06-29",
+    "gender":"F",
+    "eugroup":"Verts/ALE",
+    "party":"Vihreä liitto"
+  },
+  {
+    "epid":119438,
+    "country":"HR",
+    "first_name":"Zdravka",
+    "last_name":"BUŠIĆ",
+    "birthdate":"1950-09-06",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Hrvatska demokratska zajednica"
+  },
+  {
+    "epid":112755,
+    "country":"HR",
+    "first_name":"Andrej",
+    "last_name":"PLENKOVIĆ",
+    "birthdate":"1970-04-08",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Hrvatska demokratska zajednica"
+  },
+  {
+    "epid":119434,
+    "country":"HR",
+    "first_name":"Dubravka",
+    "last_name":"ŠUICA",
+    "birthdate":"1957-05-20",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Hrvatska demokratska zajednica"
+  },
+  {
+    "epid":119431,
+    "country":"HR",
+    "first_name":"Ruža",
+    "last_name":"TOMAŠIĆ",
+    "birthdate":"1958-05-10",
+    "gender":"F",
+    "eugroup":"ECR",
+    "party":"Hrvatska stranka prave dr. Ante Starčević"
+  },
+  {
+    "epid":112760,
+    "country":"HR",
+    "first_name":"Nikola",
+    "last_name":"VULJANIĆ",
+    "birthdate":"1949-06-25",
+    "gender":"M",
+    "eugroup":"GUE/NGL",
+    "party":"Hrvatski laburisti - stranka rada"
+  },
+  {
+    "epid":28390,
+    "country":"ES",
+    "first_name":"Pilar del",
+    "last_name":"CASTILLO VERA",
+    "birthdate":"1952-07-31",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partido Popular"
+  },
+  {
+    "epid":96987,
+    "country":"ES",
+    "first_name":"Ricardo",
+    "last_name":"CORTÉS LASTRA",
+    "birthdate":"1969-09-23",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partido Socialista Obrero Español"
+  },
+  {
+    "epid":107041,
+    "country":"AT",
+    "first_name":"Heinz",
+    "last_name":"K. BECKER",
+    "birthdate":"1950-06-29",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Österreichische Volkspartei"
+  },
+  {
+    "epid":96842,
+    "country":"DE",
+    "first_name":"Ismail",
+    "last_name":"ERTUG",
+    "birthdate":"1975-12-05",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Sozialdemokratische Partei Deutschlands"
+  },
+  {
+    "epid":96818,
+    "country":"IT",
+    "first_name":"Salvatore",
+    "last_name":"IACOLINO",
+    "birthdate":"1963-11-18",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Forza Italia"
+  },
+  {
+    "epid":96781,
+    "country":"PL",
+    "first_name":"Danuta",
+    "last_name":"JAZŁOWIECKA",
+    "birthdate":"1957-05-19",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  },
+  {
+    "epid":96823,
+    "country":"RO",
+    "first_name":"Petru Constantin",
+    "last_name":"LUHAN",
+    "birthdate":"1977-03-19",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Partidul Democrat-Liberal"
+  },
+  {
+    "epid":118859,
+    "country":"MT",
+    "first_name":"Roberta",
+    "last_name":"METSOLA",
+    "birthdate":"1979-01-18",
+    "gender":"F",
+    "eugroup":"PPE",
+    "party":"Partit Nazzjonalista"
+  },
+  {
+    "epid":96890,
+    "country":"IT",
+    "first_name":"Mario",
+    "last_name":"PIRILLO",
+    "birthdate":"1945-09-11",
+    "gender":"M",
+    "eugroup":"S&D",
+    "party":"Partito Democratico"
+  },
+  {
+    "epid":28300,
+    "country":"PL",
+    "first_name":"Zbigniew",
+    "last_name":"ZALESKI",
+    "birthdate":"1947-04-29",
+    "gender":"M",
+    "eugroup":"PPE",
+    "party":"Platforma Obywatelska"
+  }
+]

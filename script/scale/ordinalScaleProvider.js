@@ -3,30 +3,27 @@
 
     ngDashboard.config(['scaleParserProvider',
         function(scaleParserProvider) {
-            scaleParserProvider.registerScaleProvider('linear', new LinearScaleProvider());
+            scaleParserProvider.registerScaleProvider('ordinal', new OrdinalScaleProvider());
         }
     ]);
 
-    function LinearScaleProvider() {}
-
-    LinearScaleProvider.prototype.initialize = ['invokeIfDefined',
+    function OrdinalScaleProvider() {}
+    OrdinalScaleProvider.prototype.initialize = ['invokeIfDefined',
         function(invokeIfDefined) {
             this.invokeIfDefined = invokeIfDefined;
         }
     ];
 
-    LinearScaleProvider.prototype.createScale = function(scaleParams) {
-        var scale = d3.scale.linear();
+    OrdinalScaleProvider.prototype.createScale = function(scaleParams) {
+        var scale = d3.scale.ordinal();
         var invoke = this.invokeIfDefined;
 
         if (scaleParams) {
             invoke(scaleParams, scale, 'domain');
             invoke(scaleParams, scale, 'range');
-            invoke(scaleParams, scale, 'rangeRound');
-            invoke(scaleParams, scale, 'clamp');
-            invoke(scaleParams, scale, 'ticks');
         }
 
         return scale;
     };
+
 })(angular);
