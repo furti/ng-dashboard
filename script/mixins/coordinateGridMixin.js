@@ -9,10 +9,11 @@
 
     function CoordinateGridMixin() {}
 
-    CoordinateGridMixin.prototype.initialize = ['scaleParser', 'invokeIfDefined',
-        function(scaleParser, invokeIfDefined) {
+    CoordinateGridMixin.prototype.initialize = ['scaleParser', 'invokeIfDefined', 'unitsParser',
+        function(scaleParser, invokeIfDefined, unitsParser) {
             this.scaleParser = scaleParser;
             this.invokeIfDefined = invokeIfDefined;
+            this.unitsParser = unitsParser;
         }
     ];
 
@@ -34,7 +35,7 @@
         invoke(raw, chart, 'renderVerticalGridLines');
 
         if (raw.xUnits) {
-            chart.xUnits(dc.units.ordinal);
+            chart.xUnits(this.unitsParser.parse(raw.xUnits));
         }
 
         if (raw.xAxis) {
