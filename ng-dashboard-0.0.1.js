@@ -246,9 +246,9 @@
                 scaleProviders[name] = provider;
             };
 
-            this.$get = ['widgetExpressionParser', '$injector',
+            this.$get = ['$injector',
 
-                function(widgetExpressionParser, $injector) {
+                function($injector) {
 
                     angular.forEach(scaleProviders, function(provider) {
                         if (provider.initialize) {
@@ -256,15 +256,14 @@
                         }
                     });
 
-                    return new ScaleParser(scaleProviders, widgetExpressionParser);
+                    return new ScaleParser(scaleProviders);
                 }
             ];
         }
     ]);
 
-    function ScaleParser(scaleProviders, widgetExpressionParser) {
+    function ScaleParser(scaleProviders) {
         this.scaleProviders = scaleProviders;
-        this.widgetExpressionParser = widgetExpressionParser;
     }
 
     ScaleParser.prototype.parse = function(scaleData) {
