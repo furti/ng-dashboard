@@ -21,9 +21,44 @@
 (function(angular, crossfilter) {
     var ngDasbhoard = angular.module('ngDashboard');
 
-    ngDasbhoard.directive('widgetGroup', [
+    ngDasbhoard.provider('widgetGroupLayout', [
 
         function() {
+
+            var layoutManagers = {};
+
+            this.registerLayoutManager = function(name, layoutManager) {
+                layoutManagers[name] = layoutManager;
+            };
+
+            this.$get = ['$injector',
+
+                function($inject) {
+                    angular.forEach(layoutManagers, function(layoutManager) {
+                        if (layoutManager.initialize) {
+                            $inject.invoke(layoutManager.initialize, layoutManager);
+                        }
+                    });
+
+                    return {
+                        handleLayout: function(widgetGroupElement, groupData) {
+                            var layout = (groupData.layout && groupData.layout.type) ? groupData.layout.type : 'flow';
+
+                            if (!layoutManagers[layout]) {
+                                throw 'No LayoutManager ' + layout + ' registered';
+                            }
+
+                            layoutManagers[layout].layout(widgetGroupElement, groupData);
+                        }
+                    };
+                }
+            ];
+        }
+    ]);
+
+    ngDasbhoard.directive('widgetGroup', ['widgetGroupLayout',
+
+        function(widgetGroupLayout) {
 
             return {
                 restrict: 'E',
@@ -76,8 +111,17 @@
                 ],
                 link: function(scope, element) {
                     element.addClass('widget-group');
+
+                    //call the layoutManager
+                    var groupDataWatch = scope.$watch('groupData', function(groupData) {
+                        if (groupData) {
+                            widgetGroupLayout.handleLayout(element, groupData);
+
+                            groupDataWatch();
+                        }
+                    });
                 },
-                templateUrl: './template/widgetGroup.html'
+                template: '<h3 ng-if="groupData.title">{{groupData.title}}</h3>'
             };
         }
     ]);

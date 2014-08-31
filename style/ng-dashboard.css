@@ -2,13 +2,17 @@
     padding: 20px;
     display: block;
 }
-.widget-container {
+widget-body {
+    display: block;
+}
+/**
+ * Flow Layout
+ */
+
+.widget-group-flow {
     display: flex;
     flex-wrap: wrap;
 }
-.widget {
+.widget-group-flow>.widget {
     margin-right: 20px;
-}
-widget-body {
-    display: block;
 }
