@@ -4,6 +4,7 @@
 }
 widget-body {
     display: block;
+    overflow: auto;
 }
 /**
  * Flow Layout
@@ -15,4 +16,23 @@ widget-body {
 }
 .widget-group-flow>.widget {
     margin-right: 20px;
+}
+/**
+ * Grid Layout
+ */
+@media (min-width: 768px) {
+    .widget-group-grid {
+        display: flex;
+        flex-direction: column;
+    }
+    .widget-group-grid>.widget-group-row {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .widget-group-grid>.widget-group-row>.widget-group-column {
+        padding-right: 20px;
+    }
+    .widget-group-grid>.widget-group-row>.widget-group-column:last-child {
+        padding-right: 0;
+    }
 }

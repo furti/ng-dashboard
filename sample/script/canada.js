@@ -345,12 +345,19 @@
         name: 'crime',
         title: 'Major Canadian City Crime Stats 1998-2011',
         dataUrl: './sample/data/crime.json ',
+        layout: {
+            type: 'grid',
+            rows: 1,
+            columns: 2
+        },
         widgets: [{
             name: 'canada',
             title: 'Crime Rate by City',
             type: 'svg',
             width: 600,
             height: 450,
+            gridRow: 0,
+            gridColumn: 0,
             elements: canadaSvg,
             overlays: [{
                 name: 'citycrime',
@@ -433,6 +440,8 @@
             type: 'barchart',
             width: 360,
             height: 180,
+            gridRow: 0,
+            gridColumn: 1,
             margins: {
                 top: 40,
                 right: 50,
@@ -474,7 +483,9 @@
             title: 'Homicide Incidents by Year',
             type: 'linechart',
             width: 360,
-            height: 150,
+            height: 175,
+            gridRow: 0,
+            gridColumn: 1,
             margins: {
                 top: 10,
                 right: 50,
