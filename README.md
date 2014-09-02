@@ -3,7 +3,8 @@ ng-dashboard
 
 Create dashboards with AngularJS
 
-See [furti.github.io/ng-dashboard](http://furti.github.io/ng-dashboard) for a live example
+See [furti.github.io/ng-dashboard](http://furti.github.io/ng-dashboard) for a live example and [Wiki](https://github.com/furti/ng-dashboard/wiki)
+for documentation.
 
 ###General
 ng-dashboard enables you to create dashboards with different widgets in about 10 lines of javascript code.
