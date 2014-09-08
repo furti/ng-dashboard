@@ -2,7 +2,7 @@ describe('Arraygroup Provider', function() {
 
     var crossfilterUtils,
         groupData = {
-            functionName: 'array',
+            type: 'array',
             parameters: {
                 value: 'v.val'
             }

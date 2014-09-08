@@ -11,7 +11,7 @@
             height: 200,
             dimension: 'd.eugroup',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: '1'
                 }
@@ -35,7 +35,7 @@
                 type: 'ordinal'
             },
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: '1'
                 }

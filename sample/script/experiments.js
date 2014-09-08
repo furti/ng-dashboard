@@ -16,7 +16,7 @@
             height: 200,
             dimension: 'd.Run',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: 'v.Speed * v.Run / 1000'
                 }
@@ -40,7 +40,7 @@
             height: 200,
             dimension: 'd.Run',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: 'v.Speed * v.Run / 1000'
                 }
@@ -62,7 +62,7 @@
             height: 200,
             dimension: '"run-" + d.Run',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: 'v.Speed * v.Run'
                 }
@@ -78,7 +78,7 @@
             height: 200,
             dimension: '"run-" + d.Run',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: 'v.Speed * v.Run'
                 }
@@ -93,7 +93,7 @@
             height: 200,
             dimension: '"run-" + d.Run',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: 'v.Speed * v.Run'
                 }
@@ -110,7 +110,7 @@
             height: 200,
             dimension: '"exp-" + d.Expt',
             group: {
-                functionName: 'array',
+                type: 'array',
                 parameters: {
                     value: 'v.Speed'
                 }
@@ -125,7 +125,7 @@
             height: 200,
             dimension: '[d.Run, d.Expt]',
             group: {
-                functionName: 'sum',
+                type: 'sum',
                 parameters: {
                     value: 'v.Speed'
                 }

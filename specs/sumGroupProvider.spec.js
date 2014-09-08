@@ -2,7 +2,7 @@ describe('Sumgroup Provider', function() {
 
     var crossfilterUtils,
         groupData = {
-            functionName: 'sum',
+            type: 'sum',
             parameters: {
                 value: 'v.val'
             }

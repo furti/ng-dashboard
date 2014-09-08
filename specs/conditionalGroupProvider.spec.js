@@ -2,7 +2,7 @@ describe('Conditionalgroup Provider', function() {
 
     var crossfilterUtils,
         groupData = {
-            functionName: 'conditional',
+            type: 'conditional',
             parameters: {
                 init: {
                     a: 0,
@@ -45,7 +45,7 @@ describe('Conditionalgroup Provider', function() {
         };
 
     var preGroupData = {
-        functionName: 'conditional',
+        type: 'conditional',
         parameters: {
             conditions: {
                 aCheck: 'v.type === "C"'
@@ -72,7 +72,7 @@ describe('Conditionalgroup Provider', function() {
     };
 
     var postGroupData = {
-        functionName: 'conditional',
+        type: 'conditional',
         parameters: {
             conditions: {
                 aCheck: 'v.type === "C"'

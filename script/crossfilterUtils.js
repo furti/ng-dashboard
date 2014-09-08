@@ -6,8 +6,8 @@
         function() {
             var groupFunctionProviders = {};
 
-            this.addGroupFunctionProvider = function(functionName, provider) {
-                groupFunctionProviders[functionName] = provider;
+            this.addGroupFunctionProvider = function(type, provider) {
+                groupFunctionProviders[type] = provider;
             };
 
 
@@ -34,11 +34,11 @@
                                 throw 'Expression is required to create crossfilter group';
                             }
 
-                            if (!groupFunctionProviders[groupData.functionName]) {
-                                throw 'No groupfunction provider for ' + groupData.functionName + ' registered';
+                            if (!groupFunctionProviders[groupData.type]) {
+                                throw 'No groupfunction provider for ' + groupData.type + ' registered';
                             }
 
-                            return groupFunctionProviders[groupData.functionName].buildGroup(groupData.parameters, groupData.debug);
+                            return groupFunctionProviders[groupData.type].buildGroup(groupData.parameters, groupData.debug);
                         }
                     };
                 }

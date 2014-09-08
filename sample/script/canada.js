@@ -232,7 +232,7 @@
     }];
 
     var crimeIncidentByYearGroup = {
-        functionName: 'conditional',
+        type: 'conditional',
         parameters: {
             init: {
                 totalCrimeRecords: 0,
@@ -291,7 +291,7 @@
     };
 
     var totalCrimeRateByYearGroup = {
-        functionName: 'conditional',
+        type: 'conditional',
         parameters: {
             init: {
                 totalCrimeRecords: 0,
