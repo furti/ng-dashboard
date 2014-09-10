@@ -65,14 +65,14 @@
                 scope: {
                     groupData: '=groupData'
                 },
-                controller: ['$scope', '$http',
-                    function($scope, $http) {
+                controller: ['$scope', '$http', 'crossfilterUtils',
+                    function($scope, $http, crossfitlerUtils) {
                         var initializers = [],
                             initialized = false;
 
                         this.registerWidgetInitializer = function(initializer) {
                             if (initialized) {
-                                initializer($scope.crossFilter);
+                                initializer($scope.crossFilter, $scope.namedGroups);
                             } else {
                                 initializers.push(initializer);
                             }
@@ -82,7 +82,7 @@
                             initialized = true;
 
                             for (var i in initializers) {
-                                initializers[i]($scope.crossFilter);
+                                initializers[i]($scope.crossFilter, $scope.namedGroups);
                             }
 
                             initializers.length = 0;
@@ -91,6 +91,7 @@
 
                         if (angular.isArray($scope.groupData.data)) {
                             $scope.crossFilter = crossfilter($scope.groupData.data);
+                            $scope.namedGroups = buildNamedGroups($scope.groupData.groups, $scope.crossFilter, crossfitlerUtils);
                             initializeWidgets();
                         } else if (angular.isString($scope.groupData.dataUrl)) {
                             $http({
@@ -99,6 +100,7 @@
                             })
                                 .success(function(data) {
                                     $scope.crossFilter = crossfilter(data);
+                                    $scope.namedGroups = buildNamedGroups($scope.groupData.groups, $scope.crossFilter, crossfitlerUtils);
                                     initializeWidgets();
                                 })
                                 .error(function(error) {
@@ -125,6 +127,35 @@
             };
         }
     ]);
+
+    function buildNamedGroups(groupsData, crossfilter, crossfitlerUtils) {
+        if (groupsData && crossfilter) {
+            var namedGroups = {};
+
+            angular.forEach(groupsData, function(groupData, groupName) {
+                if (!groupData.dimension) {
+                    throw 'A dimension is required for named groups';
+                }
+
+                if (!groupData.group) {
+                    throw 'A group is required for named groups';
+                }
+
+                var dimensionFunction = crossfitlerUtils.dimensionFunction(groupData.dimension);
+                var dimension = crossfilter.dimension(dimensionFunction);
+
+                var grouping = crossfitlerUtils.groupFunctions(groupData.group);
+                var group = dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
+
+                namedGroups[groupName] = {
+                    dimension: dimension,
+                    group: group
+                };
+            });
+
+            return namedGroups;
+        }
+    }
 })(angular, crossfilter);
 (function(angular) {
     var ngDashboard = angular.module('ngDashboard');
@@ -199,19 +230,24 @@
                     var widget, overlays;
                     element.addClass('widget');
 
-                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter) {
+                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter, namedGroups) {
                         var widgetBody = element.find('widget-body');
 
-                        widget = createWidget(widgetBody, scope.widgetData, crossFilter, widgetFactory);
+                        widget = createWidget(widgetBody, widgetFactory, {
+                            crossfilter: crossFilter,
+                            namedGroups: namedGroups,
+                            rawData: scope.widgetData
+                        });
 
                         if (scope.widgetData.overlays) {
                             overlays = [];
 
                             for (var i in scope.widgetData.overlays) {
-                                var overlayWidget = createWidget(widgetBody,
-                                    scope.widgetData.overlays[i],
-                                    crossFilter,
-                                    widgetFactory);
+                                var overlayWidget = createWidget(widgetBody, widgetFactory, {
+                                    crossfilter: crossFilter,
+                                    namedGroups: namedGroups,
+                                    rawData: scope.widgetData.overlays[i]
+                                });
 
                                 overlays.push(overlayWidget);
                             }
@@ -223,11 +259,8 @@
         }
     ]);
 
-    function createWidget(element, widgetData, crossFilter, widgetFactory) {
-        return widgetFactory.createWidget(element, widgetData.type, {
-            crossfilter: crossFilter,
-            rawData: widgetData
-        });
+    function createWidget(element, widgetFactory, widgetData) {
+        return widgetFactory.createWidget(element, widgetData.rawData.type, widgetData);
     }
 })(angular);
 (function(angular) {
@@ -612,7 +645,9 @@
 
 
         chart.dimension(dimension);
-        if (raw.group.name) {
+        if (raw.namedGroup && raw.namedGroup.name) {
+            chart.group(group, raw.namedGroup.name);
+        } else if (raw.group && raw.group.name) {
             chart.group(group, raw.group.name);
         } else {
             chart.group(group);
@@ -669,15 +704,33 @@
     };
 
     BaseChartMixin.prototype.buildDimension = function(widgetData) {
-        var crossfilter = widgetData.crossfilter;
-        var dimensionFunction = this.crossfilterUtils.dimensionFunction(widgetData.rawData.dimension);
+        if (widgetData.rawData.namedGroup) {
+            var groupName = widgetData.rawData.namedGroup.group;
+            if (!widgetData.namedGroups || !widgetData.namedGroups[groupName]) {
+                throw 'No named group ' + groupName + ' defined';
+            }
 
-        return crossfilter.dimension(dimensionFunction);
+            return widgetData.namedGroups[groupName].dimension;
+        } else {
+            var crossfilter = widgetData.crossfilter;
+            var dimensionFunction = this.crossfilterUtils.dimensionFunction(widgetData.rawData.dimension);
+
+            return crossfilter.dimension(dimensionFunction);
+        }
     };
 
     BaseChartMixin.prototype.buildGroup = function(dimension, widgetData) {
-        var grouping = this.crossfilterUtils.groupFunctions(widgetData.rawData.group);
-        return dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
+        if (widgetData.rawData.namedGroup) {
+            var groupName = widgetData.rawData.namedGroup.group;
+            if (!widgetData.namedGroups || !widgetData.namedGroups[groupName]) {
+                throw 'No named group ' + groupName + ' defined';
+            }
+
+            return widgetData.namedGroups[groupName].group;
+        } else {
+            var grouping = this.crossfilterUtils.groupFunctions(widgetData.rawData.group);
+            return dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
+        }
     };
 })(angular);
 (function(angular) {

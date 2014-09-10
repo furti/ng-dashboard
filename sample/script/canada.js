@@ -350,6 +350,12 @@
             rows: 1,
             columns: 2
         },
+        groups: {
+            'crimeIncidentByYear': {
+                dimension: 'd.year',
+                group: crimeIncidentByYearGroup
+            }
+        },
         widgets: [{
             name: 'canada',
             title: 'Crime Rate by City',
@@ -448,10 +454,10 @@
                 bottom: 30,
                 left: 60
             },
-            dimension: 'd.year',
-            group: angular.extend({
+            namedGroup: {
+                group: 'crimeIncidentByYear',
                 name: 'Non - Violent Crime'
-            }, crimeIncidentByYearGroup),
+            },
             valueAccessor: 'd.value.nonViolentCrimeAvg',
             stacks: [
                 angular.extend({
@@ -492,8 +498,9 @@
                 bottom: 30,
                 left: 60
             },
-            dimension: 'd.year',
-            group: crimeIncidentByYearGroup,
+            namedGroup: {
+                group: 'crimeIncidentByYear'
+            },
             valueAccessor: 'd.value.homicide',
             x: {
                 type: 'linear',

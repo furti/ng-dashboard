@@ -71,19 +71,24 @@
                     var widget, overlays;
                     element.addClass('widget');
 
-                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter) {
+                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter, namedGroups) {
                         var widgetBody = element.find('widget-body');
 
-                        widget = createWidget(widgetBody, scope.widgetData, crossFilter, widgetFactory);
+                        widget = createWidget(widgetBody, widgetFactory, {
+                            crossfilter: crossFilter,
+                            namedGroups: namedGroups,
+                            rawData: scope.widgetData
+                        });
 
                         if (scope.widgetData.overlays) {
                             overlays = [];
 
                             for (var i in scope.widgetData.overlays) {
-                                var overlayWidget = createWidget(widgetBody,
-                                    scope.widgetData.overlays[i],
-                                    crossFilter,
-                                    widgetFactory);
+                                var overlayWidget = createWidget(widgetBody, widgetFactory, {
+                                    crossfilter: crossFilter,
+                                    namedGroups: namedGroups,
+                                    rawData: scope.widgetData.overlays[i]
+                                });
 
                                 overlays.push(overlayWidget);
                             }
@@ -95,10 +100,7 @@
         }
     ]);
 
-    function createWidget(element, widgetData, crossFilter, widgetFactory) {
-        return widgetFactory.createWidget(element, widgetData.type, {
-            crossfilter: crossFilter,
-            rawData: widgetData
-        });
+    function createWidget(element, widgetFactory, widgetData) {
+        return widgetFactory.createWidget(element, widgetData.rawData.type, widgetData);
     }
 })(angular);

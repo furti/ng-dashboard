@@ -25,7 +25,9 @@
 
 
         chart.dimension(dimension);
-        if (raw.group.name) {
+        if (raw.namedGroup && raw.namedGroup.name) {
+            chart.group(group, raw.namedGroup.name);
+        } else if (raw.group && raw.group.name) {
             chart.group(group, raw.group.name);
         } else {
             chart.group(group);
@@ -82,14 +84,32 @@
     };
 
     BaseChartMixin.prototype.buildDimension = function(widgetData) {
-        var crossfilter = widgetData.crossfilter;
-        var dimensionFunction = this.crossfilterUtils.dimensionFunction(widgetData.rawData.dimension);
+        if (widgetData.rawData.namedGroup) {
+            var groupName = widgetData.rawData.namedGroup.group;
+            if (!widgetData.namedGroups || !widgetData.namedGroups[groupName]) {
+                throw 'No named group ' + groupName + ' defined';
+            }
 
-        return crossfilter.dimension(dimensionFunction);
+            return widgetData.namedGroups[groupName].dimension;
+        } else {
+            var crossfilter = widgetData.crossfilter;
+            var dimensionFunction = this.crossfilterUtils.dimensionFunction(widgetData.rawData.dimension);
+
+            return crossfilter.dimension(dimensionFunction);
+        }
     };
 
     BaseChartMixin.prototype.buildGroup = function(dimension, widgetData) {
-        var grouping = this.crossfilterUtils.groupFunctions(widgetData.rawData.group);
-        return dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
+        if (widgetData.rawData.namedGroup) {
+            var groupName = widgetData.rawData.namedGroup.group;
+            if (!widgetData.namedGroups || !widgetData.namedGroups[groupName]) {
+                throw 'No named group ' + groupName + ' defined';
+            }
+
+            return widgetData.namedGroups[groupName].group;
+        } else {
+            var grouping = this.crossfilterUtils.groupFunctions(widgetData.rawData.group);
+            return dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
+        }
     };
 })(angular);

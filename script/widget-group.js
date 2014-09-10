@@ -45,14 +45,14 @@
                 scope: {
                     groupData: '=groupData'
                 },
-                controller: ['$scope', '$http',
-                    function($scope, $http) {
+                controller: ['$scope', '$http', 'crossfilterUtils',
+                    function($scope, $http, crossfitlerUtils) {
                         var initializers = [],
                             initialized = false;
 
                         this.registerWidgetInitializer = function(initializer) {
                             if (initialized) {
-                                initializer($scope.crossFilter);
+                                initializer($scope.crossFilter, $scope.namedGroups);
                             } else {
                                 initializers.push(initializer);
                             }
@@ -62,7 +62,7 @@
                             initialized = true;
 
                             for (var i in initializers) {
-                                initializers[i]($scope.crossFilter);
+                                initializers[i]($scope.crossFilter, $scope.namedGroups);
                             }
 
                             initializers.length = 0;
@@ -71,6 +71,7 @@
 
                         if (angular.isArray($scope.groupData.data)) {
                             $scope.crossFilter = crossfilter($scope.groupData.data);
+                            $scope.namedGroups = buildNamedGroups($scope.groupData.groups, $scope.crossFilter, crossfitlerUtils);
                             initializeWidgets();
                         } else if (angular.isString($scope.groupData.dataUrl)) {
                             $http({
@@ -79,6 +80,7 @@
                             })
                                 .success(function(data) {
                                     $scope.crossFilter = crossfilter(data);
+                                    $scope.namedGroups = buildNamedGroups($scope.groupData.groups, $scope.crossFilter, crossfitlerUtils);
                                     initializeWidgets();
                                 })
                                 .error(function(error) {
@@ -105,4 +107,33 @@
             };
         }
     ]);
+
+    function buildNamedGroups(groupsData, crossfilter, crossfitlerUtils) {
+        if (groupsData && crossfilter) {
+            var namedGroups = {};
+
+            angular.forEach(groupsData, function(groupData, groupName) {
+                if (!groupData.dimension) {
+                    throw 'A dimension is required for named groups';
+                }
+
+                if (!groupData.group) {
+                    throw 'A group is required for named groups';
+                }
+
+                var dimensionFunction = crossfitlerUtils.dimensionFunction(groupData.dimension);
+                var dimension = crossfilter.dimension(dimensionFunction);
+
+                var grouping = crossfitlerUtils.groupFunctions(groupData.group);
+                var group = dimension.group().reduce(grouping.add, grouping.remove, grouping.init);
+
+                namedGroups[groupName] = {
+                    dimension: dimension,
+                    group: group
+                };
+            });
+
+            return namedGroups;
+        }
+    }
 })(angular, crossfilter);
