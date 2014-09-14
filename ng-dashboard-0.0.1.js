@@ -123,7 +123,8 @@
                         }
                     });
                 },
-                template: '<h3 ng-if="groupData.title">{{groupData.title}}</h3>'
+                template: '<h3 ng-if="groupData.title">{{groupData.title}}</h3>' +
+                    '<filter filter-data="groupFilter" crossfilter="crossFilter" ng-repeat="groupFilter in groupData.filters"></filter>'
             };
         }
     ]);
@@ -392,6 +393,26 @@
                             }
 
                             return groupFunctionProviders[groupData.type].buildGroup(groupData.parameters, groupData.debug);
+                        },
+                        getDistinctValuesFromDimension: function(dimension) {
+                            if (!dimension) {
+                                return [];
+                            }
+
+                            var group = dimension.group();
+                            var allValues = group.all();
+                            var valueArray = [];
+
+
+                            if (allValues) {
+                                for (var index in allValues) {
+                                    valueArray.push(allValues[index].key);
+                                }
+                            }
+
+                            group.dispose();
+
+                            return valueArray;
                         }
                     };
                 }

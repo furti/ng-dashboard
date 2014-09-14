@@ -103,7 +103,8 @@
                         }
                     });
                 },
-                template: '<h3 ng-if="groupData.title">{{groupData.title}}</h3>'
+                template: '<h3 ng-if="groupData.title">{{groupData.title}}</h3>' +
+                    '<filter filter-data="groupFilter" crossfilter="crossFilter" ng-repeat="groupFilter in groupData.filters"></filter>'
             };
         }
     ]);

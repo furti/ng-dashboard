@@ -9,6 +9,11 @@
     var experimentGroup = {
         title: 'Sample Data',
         dataUrl: './sample/data/data.json',
+        filters: [{
+            title: 'Experiments',
+            type: 'select',
+            dimension: 'd.Expt'
+        }],
         widgets: [{
             title: 'Line Chart',
             type: 'linechart',

@@ -39,6 +39,26 @@
                             }
 
                             return groupFunctionProviders[groupData.type].buildGroup(groupData.parameters, groupData.debug);
+                        },
+                        getDistinctValuesFromDimension: function(dimension) {
+                            if (!dimension) {
+                                return [];
+                            }
+
+                            var group = dimension.group();
+                            var allValues = group.all();
+                            var valueArray = [];
+
+
+                            if (allValues) {
+                                for (var index in allValues) {
+                                    valueArray.push(allValues[index].key);
+                                }
+                            }
+
+                            group.dispose();
+
+                            return valueArray;
                         }
                     };
                 }
