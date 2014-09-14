@@ -9,7 +9,7 @@
 
     var template = '<label>{{filterData.title}}</label>' +
         '<select ng-model="selected" ng-options="value for value in values" ng-change="filterChanged()">' +
-        '<option value=""></option>' +
+        '<option value="">{{filterData.allTitle}}</option>' +
         '</select>';
 
     function SelectFilter() {}

@@ -11,6 +11,7 @@
         dataUrl: './sample/data/data.json',
         filters: [{
             title: 'Experiments',
+            allTitle: 'All',
             type: 'select',
             dimension: 'd.Expt'
         }],

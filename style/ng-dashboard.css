@@ -2,9 +2,27 @@
     padding: 20px;
     display: block;
 }
+.widget-group-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.widget-group-header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 20px;
+}
 widget-body {
     display: block;
     overflow: auto;
+}
+/**
+ * Filters
+ */
+
+.group-filter.select label {
+    margin-right: 5px;
+    margin-bottom: 0;
 }
 /**
  * Flow Layout
@@ -20,6 +38,7 @@ widget-body {
 /**
  * Grid Layout
  */
+
 @media (min-width: 768px) {
     .widget-group-grid {
         display: flex;
