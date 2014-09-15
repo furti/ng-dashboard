@@ -3,6 +3,11 @@
         title: 'Members of the European parliament',
         name: 'europe',
         dataUrl: './sample/data/europe.json',
+        filters: [{
+            type: 'checkbox',
+            dimension: 'd.gender',
+            labelAccessor: 'v === "M" ? "Male" : "Female"'
+        }],
         widgets: [{
             title: 'By Group',
             name: 'group',

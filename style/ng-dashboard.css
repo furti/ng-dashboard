@@ -24,6 +24,10 @@ widget-body {
     margin-right: 5px;
     margin-bottom: 0;
 }
+.group-filter.checkbox input,
+.group-filter.checkbox label{
+    margin-left: 5px;
+}
 /**
  * Flow Layout
  */
