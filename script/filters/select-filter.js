@@ -38,7 +38,7 @@
             } else {
                 dimension.filter(filterScope.selected);
             }
-            dc.renderAll();
+            dc.redrawAll();
         };
 
         this.$compile(filterElement)(filterScope);

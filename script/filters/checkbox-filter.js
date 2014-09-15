@@ -46,7 +46,7 @@
                 return data.appliedFilters._filtercount_ === 0 || data.appliedFilters[d];
             });
 
-            dc.renderAll();
+            dc.redrawAll();
         };
 
         this.$compile(filterElement)(filterScope);
