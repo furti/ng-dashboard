@@ -21,7 +21,7 @@
     ];
 
     BarChartProvider.prototype.createWidget = function(element, widgetData) {
-        var barChart = dc.barChart(element[0]);
+        var barChart = dc.barChart(element[0], widgetData.widgetGroupName);
         var invoke = this.invokeIfDefined;
         var raw = widgetData.rawData;
 

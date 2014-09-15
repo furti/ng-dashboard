@@ -20,7 +20,7 @@
     ];
 
     HeatmapProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.heatMap(element[0]);
+        var chart = dc.heatMap(element[0], widgetData.widgetGroupName);
 
         this.baseChartMixin.configureChart(chart, widgetData);
         this.coordinateGridMixin.configureChart(chart, widgetData);

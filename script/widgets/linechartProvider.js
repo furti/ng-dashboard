@@ -21,7 +21,7 @@
     ];
 
     LineChartProvider.prototype.createWidget = function(element, widgetData) {
-        var lineChart = dc.lineChart(element[0]);
+        var lineChart = dc.lineChart(element[0], widgetData.widgetGroupName);
 
         this.baseChartMixin.configureChart(lineChart, widgetData);
         this.stackMixin.configureChart(lineChart, widgetData);

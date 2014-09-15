@@ -72,7 +72,7 @@
 
                         this.registerWidgetInitializer = function(initializer) {
                             if (initialized) {
-                                initializer($scope.crossFilter, $scope.namedGroups);
+                                initializer($scope.crossFilter, $scope.namedGroups, $scope.groupData.name);
                             } else {
                                 initializers.push(initializer);
                             }
@@ -82,7 +82,7 @@
                             initialized = true;
 
                             for (var i in initializers) {
-                                initializers[i]($scope.crossFilter, $scope.namedGroups);
+                                initializers[i]($scope.crossFilter, $scope.namedGroups, $scope.groupData.name);
                             }
 
                             initializers.length = 0;
@@ -125,7 +125,7 @@
                 },
                 template: '<div class="widget-group-header">' +
                     '<h3 ng-if="groupData.title">{{groupData.title}}</h3>' +
-                    '<filter filter-data="groupFilter" ng-class="groupFilter.type" class="group-filter" crossfilter="crossFilter" ng-repeat="groupFilter in groupData.filters"></filter>' +
+                    '<filter filter-data="groupFilter" widget-group-name="groupData.name" ng-class="groupFilter.type" class="group-filter" crossfilter="crossFilter" ng-repeat="groupFilter in groupData.filters"></filter>' +
                     '</div>'
             };
         }
@@ -225,21 +225,25 @@
             return {
                 restrict: 'E',
                 scope: {
-                    widgetData: '=widgetData',
-                    crossFilter: '=crossFilter'
+                    widgetData: '=widgetData'
                 },
                 require: '^widgetGroup',
                 link: function(scope, element, attrs, widgetGroupCtrl) {
                     var widget, overlays;
                     element.addClass('widget');
 
-                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter, namedGroups) {
+                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter, namedGroups, widgetGroupName) {
+                        if (!widgetGroupName) {
+                            throw 'widget-group name is required for charts';
+                        }
+
                         var widgetBody = element.find('widget-body');
 
                         widget = createWidget(widgetBody, widgetFactory, {
                             crossfilter: crossFilter,
                             namedGroups: namedGroups,
-                            rawData: scope.widgetData
+                            rawData: scope.widgetData,
+                            widgetGroupName: widgetGroupName
                         });
 
                         if (scope.widgetData.overlays) {
@@ -249,7 +253,8 @@
                                 var overlayWidget = createWidget(widgetBody, widgetFactory, {
                                     crossfilter: crossFilter,
                                     namedGroups: namedGroups,
-                                    rawData: scope.widgetData.overlays[i]
+                                    rawData: scope.widgetData.overlays[i],
+                                    widgetGroupName: widgetGroupName
                                 });
 
                                 overlays.push(overlayWidget);
@@ -445,7 +450,7 @@
     ];
 
     BarChartProvider.prototype.createWidget = function(element, widgetData) {
-        var barChart = dc.barChart(element[0]);
+        var barChart = dc.barChart(element[0], widgetData.widgetGroupName);
         var invoke = this.invokeIfDefined;
         var raw = widgetData.rawData;
 
@@ -484,7 +489,7 @@
     ];
 
     BoxPlotProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.boxPlot(element[0]);
+        var chart = dc.boxPlot(element[0], widgetData.widgetGroupName);
 
         this.baseChartMixin.configureChart(chart, widgetData);
         this.coordinateGridMixin.configureChart(chart, widgetData);
@@ -518,7 +523,7 @@
     ];
 
     HeatmapProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.heatMap(element[0]);
+        var chart = dc.heatMap(element[0], widgetData.widgetGroupName);
 
         this.baseChartMixin.configureChart(chart, widgetData);
         this.coordinateGridMixin.configureChart(chart, widgetData);
@@ -553,7 +558,7 @@
     ];
 
     LineChartProvider.prototype.createWidget = function(element, widgetData) {
-        var lineChart = dc.lineChart(element[0]);
+        var lineChart = dc.lineChart(element[0], widgetData.widgetGroupName);
 
         this.baseChartMixin.configureChart(lineChart, widgetData);
         this.stackMixin.configureChart(lineChart, widgetData);
@@ -590,7 +595,7 @@
     ];
 
     PieChartProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.pieChart(element[0]);
+        var chart = dc.pieChart(element[0], widgetData.widgetGroupName);
         var invoke = this.invokeIfDefined;
         var raw = widgetData.rawData;
 
@@ -663,9 +668,9 @@
     BaseChartMixin.prototype.configureChart = function(chart, widgetData) {
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
+
         var dimension = this.buildDimension(widgetData);
         var group = this.buildGroup(dimension, widgetData);
-
 
         chart.dimension(dimension);
         if (raw.namedGroup && raw.namedGroup.name) {

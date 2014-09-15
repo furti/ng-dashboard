@@ -52,7 +52,7 @@
 
                         this.registerWidgetInitializer = function(initializer) {
                             if (initialized) {
-                                initializer($scope.crossFilter, $scope.namedGroups);
+                                initializer($scope.crossFilter, $scope.namedGroups, $scope.groupData.name);
                             } else {
                                 initializers.push(initializer);
                             }
@@ -62,7 +62,7 @@
                             initialized = true;
 
                             for (var i in initializers) {
-                                initializers[i]($scope.crossFilter, $scope.namedGroups);
+                                initializers[i]($scope.crossFilter, $scope.namedGroups, $scope.groupData.name);
                             }
 
                             initializers.length = 0;
@@ -105,7 +105,7 @@
                 },
                 template: '<div class="widget-group-header">' +
                     '<h3 ng-if="groupData.title">{{groupData.title}}</h3>' +
-                    '<filter filter-data="groupFilter" ng-class="groupFilter.type" class="group-filter" crossfilter="crossFilter" ng-repeat="groupFilter in groupData.filters"></filter>' +
+                    '<filter filter-data="groupFilter" widget-group-name="groupData.name" ng-class="groupFilter.type" class="group-filter" crossfilter="crossFilter" ng-repeat="groupFilter in groupData.filters"></filter>' +
                     '</div>'
             };
         }

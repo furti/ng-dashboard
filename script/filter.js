@@ -19,7 +19,7 @@
 
 
                 return {
-                    buildFilter: function(element, filterData, crossfilter) {
+                    buildFilter: function(element, filterData, crossfilter, widgetGroupName) {
                         if (!filterData.type) {
                             throw 'A Filtertype is required';
                         }
@@ -28,7 +28,7 @@
                             throw 'No widgetGroupFilterProvider ' + filterData.type + ' registered';
                         }
 
-                        filterProviders[filterData.type].buildFilter(element, filterData, crossfilter);
+                        filterProviders[filterData.type].buildFilter(element, filterData, crossfilter, widgetGroupName);
                     }
                 };
             }
@@ -42,12 +42,13 @@
                 restrict: 'E',
                 scope: {
                     filterData: '=filterData',
-                    crossfilter: '=crossfilter'
+                    crossfilter: '=crossfilter',
+                    widgetGroupName: '=widgetGroupName'
                 },
                 link: function(scope, element) {
                     var filterWatch = scope.$watch('crossfilter', function(crossfilter) {
                         if (crossfilter) {
-                            widgetGroupFilter.buildFilter(element, scope.filterData, crossfilter);
+                            widgetGroupFilter.buildFilter(element, scope.filterData, crossfilter, scope.widgetGroupName);
 
                             filterWatch();
                         }

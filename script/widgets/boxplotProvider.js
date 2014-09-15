@@ -19,7 +19,7 @@
     ];
 
     BoxPlotProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.boxPlot(element[0]);
+        var chart = dc.boxPlot(element[0], widgetData.widgetGroupName);
 
         this.baseChartMixin.configureChart(chart, widgetData);
         this.coordinateGridMixin.configureChart(chart, widgetData);

@@ -22,7 +22,7 @@
         }
     ];
 
-    SelectFilter.prototype.buildFilter = function(element, filterData, crossfilter) {
+    SelectFilter.prototype.buildFilter = function(element, filterData, crossfilter, widgetGroupName) {
         var filterElement = angular.element(template);
         element.append(filterElement);
 
@@ -38,7 +38,7 @@
             } else {
                 dimension.filter(filterScope.selected);
             }
-            dc.redrawAll();
+            dc.redrawAll(widgetGroupName);
         };
 
         this.$compile(filterElement)(filterScope);

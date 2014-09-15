@@ -23,7 +23,7 @@
         }
     ];
 
-    CheckboxFilter.prototype.buildFilter = function(element, filterData, crossfilter) {
+    CheckboxFilter.prototype.buildFilter = function(element, filterData, crossfilter, widgetGroupName) {
         var dimension = crossfilter.dimension(this.crossfilterUtils.dimensionFunction(filterData.dimension));
         var data = this.setupData(filterData, dimension);
 
@@ -46,7 +46,7 @@
                 return data.appliedFilters._filtercount_ === 0 || data.appliedFilters[d];
             });
 
-            dc.redrawAll();
+            dc.redrawAll(widgetGroupName);
         };
 
         this.$compile(filterElement)(filterScope);

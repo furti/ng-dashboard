@@ -63,21 +63,25 @@
             return {
                 restrict: 'E',
                 scope: {
-                    widgetData: '=widgetData',
-                    crossFilter: '=crossFilter'
+                    widgetData: '=widgetData'
                 },
                 require: '^widgetGroup',
                 link: function(scope, element, attrs, widgetGroupCtrl) {
                     var widget, overlays;
                     element.addClass('widget');
 
-                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter, namedGroups) {
+                    widgetGroupCtrl.registerWidgetInitializer(function(crossFilter, namedGroups, widgetGroupName) {
+                        if (!widgetGroupName) {
+                            throw 'widget-group name is required for charts';
+                        }
+
                         var widgetBody = element.find('widget-body');
 
                         widget = createWidget(widgetBody, widgetFactory, {
                             crossfilter: crossFilter,
                             namedGroups: namedGroups,
-                            rawData: scope.widgetData
+                            rawData: scope.widgetData,
+                            widgetGroupName: widgetGroupName
                         });
 
                         if (scope.widgetData.overlays) {
@@ -87,7 +91,8 @@
                                 var overlayWidget = createWidget(widgetBody, widgetFactory, {
                                     crossfilter: crossFilter,
                                     namedGroups: namedGroups,
-                                    rawData: scope.widgetData.overlays[i]
+                                    rawData: scope.widgetData.overlays[i],
+                                    widgetGroupName: widgetGroupName
                                 });
 
                                 overlays.push(overlayWidget);

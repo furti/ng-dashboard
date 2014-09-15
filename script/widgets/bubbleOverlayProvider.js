@@ -19,7 +19,7 @@
     ];
 
     BubbleOverlayProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.bubbleOverlay(element[0]),
+        var chart = dc.bubbleOverlay(element[0], widgetData.widgetGroupName),
             raw = widgetData.rawData;
 
         chart.svg(d3.select(element.find('svg')[0]));

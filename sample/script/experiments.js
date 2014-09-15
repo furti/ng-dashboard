@@ -8,6 +8,7 @@
 
     var experimentGroup = {
         title: 'Sample Data',
+        name: 'sample',
         dataUrl: './sample/data/data.json',
         filters: [{
             title: 'Experiments',

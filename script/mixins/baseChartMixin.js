@@ -20,9 +20,9 @@
     BaseChartMixin.prototype.configureChart = function(chart, widgetData) {
         var raw = widgetData.rawData;
         var invoke = this.invokeIfDefined;
+
         var dimension = this.buildDimension(widgetData);
         var group = this.buildGroup(dimension, widgetData);
-
 
         chart.dimension(dimension);
         if (raw.namedGroup && raw.namedGroup.name) {

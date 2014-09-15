@@ -18,7 +18,7 @@
     ];
 
     PieChartProvider.prototype.createWidget = function(element, widgetData) {
-        var chart = dc.pieChart(element[0]);
+        var chart = dc.pieChart(element[0], widgetData.widgetGroupName);
         var invoke = this.invokeIfDefined;
         var raw = widgetData.rawData;
 
