@@ -28,7 +28,7 @@
             }
         }, {
             title: 'By Country',
-            name: 'coountry',
+            name: 'country',
             type: 'barchart',
             width: 544,
             height: 200,
@@ -48,7 +48,7 @@
             margins: {
                 top: 10,
                 right: 10,
-                bottom: 95,
+                bottom: 20,
                 left: 50
             },
             elasticY: true,
