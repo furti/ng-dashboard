@@ -1,12 +1,12 @@
 /**
  * Copyright 2014 Daniel Furtlehner
- * 
+ *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
- * 
+ *
  *     http://www.apache.org/licenses/LICENSE-2.0
- * 
+ *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -77,7 +77,7 @@
                             initialized = true;
 
                             for (var i in initializers) {
-                                initializers[i]($scope.crossFilter, $scope.namedGroups, $scope.groupData.name);
+                                initializers[i]($scope.crossFilter, $scope.namedGroups, $scope.groupData.name, $scope.rawData);
                             }
 
                             initializers.length = 0;
@@ -85,6 +85,7 @@
 
 
                         if (angular.isArray($scope.groupData.data)) {
+                            $scope.rawData = $scope.groupData.data;
                             $scope.crossFilter = crossfilter($scope.groupData.data);
                             $scope.namedGroups = buildNamedGroups($scope.groupData.groups, $scope.crossFilter, crossfitlerUtils);
                             initializeWidgets();
@@ -94,6 +95,7 @@
                                 url: $scope.groupData.dataUrl
                             })
                                 .success(function(data) {
+                                    $scope.rawData = data;
                                     $scope.crossFilter = crossfilter(data);
                                     $scope.namedGroups = buildNamedGroups($scope.groupData.groups, $scope.crossFilter, crossfitlerUtils);
                                     initializeWidgets();
