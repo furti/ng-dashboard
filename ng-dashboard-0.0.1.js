@@ -419,7 +419,13 @@
                         }
                     });
                 },
-                templateUrl: './template/widget.html'
+                template: '<div class="panel panel-default">' +
+                    '<div class="panel-heading" ng-if="widgetData.title">' +
+                    '<h3 class="panel-title">{{widgetData.title}}</h3>' +
+                    '</div>' +
+                    '<widget-body class="panel-body">' +
+                    '</widget-body>' +
+                    '< /div>'
             };
         }
     ]);
