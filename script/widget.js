@@ -122,7 +122,7 @@
                     '</div>' +
                     '<widget-body class="panel-body">' +
                     '</widget-body>' +
-                    '< /div>'
+                    '</div>'
             };
         }
     ]);
